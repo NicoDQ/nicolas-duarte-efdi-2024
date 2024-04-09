@@ -1,6 +1,6 @@
 # Sobre mi
 
-![](../images/foto-about-me.jpg)
+![](../images/foto-about-me.JPG)
 
 Mi nombre es Nicolás Duarte, pero la mayoría me llama como Nico. Desde una edad temprana, me apasiona el mundo de la tecnología, y esta pasión me ha llevado a convertirla en mi profesión. Tengo  formación como Licenciado en Tecnologías de la Información, si bien es un área muy grande, personalmente me gustan la Ciberseguridad y la Programación, por lo que siempre invierto tiempo en explorar y actualizarme en dichas áreas.
 
