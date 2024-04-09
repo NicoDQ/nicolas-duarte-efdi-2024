@@ -15,4 +15,4 @@ En resumen, soy un apasionado de la tecnología con formación académica y gust
 
 
 
-Dejo por aquí mi LinkedIn **[my website](https://www.linkedin.com/in/nduarteq/)**
+Dejo por aquí mi LinkedIn **[LinkedIn](https://www.linkedin.com/in/nduarteq/)**
