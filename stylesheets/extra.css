@@ -46,3 +46,7 @@
   --md-primary-fg-color--light: rgb(37, 243, 202);
   --md-primary-fg-color--dark:  #0c453aff;
 }
+
+img[src*="#fotome"] {
+  border-radius:10%;
+}
