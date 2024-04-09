@@ -1,6 +1,6 @@
 # Sobre mi
 
-![](../images/fotome.jpg)
+![Foto](../images/fotome.jpg#fotome)
 <img src="../images/fotome.jpg" alt="Imagen personal." style="border-radius: 20%;">
 
 
@@ -16,4 +16,4 @@ En resumen, soy un apasionado de la tecnología con formación académica y gust
 
 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit **[my website](https://community.emergentfutures.io/courses/5566525/content)**
+Dejo por aquí mi LinkedIn **[my website](https://www.linkedin.com/in/nduarteq/)**
