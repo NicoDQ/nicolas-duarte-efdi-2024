@@ -3,9 +3,9 @@ site_name: Nicolás Duarte - UTEC & Fab Lab Barcelona
 site_description: Especialización en Fabricación Digital e Innovación
 site_author: Nicolás Duarte
 copyright: Copyleft 2024 "Nicolás Duarte" - GNU Free Documentation License
-repo_name: 'Name : Github Repo'
-site_url: https://fablabbcn.github.io/efdi-template/
-repo_url: https://github.com/fablabbcn/efdi-template
+repo_name: 'Github Repo'
+site_url: https://nicodq.github.io/nicolas-duarte-efdi-2024/
+repo_url: https://github.com/NicoDQ/nicolas-duarte-efdi-2024
 
 
 nav:
