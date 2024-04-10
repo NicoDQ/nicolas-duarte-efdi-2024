@@ -15,6 +15,6 @@ En resumen, soy un apasionado de la tecnología con formación académica y gust
 
 
 # Links de Interés
-## LinkedIn: *[ @nduarteq](https://www.linkedin.com/in/nduarteq/)*
-## MakerWorld: *[ @nduarteq](https://www.linkedin.com/in/nduarteq/)*
-## GitHub: *[ @nicodq] (https://github.com/NicoDQ)*
+## LinkedIn: *[@nduarteq](https://www.linkedin.com/in/nduarteq/)*
+## MakerWorld: *[@nduarteq](https://www.linkedin.com/in/nduarteq/)*
+## GitHub: *[@nicodq] (https://github.com/NicoDQ)*
