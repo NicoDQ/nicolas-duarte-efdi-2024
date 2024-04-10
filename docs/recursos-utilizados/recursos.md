@@ -29,5 +29,7 @@ Para el logo de la web, utilicé dos recursos, el primero es la documentación d
 Para cambiar la barra de búsqueda para español utilicé:
 ### Cambiar idioma de plugin search: *https://squidfunk.github.io/mkdocs-material/plugins/search/*
 ### Cambiar de idioma la web entera: *https://fgcoca.github.io/Como-documento/Libreria-Material/*
+Para utilizar links o enlaces en Markdown utilicé:
+### Utilizar links o enlaces en Markdown: *https://nicodq.github.io/nicolas-duarte-efdi-2024/*
 
 
