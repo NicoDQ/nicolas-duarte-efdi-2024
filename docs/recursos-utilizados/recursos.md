@@ -22,4 +22,8 @@ A la hora de modificar el yaml, consulté la documentación oficial en busca de 
 ### Documentación de YAML: *https://yaml.org/spec/1.2.2/* 
 Para redondear la imagen de la sección Sobre mí utilicé el siguiente tutorial para aplicar css al componente de md:
 ### Aplicar Estilos en Markdown: *https://dzone.com/articles/how-to-style-images-with-markdown*
+Para el logo de la web, utilicé dos recursos, el primero es la documentación de mkdocks y luego la web Flaticon para descargar un archivo en .png que me funcionará de icono:
+### Cambiar logo e iconos en Markdown: *https://squidfunk.github.io/mkdocs-material/setup/changing-the-logo-and-icons/*
+### Favicon: *https://www.flaticon.es/*
+
 
