@@ -48,8 +48,7 @@ theme:
     # See available fonts at https://fonts.google.com/
     text: Be Vietnam
     code: Cutive Mono
-  icon:
-    logo: material/memory
+    logo: images/isotipo-utec.png
   favicon: images/logoweb.png
   features:
     - instant
