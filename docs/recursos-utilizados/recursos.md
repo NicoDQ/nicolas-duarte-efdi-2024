@@ -26,5 +26,7 @@ Para el logo de la web, utilicé dos recursos, el primero es la documentación d
 ### Cambiar logo e iconos en Markdown: *https://squidfunk.github.io/mkdocs-material/setup/changing-the-logo-and-icons/*
 ### Cambiar logo e iconos en Markdown 2: *https://squidfunk.github.io/mkdocs-material/setup/changing-the-logo-and-icons/#logo-icon-bundled*
 ### Favicon: *https://www.flaticon.es/*
+Para cambiar la barra de búsqueda para español utilicé:
+### Cambiar idioma de plugin search: *https://squidfunk.github.io/mkdocs-material/plugins/search/*
 
 
