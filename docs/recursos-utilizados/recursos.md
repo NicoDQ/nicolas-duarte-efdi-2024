@@ -28,5 +28,6 @@ Para el logo de la web, utilicé dos recursos, el primero es la documentación d
 ### Favicon: *https://www.flaticon.es/*
 Para cambiar la barra de búsqueda para español utilicé:
 ### Cambiar idioma de plugin search: *https://squidfunk.github.io/mkdocs-material/plugins/search/*
+### Cambiar de idioma la web entera: *https://fgcoca.github.io/Como-documento/Libreria-Material/*
 
 

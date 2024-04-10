@@ -50,7 +50,3 @@
 img[src*="#fotome"] {
   border-radius:5%;
 }
-
-.md-search__input {
-  background-color: yellow;
-}
