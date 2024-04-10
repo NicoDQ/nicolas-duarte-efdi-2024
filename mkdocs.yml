@@ -77,12 +77,9 @@ markdown_extensions:
   - pymdownx.superfences
   - codehilite:
       guess_lang: false
-  - toc:
-      permalink: true
   - def_list
   - pymdownx.tasklist:
       custom_checkbox: true
-
   - md_in_html
   - admonition
   - codehilite
