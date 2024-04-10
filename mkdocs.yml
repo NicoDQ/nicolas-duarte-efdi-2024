@@ -56,10 +56,11 @@ theme:
     - navigation.expand
     - navigation.indexes
     - navigation.instant
+    - navigation.path
     # - navigation.prune
     # - navigation.sections
-    #- navigation.tabs
-    #- navigation.tabs.sticky
+    - navigation.tabs
+    - navigation.tabs.sticky
     - navigation.top
     - navigation.tracking
 
@@ -70,6 +71,8 @@ plugins:
       fallback_to_build_date: true
 
 markdown_extensions:
+  - toc:
+      permalink: false
   - extra
   - smarty
   - admonition
