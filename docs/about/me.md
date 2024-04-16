@@ -1,9 +1,3 @@
----
-hide:
-  - navigation
-  - toc
----
-
 # Sobre mí
 
 ![Foto](../images/fotome.jpg#fotome)
