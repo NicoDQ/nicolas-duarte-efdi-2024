@@ -67,6 +67,9 @@ img[src*="#fotomeindx"] {
 img[src*="#index"] {
   width: 200px;
 }
+img[src*="#index2"] {
+  width: 150px;
+}
 
 .md-content__button{
     display: none;
