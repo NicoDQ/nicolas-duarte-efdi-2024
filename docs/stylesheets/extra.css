@@ -51,9 +51,7 @@ img[src*="#fotome"] {
   border-radius:5%;
 }
 img[src*="#mt01"] {
-  border-radius:5%;
-  float: left; 
-  margin-right: 10px;
+  border-radius:50%;
 }
 
 .md-content__button{
