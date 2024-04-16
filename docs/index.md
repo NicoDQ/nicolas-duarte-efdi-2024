@@ -7,7 +7,6 @@ hide:
 
 ## ¡Bienvenido a mi espacio digital!
 
-![Foto de mi](images/fotome.jpg#fotomeindx){ align=left }
 
 Soy Nico, un entusiasta estudiante de la Especialización en Fabricación Digital e Innovación, ofrecida en colaboración entre UTEC y FabLab Barcelona. Este es mi rincón virtual donde documentaré y compartiré mi viaje a través de este emocionante programa educativo.  
 
