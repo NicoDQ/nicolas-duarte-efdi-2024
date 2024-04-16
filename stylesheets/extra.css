@@ -50,3 +50,11 @@
 img[src*="#fotome"] {
   border-radius:5%;
 }
+
+.md-typeset h1{
+  display: none;
+}
+
+.md-content__button {
+    display: none;
+  }
