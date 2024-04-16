@@ -12,8 +12,9 @@ Soy Nico, un entusiasta estudiante de la Especialización en Fabricación Digita
 
 
 
-![Logo de UTEC y FABLAB](images/logoutecfab.png#index)
-
+<figure markdown="span">
+  ![Logo de UTEC y FABLAB](images/logoutecfab.png#index){ width="300"}
+</figure>
 
 
 Desde mi primer encuentro con el mundo de la fabricación digital, he sentido una fascinación innegable por su potencial transformador en la sociedad. Ahora, como parte de esta especialización, estoy emocionado de sumergirme aún más en este campo apasionante y explorar las infinitas posibilidades que ofrece la tecnología para la innovación y la creación.  
