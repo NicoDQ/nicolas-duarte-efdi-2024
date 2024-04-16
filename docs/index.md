@@ -7,12 +7,12 @@ hide:
 
 ## ¡Bienvenido a mi espacio digital!
 
-![Foto de mi](/images/fotome.jpg#fotomeindx){ align=left }
+![Foto de mi](images/fotome.jpg#fotomeindx){ align=left }
 
 Soy Nico, un entusiasta estudiante de la Especialización en Fabricación Digital e Innovación, ofrecida en colaboración entre UTEC y FabLab Barcelona. Este es mi rincón virtual donde documentaré y compartiré mi viaje a través de este emocionante programa educativo.
 
-![Logo de UTEC](/images/logoutec.png#index)
-![Logo de FLBCN](/images/fablabbcn.png#index)
+![Logo de UTEC](images/logoutec.png#index)
+![Logo de FLBCN](images/fablabbcn.png#index)
 
 Desde mi primer encuentro con el mundo de la fabricación digital, he sentido una fascinación innegable por su potencial transformador en la sociedad. Ahora, como parte de esta especialización, estoy emocionado de sumergirme aún más en este campo apasionante y explorar las infinitas posibilidades que ofrece la tecnología para la innovación y la creación.
 
