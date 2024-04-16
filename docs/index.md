@@ -13,7 +13,7 @@ Soy Nico, un entusiasta estudiante de la Especialización en Fabricación Digita
 
 
 <figure markdown="span">
-  ![Logo de UTEC y FABLAB](images/logoutecfab.png#index){ width="300"}
+  ![Logo de UTEC y FABLAB](images/logoutecfab.png){ width="300"}
 </figure>
 
 
