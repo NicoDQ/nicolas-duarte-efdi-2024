@@ -57,6 +57,10 @@ img[src*="#mt01"] {
   border: 1px solid #31363F;
 }
 
+img[src*="#index"] {
+  width: 200px;
+}
+
 .md-content__button{
     display: none;
   }
