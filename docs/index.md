@@ -3,6 +3,8 @@ hide:
     - toc
 ---
 
+# Inicio
+
 [sobre-mi]: https://nicodq.github.io/nicolas-duarte-efdi-2024/about/me/
 
 ## ¡Bienvenido a mi espacio digital!
