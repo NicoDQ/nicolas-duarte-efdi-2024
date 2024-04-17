@@ -62,7 +62,6 @@ theme:
     - navigation.tabs.sticky
     - navigation.top
     - navigation.tracking
-    - toc.integrate 
 
 plugins:
   - search:
