@@ -31,5 +31,5 @@ Para cambiar la barra de búsqueda para español utilicé:
 ### Cambiar de idioma la web entera: *https://fgcoca.github.io/Como-documento/Libreria-Material/*
 Para utilizar links o enlaces en Markdown utilicé:
 ### Utilizar links o enlaces en Markdown: *https://nicodq.github.io/nicolas-duarte-efdi-2024/*
-
+### Formato de Texto en Markdown: https://www.markdownguide.org/basic-syntax/
 

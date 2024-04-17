@@ -16,7 +16,7 @@ Otra de mis grandes pasiones es la impresión 3D FDM, donde aprendí todo de man
 En resumen, soy un apasionado de la tecnología con formación académica y gusto por la fabricación digital. Mi búsqueda constante de nuevos desafíos y oportunidades me impulsa a crecer tanto personal como profesionalmente. Estoy emocionado por lo que el futuro me depara en los campos de la especialización y estoy comprometido a seguir aprendiendo, creando y compartiendo mi conocimiento con el mundo.
 
 
-# Links de Interés
+### Dejo por aquí algunos Links de Interés
 ## LinkedIn: *[@nduarteq](https://www.linkedin.com/in/nduarteq/)*
 ## MakerWorld: *[@nduarteq](https://makerworld.com/en/@nicodq)*
 ## GitHub: *[@nicodq](https://github.com/NicoDQ)*
