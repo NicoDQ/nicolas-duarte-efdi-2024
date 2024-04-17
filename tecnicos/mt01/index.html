@@ -286,6 +286,13 @@
 </li>
       
         <li class="md-nav__item">
+  <a href="#github-pages" class="md-nav__link">
+    GitHub Pages
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
   <a href="#markdown" class="md-nav__link">
     Markdown
   </a>
@@ -480,6 +487,13 @@
 </li>
       
         <li class="md-nav__item">
+  <a href="#github-pages" class="md-nav__link">
+    GitHub Pages
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
   <a href="#markdown" class="md-nav__link">
     Markdown
   </a>
@@ -514,10 +528,32 @@
 <p>Git es un sistema de control de versiones distribuido ampliamente utilizado. Permite a los desarrolladores realizar un seguimiento de los cambios en el código fuente durante el tiempo, coordinar el trabajo entre múltiples personas, revertir a versiones anteriores del código y mucho más. En este módulo, los estudiantes generalmente aprenden conceptos básicos como inicializar un repositorio, realizar confirmaciones (commits), crear y fusionar ramas, resolver conflictos y colaborar en proyectos con otros desarrolladores.</p>
 <h2 id="github">GitHub</h2>
 <p><img align="right" alt="Imagen de GitHub" src="../../images/MT01/github.png#mt01" /></p>
-<p>GitHub es una plataforma de alojamiento de código basada en la web que utiliza Git para el control de versiones. Permite a los desarrolladores alojar repositorios Git, colaborar con otros, realizar seguimientos de problemas (issues) y realizar solicitudes de extracción (pull requests), entre otras funciones. En este módulo, los estudiantes aprenden a crear y clonar repositorios, colaborar en proyectos, realizar seguimiento de problemas y contribuir a proyectos de código abierto.</p>
+<p>GitHub es una plataforma de alojamiento de código basada en la web que utiliza Git para el control de versiones. Permite a los desarrolladores alojar repositorios Git, colaborar con otros, realizar seguimientos de problemas (issues) y realizar solicitudes de extracción (pull requests), entre otras funciones. En este módulo, los estudiantes aprenden a crear y clonar repositorios, colaborar en proyectos, realizar seguimiento de problemas y contribuir a proyectos de código abierto. Dentro de GitHub utilizamos también una tecnología llamada GitHub Pages.</p>
+<h2 id="github-pages">GitHub Pages</h2>
+<p><img align="left" alt="Imagen de GitHub Pages" src="../../images/MT01/githubp.png#mt01" /></p>
+<p>GitHub Pages es un servicio que ofrece GitHub que permite a los usuarios alojar sitios web directamente desde sus repositorios de GitHub. Esencialmente, te permite convertir tu repositorio de GitHub en un sitio web público accesible a través de un dominio proporcionado por GitHub o un dominio personalizado en caso que lo tengas.</p>
 <h2 id="markdown">Markdown</h2>
-<p><img align="left" alt="Imagen de Markdown" src="../../images/MT01/markdown.png#mt01" /></p>
+<p><img align="right" alt="Imagen de Markdown" src="../../images/MT01/markdown.png#mt01" /></p>
 <p>Markdown es un lenguaje de marcado ligero que se utiliza comúnmente para formatear texto de manera simple y rápida. Permite agregar formato básico, como encabezados, listas, enlaces e imágenes, utilizando una sintaxis sencilla y fácil de leer. MkDocs es una herramienta que permite generar sitios web estáticos a partir de archivos Markdown, lo que facilita la creación de documentación legible y bien formateada para proyectos de software. En este módulo, los estudiantes aprenden a escribir y formatear texto utilizando Markdown, así como a generar documentación con MkDocs.</p>
+<h1 id="proceso-realizado">Proceso Realizado</h1>
+<p>Primero se solicitaba crear una cuenta en GitHub, en mi caso ya la tenía desde hace mucho tiempo:</p>
+<figure>
+  <img alt="Imagen de Cuenta de GitHub" src="../../images/MT01/cuentagit.png" width="300" />
+</figure>
+<p>Luego necesitaba instalar git en mi computadora, que, otra vez, ya lo tenía instalado:</p>
+<figure>
+  <img alt="Imagen de git Instalado" src="../../images/MT01/gitinstalado.png" width="300" />
+</figure>
+<p>Lo que sí realicé es la configuración del nombre de manera correcta, ya que los que estaba utilizando nicolas.duarte y para la especialización lo cambié por nicolas_duarte.
+Para ello ejecuté el comando <em>git config &ndash;global user.name &ldquo;nicolas_duarte&rdquo;</em> para asignar dicho nuevo valor y luego <em>git config &ndash;global &ndash;list</em> para verificar el cambio realizado:</p>
+<figure>
+  <img alt="Imagen de configuración de git" src="../../images/MT01/configgit.png" width="300" />
+</figure>
+<p>Posteriormente realicé la generación de una ssh key nueva para establecer una conexión segura entre mi computadora y GitHub, para ello ejecuté <em>ssh-keygen -t rsa -C &ldquo;<a href="&#109;&#97;&#105;&#108;&#116;&#111;&#58;&#110;&#105;&#99;&#111;&#108;&#97;&#115;&#46;&#100;&#117;&#97;&#114;&#116;&#101;&#64;&#117;&#116;&#101;&#99;&#46;&#101;&#100;&#117;&#46;&#117;&#121;">&#110;&#105;&#99;&#111;&#108;&#97;&#115;&#46;&#100;&#117;&#97;&#114;&#116;&#101;&#64;&#117;&#116;&#101;&#99;&#46;&#101;&#100;&#117;&#46;&#117;&#121;</a>&ldquo;</em>
+Para chequear que la key está generada ejecuté <em>cat ~/.ssh/id_rsa.pub</em></p>
+<figure>
+  <img alt="Imagen de ssh key de git" src="../../images/MT01/keygeneradagit.png" width="300" />
+</figure>
                 
                   
                     
@@ -526,7 +562,7 @@
 <div class="md-source-date">
   <small>
     
-      Última actualización: <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-date">April 16, 2024</span>
+      Última actualización: <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-date">April 17, 2024</span>
     
   </small>
 </div>
