@@ -61,4 +61,6 @@ img[src*="#mt01"] {
     display: none;
   }
 
-
+  .md-sidebar--secondary {
+    display: none;
+  }
