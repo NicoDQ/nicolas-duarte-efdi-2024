@@ -17,6 +17,6 @@ Te invito a acompañarme en este emocionante viaje, para conocer más de mí de 
 
 
 <figure markdown="span">
-  ![Logo de UTEC y FABLAB](images/logoutecfab.png){ width="300"}
+  ![Logo de UTEC y FABLAB](images/logoutecfab.png){ width="400"}
 </figure>
 
