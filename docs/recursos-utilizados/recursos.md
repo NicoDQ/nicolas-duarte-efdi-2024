@@ -26,6 +26,7 @@ Necesitaba una paleta de colores que se adecuara a lo que quería mostrar en la 
 *https://colorhunt.co/palette/22283131363f76abaeeeeeee*
 
 Para chequear que mi web sea reponsiva de manera que no unicamnete se pueda visualizar desde el navegador web de una computadora sino que se ampliara el uso a más dispositivos utilicé:
+
 ### Sitio WebsitePlanet (responsive)
 *https://www.websiteplanet.com/es/webtools/responsive-checker/*
 
@@ -62,7 +63,7 @@ Para utilizar links o enlaces en Markdown utilicé:
 
 ### Utilizar links o enlaces en Markdown
  *https://nicodq.github.io/nicolas-duarte-efdi-2024/*
- 
+
 ### Formato de Texto en Markdown
 *https://www.markdownguide.org/basic-syntax/*
 
