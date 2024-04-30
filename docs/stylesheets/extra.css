@@ -64,6 +64,12 @@ img[src*="#md01"] {
   border: 2px solid #31363F;
 }
 
+img[src*="#md02"] {
+  border-radius:6%;
+  padding: 6px;
+  width: 180px;
+  border: 2px solid #31363F;
+}
 .md-content__button{
     display: none;
   }
