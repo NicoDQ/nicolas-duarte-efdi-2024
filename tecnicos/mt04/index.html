@@ -631,7 +631,7 @@
 <p>El módulo de Introducción a la Electrónica y Programación es una parte fundamental del eje de tecnología y fabricación, que busca llevarnos más allá de la teoría y sumergirnos en la aplicación práctica de la tecnología, para esto, en este módulo, nos enfocaremos en el mundo de la electrónica y la programación utilizando Arduino, una plataforma abierta y accesible que ha revolucionado la forma en que aprendemos y aplicamos estas disciplinas. Desde el primer día, trabaja con componentes electrónicos básicos, como resistencias, LEDs y sensores, y aprende a programar microcontroladores usando el entorno de desarrollo Arduino IDE.Este módulo es una puerta de entrada al fascinante mundo de la electrónica y la programación, una oportunidad para explorar, aprender y crear. Personalmente, lo que más me llama la atención es la posibilidad que da la placa programable para implementar diferentes sensores, que darán vida a cualquier proyecto donde la incluyamos.</p>
 <p>Para llevar a cabo este módulo vimos diferentes herramientas como lo son: </p>
 <h2 id="arduino">Arduino</h2>
-<p><img align="left" alt="Imagen de Arduino" src="../../images/MT04/arduino.png#mt02" /></p>
+<p><img align="left" alt="Imagen de Arduino" src="../../images/MT04/arduino.png#mt02" />}{ width=&rdquo;600&rdquo;</p>
 <p>Arduino es una plataforma de código abierto que combina hardware y software para facilitar la creación de proyectos de electrónica y programación. Diseñada para ser accesible tanto para principiantes como para profesionales, Arduino permite a los usuarios construir dispositivos interactivos que pueden percibir y controlar objetos en el mundo físico.</p>
 <p>El núcleo del ecosistema Arduino es la placa Arduino, un microcontrolador que actúa como el cerebro de tus proyectos. Existen varios modelos de placas, como Arduino Uno, Arduino Mega y Arduino Nano, cada una con diferentes capacidades y características para adaptarse a una amplia gama de aplicaciones. Estas placas están equipadas con pines de entrada y salida que permiten la conexión con diversos componentes electrónicos como sensores, LEDs, motores y más.</p>
 <p>Entre las aplicaciones típicas de Arduino se encuentran la robótica, donde puedes construir y programar robots para realizar diversas tareas, y la domótica, donde puedes automatizar dispositivos y sistemas en el hogar. También se utiliza ampliamente en la educación, proporcionando a estudiantes y educadores una herramienta práctica para aprender sobre electrónica, programación y diseño de sistemas.</p>
@@ -651,10 +651,22 @@
 <p>Tinkercad Circuits es una plataforma en línea que permite a los usuarios diseñar y simular circuitos electrónicos de manera virtual. Es una herramienta ideal tanto para principiantes como para entusiastas de la electrónica, ya que ofrece un entorno intuitivo y fácil de usar para aprender y experimentar con circuitos sin necesidad de componentes físicos.</p>
 <p>La plataforma incluye una variedad de componentes electrónicos que se pueden arrastrar y soltar en un espacio de trabajo virtual. Estos componentes incluyen resistencias, LEDs, botones, potenciómetros, motores, sensores y muchos más. Tinkercad Circuits también permite la integración de microcontroladores como el Arduino, permitiendo a los usuarios escribir y simular código en un entorno seguro y controlado.</p>
 <h2 id="proceso-realizado">Proceso Realizado</h2>
-<p>Para la Actividad del MT03, se nos solicitaba realizar un ejercicio diseñado específicamente para poner en práctica varios de los conocimientos transmitidos y aplicar las principales herramientas y procesos de diseño presentadas, planteándonos el diseñar un objeto compuesto por como mínimo 3 piezas que lo compongan y ser parametrizable. Las piezas de este objeto se deben de poder ensamblar mediante encastres (sin la utilización de pegamento o fijaciones externas). Debe de contener las 3 operaciones básicas de la máquina láser (grabado raster, marcado sobre vector y corte sobre vector).</p>
-<p>Para luego fabricar la pieza y para tomar la referencia a la hora de diseñarla, el material a utilizar es Cartón o MDF de 3mm de espesor. 
-Las piezas deben estar diseñadas en un sólo archivo (formato .dxf), y la cantidad total de material a utilizar por estudiante es de 600 x 450 mm. </p>
-<p>Para la realización del ejercicio me basé en el video de referencia del docente, para realizar su mismo proceso para realizar un diseño paramétrico que a futuro sea ajustable:</p>
+<p>Para la actividad del MT04, se nos solicitaba realizar un ejercicio para poner en práctica los conocimientos adquiridos en el módulo, realizando una actividad con dos consignas: utilizar dos inputs y dos outputs, para ello se me ocurrió diseñar un sistema de parking con activación mediante NFC, utilizando lo siguiente:</p>
+<p>Inputs:</p>
+<ol>
+<li>Lector RFID RC522.</li>
+<li>Sensor de Humedad y Temperatura DHT 11.</li>
+</ol>
+<p>Outputs:</p>
+<ol>
+<li>Led RGB 3_C1r.</li>
+<li>LCD i2C.</li>
+<li>Buzzer</li>
+<li>Dos servomotores SG90.</li>
+</ol>
+<p>La finalidad de enbarcarme en un proyecto donde necesitaría algunos componentes más, fue con la finalidad de interiorizarme con distintos componentes, de manera tal de tomar contacto con el IDE de Arduino, con la placa y con los diferentes componentes. De manera que si necesito utilizar los mismos o similares de cara al proyecto final, tenga la práctica y el conocimiento de utilizar lo anteriormente mencionado, por otro lado, también el hecho de que si necesite hacer uso de otro nuevo componente, tenga la base solida, construida por la práctica para poder hacerlo.</p>
+<p>Antes de comenzar a trabajar me vi dos veces todos los videos explicativos de Mateo de como funcionaba Arduino, el IDE y los sensores, así como las clases de electrónica que tuvimos con Josep.</p>
+<p>Luego, con todos los componentes reunidos del Kit, me puse a interconectar cada uno con la placa Arduino, resultándome:</p>
 <figure>
   <img alt="Imagen de Tutorial" src="../../images/MT03/1.png" width="600" />
 </figure>
