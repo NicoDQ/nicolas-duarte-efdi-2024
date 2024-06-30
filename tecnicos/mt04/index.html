@@ -362,6 +362,13 @@
 </li>
       
         <li class="md-nav__item">
+  <a href="#esquema-de-conexion-del-proyecto" class="md-nav__link">
+    Esquema de Conexión del Proyecto
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
   <a href="#imagenes-del-proyecto" class="md-nav__link">
     Imagenes del Proyecto
   </a>
@@ -593,6 +600,13 @@
 </li>
       
         <li class="md-nav__item">
+  <a href="#esquema-de-conexion-del-proyecto" class="md-nav__link">
+    Esquema de Conexión del Proyecto
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
   <a href="#imagenes-del-proyecto" class="md-nav__link">
     Imagenes del Proyecto
   </a>
@@ -711,6 +725,57 @@
 <p>Antes de comenzar a trabajar me vi dos veces todos los videos explicativos de Mateo de como funcionaba Arduino, el IDE y los sensores, así como las clases de electrónica que tuvimos con Josep.</p>
 <p>Primero lo que realicé es el diseño de las barreras y los soportes para los servomotores, luego lo imprimí en la impresora 3d, obteniendo así el objeto físico para armar la barrera de paso completa.
 Luego, con todos los componentes reunidos del Kit, me puse a interconectar cada uno con la placa Arduino, resultándome:</p>
+<h2 id="esquema-de-conexion-del-proyecto">Esquema de Conexión del Proyecto</h2>
+<p>Para efectos de aclarar, el esquema presentado se basa en los siguiente:
+(PIN_DEL_COMPONENTE) -&gt; (PIN_DEL_ARDUINO)</p>
+<p>Lector RFID RC522:</p>
+<ol>
+<li>SDA-&gt; PIND 10</li>
+<li>SCK -&gt; PIND 13</li>
+<li>MOS -&gt; PIND 11</li>
+<li>IMI -&gt; PIND 12</li>
+<li>GND -&gt; GND</li>
+<li>RST -&gt; PIND 9</li>
+</ol>
+<p>(PIN RQ se deja libre)</p>
+<p>Sensor de Humedad y Temperatura DHT11:</p>
+<ol>
+<li>GND -&gt; GND</li>
+<li>VCC -&gt; 5V</li>
+<li>S -&gt; PIND 8</li>
+</ol>
+<p>Led RGB 3_C1r:</p>
+<ol>
+<li>R -&gt; PIND 2</li>
+<li>G -&gt; PIND 3</li>
+<li>B -&gt; PIND 4</li>
+<li>GND -&gt; GND</li>
+</ol>
+<p>LCD i2C:</p>
+<ol>
+<li>GND -&gt; GND</li>
+<li>VCC -&gt; 5V</li>
+<li>SDA -&gt; SDA</li>
+<li>SCL -&gt; SCL</li>
+</ol>
+<p>Buzzer:</p>
+<ol>
+<li>POS -&gt; PIND 7</li>
+<li>GND -&gt; GND</li>
+</ol>
+<p>Servomotores SG90:</p>
+<p>Izquierdo:</p>
+<ol>
+<li>POT -&gt; 5V</li>
+<li>GND -&gt; GND</li>
+<li>S -&gt; PIND 5</li>
+</ol>
+<p>Derecho:</p>
+<ol>
+<li>POT -&gt; 5V</li>
+<li>GND -&gt; GND</li>
+<li>S -&gt; PIND 6</li>
+</ol>
 <h2 id="imagenes-del-proyecto">Imagenes del Proyecto</h2>
 <figure>
   <img alt="Imagen de Proyecto 1" src="../../images/MT04/p1.png" width="600" />
