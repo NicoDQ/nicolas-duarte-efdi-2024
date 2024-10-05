@@ -47,24 +47,40 @@ Este ejercicio me ayudo mucho a reflexionar sobre mi rol en el cuidado del medio
   ![Imagen de Sostenibildiad MapeoNico2](../images/MI02/4.png){ width="800"}
 </figure>
 
-## Objetivos de Aprendizaje:
+Luego la profesora y alguno de nosotros compartimos recursos/materiales sobre distintas vertientes relevantes a la temática, como pueden ser Sostenibilidad, Diseño Circular, Storytelling y Diseño.
 
-Durante el curso, profundicé en conceptos clave que me ayudaron a internalizar habilidades y comportamientos esenciales para el emprendimiento. El enfoque principal fue el desarrollo de una mentalidad emprendedora, preparándome para enfrentar desafíos y aprovechar oportunidades en el ámbito emprendedor y empresarial.
+<figure markdown="span">
+  ![Imagen de Recursos](../images/MI02/5.png){ width="800"}
+</figure>
 
-## Estructura del Curso:
+## Ejercicio 1:
 
-El curso se desarrolló completamente en línea y se organizó en 4 Módulos secuenciales, cada uno con un contenido específico. La estructura incluía:
+Para el primer ejercicio, se nos compartió una base de este mismo ejercicio aplicado a un proyecto de Paola, llamado Inter Matter + Found Objects en conjunto con un template, para que tomaramos estos como ejemplo para realizar el ejercicio aplicandolo a nuestra idea de proyecto final para EFDI.
 
-Apoyo Teórico: Enlaces a recursos teóricos que facilitaron la comprensión de los temas.
-Lecturas Complementarias: Material adicional para profundizar en los conceptos.
-Ejercicios y Actividades: Actividades prácticas que consolidaron los conocimientos adquiridos.
-Foros de Discusión: Espacios para interactuar y compartir ideas con otros participantes.
+<figure markdown="span">
+  ![Imagen de Circulo PZ](../images/MI02/6.png){ width="800"}
+</figure>
 
-## Evaluación Final:
+<figure markdown="span">
+  ![Imagen de Circulo Template](../images/MI02/7.png){ width="800"}
+</figure>
 
-El curso concluyó con una entrega obligatoria, que consistió en un trabajo final, realizando un Test de Características del Comportamiento Emprendedor (CCE), el cual me ayudó a evaluar mis propias competencias emprendedoras, aquí debajo dejo el resultado:
+El ejercicio consistió en mapear diferentes elementos clave relacionados con un proyecto de investigación o diseño basado en la sostenibilidad, la economía circular, y el trabajo colaborativo, mientras se analizan los desafíos enfrentados. Esto entiendo nos ayuda a visualizar cómo se interconectan diversas disciplinas y contribuyentes, y a identificar áreas que necesitan mayor atención o solución de problemas.
+En mi caso, aplicando el ejercicio a mi idea resultó lo siguiente:
 
-*[Excel - Resultado de la Evaluación](../archives/TEST_CCE_UTEC_NDQ.xlsx)*
+<figure markdown="span">
+  ![Imagen de Circulo Nico](../images/MI02/8.png){ width="800"}
+</figure>
+
+Al aplicar este ejercicio a mi proyecto final de la EFDI, me ayuda a visualizar de manera más clara las conexiones entre los diferentes elementos que forman parte de mi proyecto y los desafíos que puedo enfrentar. El mapeo de conceptos como el diseño circular, la investigación y desarrollo de materiales, y la fabricación digital se alinean perfectamente con mis objetivos de crear un kit educativo a partir de materiales reciclados. Este ejercicio no solo me permite identificar las áreas clave que debo fortalecer, sino también reflexionar sobre los obstáculos, como la comunicación y la colaboración con la comunidad, que podrían estar limitando el impacto del proyecto.
+
+Al observar los retos identificados, me doy cuenta de que el éxito del proyecto no depende únicamente de mi capacidad técnica o de los recursos disponibles, sino también de la manera en que logro involucrar a los demás y comunicar el valor del proyecto.
+
+Impulsa a pensar de manera más estratégica, no solo en los aspectos técnicos, sino también en los elementos sociales y colaborativos que pueden marcar la diferencia en la implementación exitosa del proyecto. Me llevo una reflexión importante: la innovación no es solo lo que creamos, sino cómo lo hacemos y quiénes están involucrados en el proceso.
+
+## Ejercicio 2:
+
+
 
 ## Reflexión:
 
