@@ -7,11 +7,11 @@ hide:
 
 ## Introducción
 
-En el marco de la Especialización en Fabricación Digital e Innovación, el eje temático de innovación y sostenibilidad juega un papel crucial. Comprende una serie de unidades curriculares denominadas módulos de innovación (MI), los cuales están diseñados para explorar y aplicar metodologías de innovación con un enfoque sostenible. La sostenibilidad se aborda de manera integral, considerando las dimensiones social, económica y ambiental, lo que nos permite a los estudiantes desarrollar soluciones innovadoras que no solo son eficaces, sino también responsables y sostenibles a largo plazo.
+Dentro de la Especialización en Fabricación Digital e Innovación, el enfoque en la innovación y la sostenibilidad es fundamental. Esta especialización incluye una serie de módulos dedicados a explorar y aplicar metodologías innovadoras con un fuerte compromiso hacia la sostenibilidad. En particular, se aborda la sostenibilidad de manera integral, considerando sus dimensiones social, económica y ambiental. Esto nos permite, como estudiantes, desarrollar soluciones innovadoras que no solo sean efectivas, sino también responsables y sostenibles a largo plazo.
 
-En este contexto, la documentación del Módulo MI02 se centra en detallar las actividades, metodologías y aprendizajes obtenidos durante la primera intancia del MI de esta especialización. A través de esta documentación, se busca no solo registrar el proceso de aprendizaje, sino también reflexionar sobre la aplicación práctica de las metodologías de innovación sostenibles y su impacto potencial en las diferentes dimensiones abordadas.
+El Módulo MI02 se centra en el Desarrollo Sostenible y la Economía Circular. Aquí, documentamos las actividades, metodologías y aprendizajes obtenidos, con el objetivo no solo de registrar el proceso, sino también de reflexionar sobre cómo aplicar estas metodologías en la práctica y su impacto en las distintas dimensiones de la sostenibilidad.
 
-Para llevar a cabo el componente de Desarrollo Sostenible y Economía Circular del MI02, trabajamos a lo largo de diferentes encuentros de videoconferencia con Paola, nuestra docente, en base a la herramienta:
+A lo largo del módulo, trabajamos en conjunto con nuestra docente, Paola, en una serie de sesiones por videoconferencia. Para facilitar la colaboración, utilizamos Miro, una herramienta que nos permitió trabajar en tiempo real y compartir nuestras ideas con el equipo. Miro es una plataforma en línea que funciona como una pizarra digital flexible, donde podemos organizar y visualizar diferentes tipos de contenido: desde notas adhesivas hasta diagramas y dibujos, lo que fue clave para nuestras dinámicas de trabajo remoto.
 
 ![Imagen de MIRO](../images/MD01/miro.png#md01){ align=left }
 
@@ -21,15 +21,15 @@ Miro es conocido por su capacidad para facilitar la colaboración en tiempo real
 
 ## Proceso Realizado
 
-Comenzamos con una presentación teórica por parte de la docente y luego nos pasamos a trabajar con un sistema de mapeo de colores relacionado con la sostenibilidad. Cada color representa diferentes grados de compromiso o hábitos sostenibles, desde el color azul A+ hasta el color gris G. Donde en base a cada color y su descripción debíamos realizar el ejercicio para indicar el nivel/contacto que tenemos con la sostenibilidad en nuestros casos particulares.
+Comenzamos con una introducción teórica impartida por Paola, en la que nos presentó un sistema de mapeo de colores relacionado con la sostenibilidad. Cada color representaba distintos grados de compromiso o hábitos sostenibles, desde el azul A+ hasta el gris G. La tarea consistía en reflexionar sobre nuestras propias prácticas sostenibles y ubicarnos dentro de ese espectro.
 
-Esto fue sumamente interesante, porque nos hace parar un poco y reflexionar sobre el tema y sobre el contacto que tenemos con la sostenibilidad, llegando al punto de evaluar de manera personal, que tan comprometidos estamos con esto, lo que lleva a implicar debates o reflexiones sobre cómo cada compañero puede mejorar en áreas relacionadas con la economía circular, reciclando, reduciendo el consumo, o adoptando hábitos más responsables.
+Este ejercicio fue particularmente interesante, ya que nos permitió detenernos a pensar en nuestro propio nivel de compromiso con la sostenibilidad y nos llevó a discusiones valiosas sobre cómo cada uno de nosotros podía mejorar en áreas como la economía circular, el reciclaje o la adopción de hábitos más responsables.
 
 <figure markdown="span">
   ![Imagen de Sostenibildiad](../images/MI02/1.png){ width="800"}
 </figure>
 
-En mi caso, el "mapeo" de sostenibilidad muestra que me encuentro en una etapa intermedia en términos de conciencia y prácticas sostenibles. Los colores que siento me representan son el amarillo y el naranja, lo que indica que he comenzado a adoptar ciertos hábitos más sostenibles, aunque todavía tengo áreas en las que puedo mejorar.
+En mi caso, mi "mapeo" de sostenibilidad mostró que me encuentro en una etapa intermedia. Los colores que siento que me representan son el amarillo y el naranja, lo que indica que he comenzado a adoptar ciertos hábitos más sostenibles, pero aún me falta avanzar hacia un compromiso más profundo. Este ejercicio me hizo reflexionar sobre qué más puedo hacer para cuidar el medio ambiente y contribuir a una economía circular más sólida.
 
 El color amarillo sugiere que estoy tomando decisiones conscientes, como reducir el consumo de carne o comenzar a interesarme por prácticas ecológicas, pero aún no las he integrado completamente en mi vida cotidiana. Por otro lado, el color naranja refleja que he empezado a hacer algunos cambios más significativos, pero todavía me falta avanzar hacia un compromiso más profundo con la sostenibilidad.
 
@@ -55,7 +55,7 @@ Luego la profesora y alguno de nosotros compartimos recursos/materiales sobre di
 
 ## Ejercicio 1:
 
-Para el primer ejercicio, se nos compartió una base de este mismo ejercicio aplicado a un proyecto de Paola, llamado Inter Matter + Found Objects en conjunto con un template, para que tomaramos estos como ejemplo para realizar el ejercicio aplicandolo a nuestra idea de proyecto final para EFDI.
+Luego, compartimos materiales y recursos sobre temas clave como sostenibilidad, diseño circular, storytelling y diseño. Esto nos ayudó a complementar el conocimiento y a aplicarlo a nuestras ideas de proyectos.
 
 <figure markdown="span">
   ![Imagen de Circulo PZ](../images/MI02/6.png){ width="800"}
@@ -80,17 +80,36 @@ Impulsa a pensar de manera más estratégica, no solo en los aspectos técnicos,
 
 ## Ejercicio 2:
 
+Para el segundo ejercicio, con un enfoque en acciones circulares, realizamos la aplicación de lo que se nos compartió, una base de este mismo ejercicio aplicado a un proyecto de Paola, llamado Inter Matter + Found Objects en conjunto con un template, entonces tomamos esta base para aplicarlo en nuestra idea de proyecto final para EFDI.
 
+<figure markdown="span">
+  ![Imagen de Circulo Paola](../images/MI02/9.png){ width="800"}
+</figure>
+
+<figure markdown="span">
+  ![Imagen de Circulo Paola](../images/MI02/10.png){ width="800"}
+</figure>
+
+Como podemos observar, los pasos son claros, primero tuve que reflexionar sobre el color que representaba el estado actual de mi proyecto en términos de sostenibilidad. Me tomé un momento para pensar en cómo veía mi proyecto en este momento y elegí un color que simbolizara esa situación. Decidí añadir este color al círculo exterior para visualizar mejor el punto de partida. Luego, pensé en el futuro y en lo que quería alcanzar. Seleccioné otro color que reflejara la sostenibilidad a la que aspiro llegar, y lo coloqué en el centro del círculo, estableciendo así una meta visual.
+
+Después, pasé a la segunda parte, que consistía en seleccionar mis "acciones circulares". Aquí tuve que basarme en los principios del Diseño Circular para elegir las acciones que considero más importantes. Me enfoqué en identificar los "Hotspots" de mi proyecto, que son ese 20% de acciones que pueden generar el 80% del impacto en la sostenibilidad. Esto me ayudó a priorizar mis esfuerzos en aquellas actividades que realmente marcarán una diferencia significativa.
+
+Finalmente, revisé el mapeo de los círculos de influencia. Analicé mi contexto, mis capacidades y las influencias que puedo ejercer para mejorar la sostenibilidad de mi proyecto. Esta parte fue clave, ya que me permitió identificar con claridad cómo puedo contribuir desde mi posición para impulsar un cambio positivo en el proyecto.
+
+Aplicando la consigna a mi proyecto, resultó  de la siguiente manera:
+
+<figure markdown="span">
+  ![Imagen de Circulo Nico](../images/MI02/11.png){ width="800"}
+</figure>
+
+Comencé por reflexionar sobre el estado actual de mi proyecto, un kit de electrónica básica elaborado con materiales reciclados. Pensé en cómo se encuentra el proyecto en términos de sostenibilidad y seleccioné el color verde para el círculo exterior, ya que representa un enfoque que apenas está comenzando a ser consciente del impacto ambiental y que tiene margen para mejorar. Luego, para el centro del círculo, elegí un tono morado, un color que refleja la visión de futuro en la que aspiro alcanzar una mayor integración de prácticas circulares y sostenibles.
+
+En la siguiente parte, tuve que seleccionar mis "acciones circulares" basándome en los principios del Diseño Circular. Identifiqué las áreas clave, o "Hotspots", que podrían generar un cambio significativo en la sostenibilidad de mi proyecto. Opté por varias acciones, como "Materials with less impact", donde busco utilizar materiales reciclados y de menor impacto ambiental, y "Less is more", enfocándome en optimizar el diseño del kit utilizando solo los componentes esenciales. Además, incorporé el principio de "Design 4 disassembly" para que el kit sea fácil de desmontar al final de su vida útil, facilitando la reutilización o reciclaje de sus partes. También consideré la importancia de "Systemic Thinking (value based)" para integrar la sostenibilidad en todos los aspectos del diseño y fabricación del kit. Todo esto quedó reflejado en los post-its dentro del círculo, representando el enfoque integral que planeo adoptar.
+
+Finalmente, revisé el mapeo de los círculos de influencia. Analicé cómo los materiales disponibles, la tecnología que puedo usar y el contexto local en el que se desarrollará el proyecto podrían impactar en su sostenibilidad. Incluí notas sobre la investigación de materiales locales y el uso de plásticos reciclados, como PP, HDPE o PLA. Este análisis me ayudó a visualizar cómo puedo enfocar mis esfuerzos para lograr un producto más sostenible y circular.
 
 ## Reflexión:
 
-La participación en el curso Actitud Emprendedora ha sido una experiencia transformadora y enriquecedora, especialmente en el contexto de la Especialización en Fabricación Digital e Innovación. Este curso no solo aporta valor a nivel académico y profesional, sino que también tiene un impacto significativo en el desarrollo personal.
+Este módulo me permitió repensar el impacto que nuestras decisiones tienen en el medio ambiente y la sociedad. Entendí que la sostenibilidad no es solo una opción, sino una responsabilidad que debemos asumir como diseñadores, innovadores y ciudadanos. El concepto de economía circular, en particular, me inspiró a explorar soluciones que promuevan un ciclo de vida de productos que minimice residuos y maximice el uso de recursos.
 
-En el campo de la Fabricación Digital e Innovación, la actitud emprendedora es un componente esencial para el éxito. La especialización requiere una comprensión profunda de tecnologías avanzadas y la capacidad para implementar soluciones innovadoras. Sin embargo, el conocimiento técnico por sí solo no es suficiente. La capacidad para desarrollar y aplicar una actitud emprendedora puede ser el factor diferenciador que lleva a la creación de proyectos exitosos y sostenibles.
-
-El curso me ha proporcionado herramientas y estrategias para enfrentar desafíos y aprovechar oportunidades en este ámbito. A través de sus módulos, aprendí a identificar y gestionar riesgos, a formular y ejecutar planes estratégicos, y a liderar con una mentalidad orientada a la innovación. Estos conocimientos son cruciales cuando se trata de integrar nuevas tecnologías y procesos en un entorno de fabricación digital, donde la adaptabilidad y la visión emprendedora juegan un papel fundamental.
-
-A nivel personal, el curso ha sido una experiencia de crecimiento significativo. Desarrollar una actitud emprendedora implica no solo adquirir conocimientos técnicos y estratégicos, sino también cultivar habilidades de autoevaluación y auto-motivación. A través de la reflexión y la aplicación práctica de los conceptos aprendidos, he mejorado mi capacidad para establecer objetivos claros, gestionar mi tiempo de manera eficiente y mantener una mentalidad positiva frente a los desafíos.
-
-Finalizando también mencionar el hecho de que me ha enseñado la importancia de la perseverancia y la resiliencia. En el mundo emprendedor, enfrentar fracasos y contratiempos es inevitable. Sin embargo, el curso ha reforzado la idea de que cada obstáculo es una oportunidad para aprender y crecer. Esta mentalidad es esencial no solo para emprender con éxito, sino también para enfrentar los desafíos diarios de manera más efectiva.
-
+Lo más valioso de esta experiencia fue la oportunidad de aplicar estos principios en mi propio proyecto. Me llevo herramientas que no solo me permitirán diseñar de manera más consciente, sino también generar un impacto positivo en mi entorno y en las futuras generaciones. Este es solo el comienzo de un camino hacia un enfoque más sostenible e innovador.
