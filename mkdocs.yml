@@ -30,8 +30,8 @@ nav:
     - MI02 - IAD: innovacion/mi02-iad.md
     - MI02 - DSyEC: innovacion/mi02-dsec.md
   - Proyecto Integrador:
-    - Ideas Iniciales: proyecto/proyecto.md
-
+    - Kit Circuitos : proyecto/proyecto.md
+    - Estación Meteorológica Rural : proyecto/proyecto2.md
 
 extra:
   social:
