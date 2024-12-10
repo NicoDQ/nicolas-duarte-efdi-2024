@@ -44,6 +44,13 @@ Para hacer el proyecto sostenible, opté por usar ABS reciclado proveniente de t
 
 La fase de fabricación incluye el uso de herramientas de fabricación digital como la impresora 3D para crear las piezas del kit. Las bases de los circuitos y las carcasas de los componentes serán en principio impresas en 3D utilizando PLA para validar la idea, una vez validada, como anteriormente mencioné, el foco está en fabricarlos con ABS reciclado, lo que les da un toque distintivo y respalda el mensaje de sostenibilidad que, como mencionaba con antelación, quiero transmitir con el proyecto.
 
+## Imágenes del Proceso de Fabricación y Ensamblaje
+
+<figure markdown="span">
+  ![Imagen 1](../images/PF1/1.jpeg){ width="800"}
+</figure>
+
+
 ## Ensamblaje del Kit
 Es importante que cada componente tenga instrucciones detalladas de ensamblaje, siendo estas diseñadas para que los adolescentes puedan seguirlas fácilmente. Las guías incluyen diagramas y fotos paso a paso, con el fin de que los usuarios puedan armar los circuitos de manera autónoma y sin necesidad de supervisión constante. Además, incluí advertencias de seguridad para que los adolescentes sean conscientes de los cuidados que deben tener al trabajar con componentes electrónicos.
 
