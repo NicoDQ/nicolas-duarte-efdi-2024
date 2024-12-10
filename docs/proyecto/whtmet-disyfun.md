@@ -16,6 +16,27 @@ El diseño y funcionalidad de WHTMet está basado en un enfoque abierto y modula
 
 Proxmox es una plataforma de virtualización de código abierto que se utiliza en WHTMet para la gestión de servidores y máquinas virtuales. En el contexto del proyecto, Proxmox permite crear un entorno centralizado y eficiente para gestionar y almacenar los datos climáticos recolectados por los sensores distribuidos en las plantaciones. La capacidad de virtualizar múltiples entornos dentro de una sola máquina física optimiza el uso de recursos y proporciona una base sólida para futuras expansiones del sistema, al permitir la creación de entornos dedicados para diferentes módulos de software sin la necesidad de hardware adicional.
 
+<figure markdown="span">
+  ![Imagen 1 - Diseño y Funcionalidad - ProxmoxNodeRed](../images/PF2/imagenesTec/proxmoxNode-Red.png){ width="800"}
+</figure>
+
+<figure markdown="span">
+  ![Imagen 2 - Diseño y Funcionalidad - ProxmoxMosquittoMQTT](../images/PF2/imagenesTec/proxmoxMosquittoMQTT.png){ width="800"}
+</figure>
+
+<figure markdown="span">
+  ![Imagen 3 - Diseño y Funcionalidad - ProxmoxInfluxDB](../images/PF2/imagenesTec/proxmoxInfluxDB.png){ width="800"}
+</figure>
+
+<figure markdown="span">
+  ![Imagen 4 - Diseño y Funcionalidad - ProxmoxDockerPSQL](../images/PF2/imagenesTec/proxmoxDockerPSQL.png){ width="800"}
+</figure>
+
+<figure markdown="span">
+  ![Imagen 5 - Diseño y Funcionalidad - Portainer PostgreSQL](../images/PF2/imagenesTec/portainerPSQL.png){ width="800"}
+</figure>
+
+
 ## Mosquitto MQTT
 
 ![Imagen de MosquittoMQTT](../images/PF2/imagenesTec/mosquitto.png#mt05){ align=left }
@@ -28,6 +49,10 @@ Se utiliza Mosquitto como el broker MQTT. Mosquitto es un servidor de código ab
 
 
 Node-RED es una herramienta de programación visual de código abierto que facilita la integración y automatización de flujos de datos. En WHTMet, Node-RED se utiliza para conectar y gestionar los datos que se recopilan desde los sensores distribuidos. A través de un flujo de trabajo visual, los datos de temperatura, humedad, viento y otras variables climáticas se capturan, procesan y envían a las bases de datos. Además, Node-RED permite la creación de alertas y procesos automáticos, como notificaciones en caso de que los valores de ciertas variables superen umbrales críticos, lo que facilita la toma de decisiones en tiempo real.
+
+<figure markdown="span">
+  ![Imagen - Diseño y Funcionalidad - Flujo de NodeRed](../images/PF2/imagenesTec/flujoNodeRed.png){ width="800"}
+</figure>
 
 ## InfluxDB y PostgreSQL
 
