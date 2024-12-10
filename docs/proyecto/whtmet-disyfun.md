@@ -49,7 +49,6 @@ El ESP32 es un microcontrolador de bajo costo y alto rendimiento que se utiliza 
 
 ![Imagen de SHT31](../images/PF2/imagenesTec/sht31.png#mt02){ align=left }
 
-
 Los sensores de bajo costo, que miden variables como la temperatura, la humedad y el viento, proporcionan los datos necesarios para optimizar la gestión de las plantaciones de eucalipto, permitiendo a los gestores tomar decisiones informadas sobre el riego y el cuidado forestal.
 
 

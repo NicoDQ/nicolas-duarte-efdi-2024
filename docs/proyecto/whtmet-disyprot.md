@@ -134,7 +134,53 @@ El diseño de los circuitos fue clave en este proceso, ya que los dispositivos d
   ![Imagen 17 - Diseño y Prototipado - Prototipado Circuitos](../images/PF2/prototipadoCircuito/17.jpeg){ width="800"}
 </figure>
 
-El prototipado se realizó a través de la impresión 3D y la fabricación digital, permitiendo iterar rápidamente en los diseños, hacer ajustes en tiempo real y probar diferentes configuraciones antes de pasar a la fase de producción. Este enfoque que brinda justamente esa flexibilidad, garantizó que cada iteración del prototipo fuera más eficiente y funcional, acercándonos cada vez más a una solución que pudiera ser implementada y utilizada de manera práctica y económica por los productores y gestores forestales.
+##  Diseño y Prototipado - Anemómetro
+
+<figure markdown="span">
+  ![Imagen 1 - Diseño y Prototipado - Prototipado Anemómetro](../images/PF2/prototipadoAnemometro/1.jpeg){ width="800"}
+</figure>
+
+<figure markdown="span">
+  ![Imagen 2 - Diseño y Prototipado - Prototipado Anemómetro](../images/PF2/prototipadoAnemometro/2.jpeg){ width="800"}
+</figure>
+
+<figure markdown="span">
+  ![Imagen 3 - Diseño y Prototipado - Prototipado Anemómetro](../images/PF2/prototipadoAnemometro/3.jpeg){ width="800"}
+</figure>
+
+<figure markdown="span">
+  ![Imagen 4 - Diseño y Prototipado - Prototipado Anemómetro](../images/PF2/prototipadoAnemometro/4.jpeg){ width="800"}
+</figure>
+
+<figure markdown="span">
+  ![Imagen 5 - Diseño y Prototipado - Prototipado Anemómetro](../images/PF2/prototipadoAnemometro/5.jpeg){ width="800"}
+</figure>
+
+<figure markdown="span">
+  ![Imagen 6 - Diseño y Prototipado - Prototipado Anemómetro](../images/PF2/prototipadoAnemometro/6.jpeg){ width="800"}
+</figure>
+
+<figure markdown="span">
+  ![Imagen 7 - Diseño y Prototipado - Prototipado Anemómetro](../images/PF2/prototipadoAnemometro/7.jpeg){ width="800"}
+</figure>
+
+<figure markdown="span">
+  ![Imagen 8 - Diseño y Prototipado - Prototipado Anemómetro](../images/PF2/prototipadoAnemometro/8.jpeg){ width="800"}
+</figure>
+
+<figure markdown="span">
+  ![Imagen 9 - Diseño y Prototipado - Prototipado Anemómetro](../images/PF2/prototipadoAnemometro/9.jpeg){ width="800"}
+</figure>
+
+<figure markdown="span">
+  ![Imagen 10 - Diseño y Prototipado - Prototipado Anemómetro](../images/PF2/prototipadoAnemometro/10.jpeg){ width="800"}
+</figure>
+
+<figure markdown="span">
+  ![Imagen 11 - Diseño y Prototipado - Prototipado Anemómetro](../images/PF2/prototipadoAnemometro/11.jpeg){ width="800"}
+</figure>
+
+El prototipado de los distintos componentes se realizó a través de la impresión 3D y la fabricación digital, permitiendo iterar rápidamente en los diseños, hacer ajustes en tiempo real y probar diferentes configuraciones antes de pasar a la fase de producción. Este enfoque que brinda justamente esa flexibilidad, garantizó que cada iteración del prototipo fuera más eficiente y funcional, acercándonos cada vez más a una solución que pudiera ser implementada y utilizada de manera práctica y económica por los productores y gestores forestales.
 
 El diseño y prototipado de WHTMet no solo consideró los aspectos técnicos y funcionales del sistema, sino que también priorizó la capacidad de adaptación, permitiendo que fuera una herramienta útil y práctica.
 
