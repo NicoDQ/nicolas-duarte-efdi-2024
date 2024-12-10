@@ -18,5 +18,5 @@ Una de las lecciones más valiosas de este proyecto ha sido la importancia de la
 Finalmente, me siento motivado por el potencial que WHTMet tiene para transformar el manejo de plantaciones de eucalipto y otras actividades agrícolas y forestales. Aunque el proyecto está en sus primeras etapas, las lecciones aprendidas hasta ahora son claras: la tecnología abierta, accesible y modular puede ser un gran aliado para resolver problemas complejos en entornos rurales y remotos. Al continuar desarrollando esta solución, tengo la convicción de que WHTMet puede ser un modelo para futuras iniciativas que busquen combinar sostenibilidad, accesibilidad y eficiencia, contribuyendo a un cambio positivo en las prácticas de gestión de recursos naturales.
 
 <figure markdown="span">
-  ![Logo de UTEC y FABLAB](images/logoutecfab.png){ width="400"}
+  ![Logo de UTEC y FABLAB](../images/logoutecfab.png){ width="400"}
 </figure>
