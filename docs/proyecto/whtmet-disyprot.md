@@ -22,7 +22,7 @@ Adjunto por aquí debajo los primeros bocetos y las ideas tomadas al inicio del 
 Una vez que los bocetos iniciales estuvieron listos, pasé a trabajar en modelos 3D utilizando programas de CAD (particularmente Fusion 360), lo que permitió crear representaciones digitales más precisas y detalladas de cada pieza del sistema. Estos modelos no solo ayudaron a visualizar el producto final, sino que también facilitaron la verificación de las dimensiones y la integración de los componentes, garantizando que todo encajara correctamente y que no hubiera interferencias entre los circuitos y las estructuras físicas. Ya que a medida que realizaba los modelos, los iba imprimiendo para tenerlos fisicamente e ir prototipando:
 
 
-##  Diseño y Prototipado - Caja/Carcasa
+##  Diseño y Prototipado - Caja/Carcasa - Imágenes
 
 <figure markdown="span">
   ![Imagen 1 - Diseño y Prototipado - F360](../images/PF2/f360/1.png){ width="800"}
@@ -61,6 +61,21 @@ Como se observa, se pasó por 3 versiones distintas de la caja de circuitos.
 <figure markdown="span">
   ![Imagen 4 - Diseño y Prototipado - Prototipado Caja](../images/PF2/prototipadoCaja/4.jpeg){ width="800"}
 </figure>
+
+##  Diseño y Prototipado - Caja/Carcasa - Timelapses
+
+# Timelapse Caja
+
+<video width="600"  controls>
+  <source src="../../videos/tlCaja.mp4" type="video/mp4">
+</video>
+
+# Timelapse Tapa de Caja
+
+<video width="600"  controls>
+  <source src="../../videos/tlTapa.mp4" type="video/mp4">
+</video>
+
 
 El diseño de los circuitos fue clave en este proceso, ya que los dispositivos debían ser fáciles de ensamblar y operar. La elección de componentes como el ESP32, junto con sensores de bajo costo, permitió crear un sistema modular y escalable, que podría ser ensamblado sin complicaciones.
 
@@ -179,10 +194,6 @@ El diseño de los circuitos fue clave en este proceso, ya que los dispositivos d
 <figure markdown="span">
   ![Imagen 11 - Diseño y Prototipado - Prototipado Anemómetro](../images/PF2/prototipadoAnemometro/11.jpeg){ width="800"}
 </figure>
-
-<video width="400"  controls>
-  <source src="../../videos/tlCaja.mp4" type="video/mp4">
-</video>
 
 El prototipado de los distintos componentes se realizó a través de la impresión 3D y la fabricación digital, permitiendo iterar rápidamente en los diseños, hacer ajustes en tiempo real y probar diferentes configuraciones antes de pasar a la fase de producción. Este enfoque que brinda justamente esa flexibilidad, garantizó que cada iteración del prototipo fuera más eficiente y funcional, acercándonos cada vez más a una solución que pudiera ser implementada y utilizada de manera práctica y económica por los productores y gestores forestales.
 
