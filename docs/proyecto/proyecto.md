@@ -34,6 +34,93 @@ Para una verisión inicial, el kit contara con 8 módulos:
 7. Módulo de Motor
 8. Módulo de Baterías AAA o 9V (A revisar.)
 
+## Imágenes del Proceso de Diseño y Prototipado
+
+<figure markdown="span">
+  ![Imagen 1 - Diseño y Prototipado](../images/PF1/disyprot/1.jpeg){ width="800"}
+</figure>
+<figure markdown="span">
+  ![Imagen 2 - Diseño y Prototipado](../images/PF1/disyprot/2.jpeg){ width="800"}
+</figure>
+<figure markdown="span">
+  ![Imagen 3 - Diseño y Prototipado](../images/PF1/disyprot/3.jpeg){ width="800"}
+</figure>
+<figure markdown="span">
+  ![Imagen 4 - Diseño y Prototipado](../images/PF1/disyprot/4.jpeg){ width="800"}
+</figure>
+<figure markdown="span">
+  ![Imagen 5 - Diseño y Prototipado](../images/PF1/disyprot/5.jpeg){ width="800"}
+</figure>
+<figure markdown="span">
+  ![Imagen 6 - Diseño y Prototipado](../images/PF1/disyprot/6.jpeg){ width="800"}
+</figure>
+<figure markdown="span">
+  ![Imagen 7 - Diseño y Prototipado](../images/PF1/disyprot/7.jpeg){ width="800"}
+</figure>
+<figure markdown="span">
+  ![Imagen 8 - Diseño y Prototipado](../images/PF1/disyprot/8.jpeg){ width="800"}
+</figure>
+<figure markdown="span">
+  ![Imagen 9 - Diseño y Prototipado](../images/PF1/disyprot/9.jpeg){ width="800"}
+</figure>
+<figure markdown="span">
+  ![Imagen 10 - Diseño y Prototipado](../images/PF1/disyprot/10.jpeg){ width="800"}
+</figure>
+<figure markdown="span">
+  ![Imagen 11 - Diseño y Prototipado](../images/PF1/disyprot/11.jpeg){ width="800"}
+</figure>
+<figure markdown="span">
+  ![Imagen 12 - Diseño y Prototipado](../images/PF1/disyprot/12.jpeg){ width="800"}
+</figure>
+<figure markdown="span">
+  ![Imagen 13 - Diseño y Prototipado](../images/PF1/disyprot/13.jpeg){ width="800"}
+</figure>
+<figure markdown="span">
+  ![Imagen 14 - Diseño y Prototipado](../images/PF1/disyprot/14.jpeg){ width="800"}
+</figure>
+<figure markdown="span">
+  ![Imagen 15 - Diseño y Prototipado](../images/PF1/disyprot/15.jpeg){ width="800"}
+</figure>
+<figure markdown="span">
+  ![Imagen 16 - Diseño y Prototipado](../images/PF1/disyprot/16.jpeg){ width="800"}
+</figure>
+<figure markdown="span">
+  ![Imagen 17 - Diseño y Prototipado](../images/PF1/disyprot/17.jpeg){ width="800"}
+</figure>
+<figure markdown="span">
+  ![Imagen 18 - Diseño y Prototipado](../images/PF1/disyprot/18.jpeg){ width="800"}
+</figure>
+<figure markdown="span">
+  ![Imagen 19 - Diseño y Prototipado](../images/PF1/disyprot/19.jpeg){ width="800"}
+</figure>
+<figure markdown="span">
+  ![Imagen 20 - Diseño y Prototipado](../images/PF1/disyprot/20.jpeg){ width="800"}
+</figure>
+<figure markdown="span">
+  ![Imagen 21 - Diseño y Prototipado](../images/PF1/disyprot/21.jpeg){ width="800"}
+</figure>
+<figure markdown="span">
+  ![Imagen 22 - Diseño y Prototipado](../images/PF1/disyprot/22.jpeg){ width="800"}
+</figure>
+<figure markdown="span">
+  ![Imagen 23 - Diseño y Prototipado](../images/PF1/disyprot/23.jpeg){ width="800"}
+</figure>
+<figure markdown="span">
+  ![Imagen 24 - Diseño y Prototipado](../images/PF1/disyprot/24.jpeg){ width="800"}
+</figure>
+<figure markdown="span">
+  ![Imagen 25 - Diseño y Prototipado](../images/PF1/disyprot/25.jpeg){ width="800"}
+</figure>
+<figure markdown="span">
+  ![Imagen 26 - Diseño y Prototipado](../images/PF1/disyprot/26.jpeg){ width="800"}
+</figure>
+<figure markdown="span">
+  ![Imagen 27 - Diseño y Prototipado](../images/PF1/disyprot/27.jpeg){ width="800"}
+</figure>
+<figure markdown="span">
+  ![Imagen 28 - Diseño y Prototipado](../images/PF1/disyprot/28.jpeg){ width="800"}
+</figure>
+
 ## Selección de Componentes
 Decidí incluir resistencias, LEDs, interruptores, motores pequeños y cables conectores. Estos componentes permiten armar circuitos de dificultad progresiva, brindando una introducción gradual y sin frustración. También incluí instrucciones claras sobre el uso y cuidado de cada componente para que los adolescentes pudieran usarlos de forma segura y responsable.
 
@@ -47,9 +134,56 @@ La fase de fabricación incluye el uso de herramientas de fabricación digital c
 ## Imágenes del Proceso de Fabricación y Ensamblaje
 
 <figure markdown="span">
-  ![Imagen 1](../images/PF1/1.jpeg){ width="800"}
+  ![Imagen 1 - Proceso de Fabricación y Ensamblaje](../images/PF1/1.jpeg){ width="800"}
 </figure>
 
+<figure markdown="span">
+  ![Imagen 2 - Proceso de Fabricación y Ensamblaje](../images/PF1/2.jpeg){ width="800"}
+</figure>
+
+<figure markdown="span">
+  ![Imagen 3 - Proceso de Fabricación y Ensamblaje](../images/PF1/3.jpeg){ width="800"}
+</figure>
+
+<figure markdown="span">
+  ![Imagen 4 - Proceso de Fabricación y Ensamblaje](../images/PF1/4.jpeg){ width="800"}
+</figure>
+
+<figure markdown="span">
+  ![Imagen 5 - Proceso de Fabricación y Ensamblaje](../images/PF1/5.jpeg){ width="800"}
+</figure>
+
+<figure markdown="span">
+  ![Imagen 6 - Proceso de Fabricación y Ensamblaje](../images/PF1/6.jpeg){ width="800"}
+</figure>
+
+<figure markdown="span">
+  ![Imagen 7 - Proceso de Fabricación y Ensamblaje](../images/PF1/7.jpeg){ width="800"}
+</figure>
+
+<figure markdown="span">
+  ![Imagen 8 - Proceso de Fabricación y Ensamblaje](../images/PF1/8.jpeg){ width="800"}
+</figure>
+
+<figure markdown="span">
+  ![Imagen 9 - Proceso de Fabricación y Ensamblaje](../images/PF1/9.jpeg){ width="800"}
+</figure>
+
+<figure markdown="span">
+  ![Imagen 10 - Proceso de Fabricación y Ensamblaje](../images/PF1/10.jpeg){ width="800"}
+</figure>
+
+<figure markdown="span">
+  ![Imagen 11 - Proceso de Fabricación y Ensamblaje](../images/PF1/11.jpeg){ width="800"}
+</figure>
+
+<figure markdown="span">
+  ![Imagen 12 - Proceso de Fabricación y Ensamblaje](../images/PF1/12.jpeg){ width="800"}
+</figure>
+
+<figure markdown="span">
+  ![Imagen 13 - Proceso de Fabricación y Ensamblaje](../images/PF1/13.jpeg){ width="800"}
+</figure>
 
 ## Ensamblaje del Kit
 Es importante que cada componente tenga instrucciones detalladas de ensamblaje, siendo estas diseñadas para que los adolescentes puedan seguirlas fácilmente. Las guías incluyen diagramas y fotos paso a paso, con el fin de que los usuarios puedan armar los circuitos de manera autónoma y sin necesidad de supervisión constante. Además, incluí advertencias de seguridad para que los adolescentes sean conscientes de los cuidados que deben tener al trabajar con componentes electrónicos.
