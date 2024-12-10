@@ -37,88 +37,88 @@ Para una verisión inicial, el kit contara con 8 módulos:
 ## Imágenes del Proceso de Diseño y Prototipado
 
 <figure markdown="span">
-  ![Imagen 1 - Diseño y Prototipado](../images/PF1/disyprot/1.jpeg){ width="800"}
+  ![Imagen 1 - Diseño y Prototipado](../images/PF1/disyprot/1.png){ width="800"}
 </figure>
 <figure markdown="span">
-  ![Imagen 2 - Diseño y Prototipado](../images/PF1/disyprot/2.jpeg){ width="800"}
+  ![Imagen 2 - Diseño y Prototipado](../images/PF1/disyprot/2.png){ width="800"}
 </figure>
 <figure markdown="span">
-  ![Imagen 3 - Diseño y Prototipado](../images/PF1/disyprot/3.jpeg){ width="800"}
+  ![Imagen 3 - Diseño y Prototipado](../images/PF1/disyprot/3.png){ width="800"}
 </figure>
 <figure markdown="span">
-  ![Imagen 4 - Diseño y Prototipado](../images/PF1/disyprot/4.jpeg){ width="800"}
+  ![Imagen 4 - Diseño y Prototipado](../images/PF1/disyprot/4.png){ width="800"}
 </figure>
 <figure markdown="span">
-  ![Imagen 5 - Diseño y Prototipado](../images/PF1/disyprot/5.jpeg){ width="800"}
+  ![Imagen 5 - Diseño y Prototipado](../images/PF1/disyprot/5.png){ width="800"}
 </figure>
 <figure markdown="span">
-  ![Imagen 6 - Diseño y Prototipado](../images/PF1/disyprot/6.jpeg){ width="800"}
+  ![Imagen 6 - Diseño y Prototipado](../images/PF1/disyprot/6.png){ width="800"}
 </figure>
 <figure markdown="span">
-  ![Imagen 7 - Diseño y Prototipado](../images/PF1/disyprot/7.jpeg){ width="800"}
+  ![Imagen 7 - Diseño y Prototipado](../images/PF1/disyprot/7.png){ width="800"}
 </figure>
 <figure markdown="span">
-  ![Imagen 8 - Diseño y Prototipado](../images/PF1/disyprot/8.jpeg){ width="800"}
+  ![Imagen 8 - Diseño y Prototipado](../images/PF1/disyprot/8.png){ width="800"}
 </figure>
 <figure markdown="span">
-  ![Imagen 9 - Diseño y Prototipado](../images/PF1/disyprot/9.jpeg){ width="800"}
+  ![Imagen 9 - Diseño y Prototipado](../images/PF1/disyprot/9.png){ width="800"}
 </figure>
 <figure markdown="span">
-  ![Imagen 10 - Diseño y Prototipado](../images/PF1/disyprot/10.jpeg){ width="800"}
+  ![Imagen 10 - Diseño y Prototipado](../images/PF1/disyprot/10.png){ width="800"}
 </figure>
 <figure markdown="span">
-  ![Imagen 11 - Diseño y Prototipado](../images/PF1/disyprot/11.jpeg){ width="800"}
+  ![Imagen 11 - Diseño y Prototipado](../images/PF1/disyprot/11.png){ width="800"}
 </figure>
 <figure markdown="span">
-  ![Imagen 12 - Diseño y Prototipado](../images/PF1/disyprot/12.jpeg){ width="800"}
+  ![Imagen 12 - Diseño y Prototipado](../images/PF1/disyprot/12.png){ width="800"}
 </figure>
 <figure markdown="span">
-  ![Imagen 13 - Diseño y Prototipado](../images/PF1/disyprot/13.jpeg){ width="800"}
+  ![Imagen 13 - Diseño y Prototipado](../images/PF1/disyprot/13.png){ width="800"}
 </figure>
 <figure markdown="span">
-  ![Imagen 14 - Diseño y Prototipado](../images/PF1/disyprot/14.jpeg){ width="800"}
+  ![Imagen 14 - Diseño y Prototipado](../images/PF1/disyprot/14.png){ width="800"}
 </figure>
 <figure markdown="span">
-  ![Imagen 15 - Diseño y Prototipado](../images/PF1/disyprot/15.jpeg){ width="800"}
+  ![Imagen 15 - Diseño y Prototipado](../images/PF1/disyprot/15.png){ width="800"}
 </figure>
 <figure markdown="span">
-  ![Imagen 16 - Diseño y Prototipado](../images/PF1/disyprot/16.jpeg){ width="800"}
+  ![Imagen 16 - Diseño y Prototipado](../images/PF1/disyprot/16.png){ width="800"}
 </figure>
 <figure markdown="span">
-  ![Imagen 17 - Diseño y Prototipado](../images/PF1/disyprot/17.jpeg){ width="800"}
+  ![Imagen 17 - Diseño y Prototipado](../images/PF1/disyprot/17.png){ width="800"}
 </figure>
 <figure markdown="span">
-  ![Imagen 18 - Diseño y Prototipado](../images/PF1/disyprot/18.jpeg){ width="800"}
+  ![Imagen 18 - Diseño y Prototipado](../images/PF1/disyprot/18.png){ width="800"}
 </figure>
 <figure markdown="span">
-  ![Imagen 19 - Diseño y Prototipado](../images/PF1/disyprot/19.jpeg){ width="800"}
+  ![Imagen 19 - Diseño y Prototipado](../images/PF1/disyprot/19.png){ width="800"}
 </figure>
 <figure markdown="span">
-  ![Imagen 20 - Diseño y Prototipado](../images/PF1/disyprot/20.jpeg){ width="800"}
+  ![Imagen 20 - Diseño y Prototipado](../images/PF1/disyprot/20.png){ width="800"}
 </figure>
 <figure markdown="span">
-  ![Imagen 21 - Diseño y Prototipado](../images/PF1/disyprot/21.jpeg){ width="800"}
+  ![Imagen 21 - Diseño y Prototipado](../images/PF1/disyprot/21.png){ width="800"}
 </figure>
 <figure markdown="span">
-  ![Imagen 22 - Diseño y Prototipado](../images/PF1/disyprot/22.jpeg){ width="800"}
+  ![Imagen 22 - Diseño y Prototipado](../images/PF1/disyprot/22.png){ width="800"}
 </figure>
 <figure markdown="span">
-  ![Imagen 23 - Diseño y Prototipado](../images/PF1/disyprot/23.jpeg){ width="800"}
+  ![Imagen 23 - Diseño y Prototipado](../images/PF1/disyprot/23.png){ width="800"}
 </figure>
 <figure markdown="span">
-  ![Imagen 24 - Diseño y Prototipado](../images/PF1/disyprot/24.jpeg){ width="800"}
+  ![Imagen 24 - Diseño y Prototipado](../images/PF1/disyprot/24.png){ width="800"}
 </figure>
 <figure markdown="span">
-  ![Imagen 25 - Diseño y Prototipado](../images/PF1/disyprot/25.jpeg){ width="800"}
+  ![Imagen 25 - Diseño y Prototipado](../images/PF1/disyprot/25.png){ width="800"}
 </figure>
 <figure markdown="span">
-  ![Imagen 26 - Diseño y Prototipado](../images/PF1/disyprot/26.jpeg){ width="800"}
+  ![Imagen 26 - Diseño y Prototipado](../images/PF1/disyprot/26.png){ width="800"}
 </figure>
 <figure markdown="span">
-  ![Imagen 27 - Diseño y Prototipado](../images/PF1/disyprot/27.jpeg){ width="800"}
+  ![Imagen 27 - Diseño y Prototipado](../images/PF1/disyprot/27.png){ width="800"}
 </figure>
 <figure markdown="span">
-  ![Imagen 28 - Diseño y Prototipado](../images/PF1/disyprot/28.jpeg){ width="800"}
+  ![Imagen 28 - Diseño y Prototipado](../images/PF1/disyprot/28.png){ width="800"}
 </figure>
 
 ## Selección de Componentes
