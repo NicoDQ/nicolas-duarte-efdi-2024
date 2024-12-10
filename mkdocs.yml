@@ -31,8 +31,14 @@ nav:
     - MI02 - IAD: innovacion/mi02-iad.md
     - MI02 - DSyEC: innovacion/mi02-dsec.md
   - Proyecto Integrador:
-    - Kit Circuitos : proyecto/proyecto.md
+#    - Kit Circuitos : proyecto/proyecto.md
     - WHTMet - Estación Meteorológica IoT : proyecto/proyecto2.md
+    - Subíndices:
+          - descripcion_del_proyecto: "proyecto/proyecto2-1.md"
+          - requisitos_del_sistema: "proyecto/proyecto2-2.md"
+          - diseño_y_funcionalidad: "proyecto/proyecto2-3.md"
+          - pruebas_y_validacion: "proyecto/proyecto2-4.md"
+          - resultados_esperados: "proyecto/proyecto2-5.md"   
 
 extra:
   social:

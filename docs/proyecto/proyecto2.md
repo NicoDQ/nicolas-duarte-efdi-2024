@@ -118,6 +118,9 @@ Adjunto por aquí debajo los primeros bocetos y las ideas tomadas al inicio del 
 
 Una vez que los bocetos iniciales estuvieron listos, pasé a trabajar en modelos 3D utilizando programas de CAD (particularmente Fusion 360), lo que permitió crear representaciones digitales más precisas y detalladas de cada pieza del sistema. Estos modelos no solo ayudaron a visualizar el producto final, sino que también facilitaron la verificación de las dimensiones y la integración de los componentes, garantizando que todo encajara correctamente y que no hubiera interferencias entre los circuitos y las estructuras físicas. Ya que a medida que realizaba los modelos, los iba imprimiendo para tenerlos fisicamente e ir prototipando:
 
+
+##  Diseño y Prototipado - Caja/Carcasa
+
 <figure markdown="span">
   ![Imagen 1 - Diseño y Prototipado - F360](../images/PF2/f360/1.png){ width="800"}
 </figure>
@@ -158,97 +161,79 @@ Como se observa, se pasó por 3 versiones distintas de la caja de circuitos.
 
 El diseño de los circuitos fue clave en este proceso, ya que los dispositivos debían ser fáciles de ensamblar y operar. La elección de componentes como el ESP32, junto con sensores de bajo costo, permitió crear un sistema modular y escalable, que podría ser ensamblado sin complicaciones.
 
+##  Diseño y Prototipado - Circuitos
+
 <figure markdown="span">
-  ![Imagen 1 - Diseño y Prototipado - Prototipado Circuitos](../images/PF2/prototipadoCircuitos/1.jpeg){ width="800"}
+  ![Imagen 1 - Diseño y Prototipado - Prototipado Circuitos](../images/PF2/prototipadoCircuito/1.jpeg){ width="800"}
 </figure>
 
 <figure markdown="span">
-  ![Imagen 2 - Diseño y Prototipado - Prototipado Circuitos](../images/PF2/prototipadoCircuitos/2.jpeg){ width="800"}
+  ![Imagen 2 - Diseño y Prototipado - Prototipado Circuitos](../images/PF2/prototipadoCircuito/2.jpeg){ width="800"}
 </figure>
 
 <figure markdown="span">
-  ![Imagen 3 - Diseño y Prototipado - Prototipado Circuitos](../images/PF2/prototipadoCircuitos/3.jpeg){ width="800"}
+  ![Imagen 3 - Diseño y Prototipado - Prototipado Circuitos](../images/PF2/prototipadoCircuito/3.jpeg){ width="800"}
 </figure>
 
 <figure markdown="span">
-  ![Imagen 4 - Diseño y Prototipado - Prototipado Circuitos](../images/PF2/prototipadoCircuitos/4.jpeg){ width="800"}
+  ![Imagen 4 - Diseño y Prototipado - Prototipado Circuitos](../images/PF2/prototipadoCircuito/4.jpeg){ width="800"}
 </figure>
 
 <figure markdown="span">
-  ![Imagen 5 - Diseño y Prototipado - Prototipado Circuitos](../images/PF2/prototipadoCircuitos/5.jpeg){ width="800"}
+  ![Imagen 5 - Diseño y Prototipado - Prototipado Circuitos](../images/PF2/prototipadoCircuito/5.jpeg){ width="800"}
 </figure>
 
 <figure markdown="span">
-  ![Imagen 6 - Diseño y Prototipado - Prototipado Circuitos](../images/PF2/prototipadoCircuitos/6.jpeg){ width="800"}
+  ![Imagen 6 - Diseño y Prototipado - Prototipado Circuitos](../images/PF2/prototipadoCircuito/6.jpeg){ width="800"}
 </figure>
 
 <figure markdown="span">
-  ![Imagen 7 - Diseño y Prototipado - Prototipado Circuitos](../images/PF2/prototipadoCircuitos/7.jpeg){ width="800"}
+  ![Imagen 7 - Diseño y Prototipado - Prototipado Circuitos](../images/PF2/prototipadoCircuito/7.jpeg){ width="800"}
 </figure>
 
 <figure markdown="span">
-  ![Imagen 8 - Diseño y Prototipado - Prototipado Circuitos](../images/PF2/prototipadoCircuitos/8.jpeg){ width="800"}
+  ![Imagen 8 - Diseño y Prototipado - Prototipado Circuitos](../images/PF2/prototipadoCircuito/8.jpeg){ width="800"}
 </figure>
 
 <figure markdown="span">
-  ![Imagen 9 - Diseño y Prototipado - Prototipado Circuitos](../images/PF2/prototipadoCircuitos/9.jpeg){ width="800"}
+  ![Imagen 9 - Diseño y Prototipado - Prototipado Circuitos](../images/PF2/prototipadoCircuito/9.jpeg){ width="800"}
 </figure>
 
 <figure markdown="span">
-  ![Imagen 10 - Diseño y Prototipado - Prototipado Circuitos](../images/PF2/prototipadoCircuitos/10.jpeg){ width="800"}
+  ![Imagen 10 - Diseño y Prototipado - Prototipado Circuitos](../images/PF2/prototipadoCircuito/10.jpeg){ width="800"}
 </figure>
 
 <figure markdown="span">
-  ![Imagen 11 - Diseño y Prototipado - Prototipado Circuitos](../images/PF2/prototipadoCircuitos/11.jpeg){ width="800"}
+  ![Imagen 11 - Diseño y Prototipado - Prototipado Circuitos](../images/PF2/prototipadoCircuito/11.jpeg){ width="800"}
 </figure>
 
 <figure markdown="span">
-  ![Imagen 12 - Diseño y Prototipado - Prototipado Circuitos](../images/PF2/prototipadoCircuitos/12.jpeg){ width="800"}
+  ![Imagen 12 - Diseño y Prototipado - Prototipado Circuitos](../images/PF2/prototipadoCircuito/12.jpeg){ width="800"}
 </figure>
 
 <figure markdown="span">
-  ![Imagen 13 - Diseño y Prototipado - Prototipado Circuitos](../images/PF2/prototipadoCircuitos/13.jpeg){ width="800"}
+  ![Imagen 13 - Diseño y Prototipado - Prototipado Circuitos](../images/PF2/prototipadoCircuito/13.jpeg){ width="800"}
 </figure>
 
 <figure markdown="span">
-  ![Imagen 14 - Diseño y Prototipado - Prototipado Circuitos](../images/PF2/prototipadoCircuitos/14.jpeg){ width="800"}
+  ![Imagen 14 - Diseño y Prototipado - Prototipado Circuitos](../images/PF2/prototipadoCircuito/14.jpeg){ width="800"}
 </figure>
 
 <figure markdown="span">
-  ![Imagen 15 - Diseño y Prototipado - Prototipado Circuitos](../images/PF2/prototipadoCircuitos/15.jpeg){ width="800"}
+  ![Imagen 15 - Diseño y Prototipado - Prototipado Circuitos](../images/PF2/prototipadoCircuito/15.jpeg){ width="800"}
 </figure>
 
 <figure markdown="span">
-  ![Imagen 16 - Diseño y Prototipado - Prototipado Circuitos](../images/PF2/prototipadoCircuitos/16.jpeg){ width="800"}
+  ![Imagen 16 - Diseño y Prototipado - Prototipado Circuitos](../images/PF2/prototipadoCircuito/16.jpeg){ width="800"}
 </figure>
 
 <figure markdown="span">
-  ![Imagen 17 - Diseño y Prototipado - Prototipado Circuitos](../images/PF2/prototipadoCircuitos/17.jpeg){ width="800"}
+  ![Imagen 17 - Diseño y Prototipado - Prototipado Circuitos](../images/PF2/prototipadoCircuito/17.jpeg){ width="800"}
 </figure>
 
 El prototipado se realizó a través de la impresión 3D y la fabricación digital, permitiendo iterar rápidamente en los diseños, hacer ajustes en tiempo real y probar diferentes configuraciones antes de pasar a la fase de producción. Este enfoque que brinda justamente esa flexibilidad, garantizó que cada iteración del prototipo fuera más eficiente y funcional, acercándonos cada vez más a una solución que pudiera ser implementada y utilizada de manera práctica y económica por los productores y gestores forestales.
 
 El diseño y prototipado de WHTMet no solo consideró los aspectos técnicos y funcionales del sistema, sino que también priorizó la capacidad de adaptación, permitiendo que fuera una herramienta útil y práctica.
-
-
-## Selección de Componentes
-Decidí incluir resistencias, LEDs, interruptores, motores pequeños y cables conectores. Estos componentes permiten armar circuitos de dificultad progresiva, brindando una introducción gradual y sin frustración. También incluí instrucciones claras sobre el uso y cuidado de cada componente para que los adolescentes pudieran usarlos de forma segura y responsable.
-
-## Uso de Materiales Sostenibles
-Para hacer el proyecto sostenible, opté por usar ABS reciclado proveniente de tablets y carretes de filamento desechados. Este material está pensado para ser utilizado a la hora de crear las carcasas y bases de los circuitos, brindando durabilidad y resistencia sin necesidad de utilizar materiales nuevos. La sostenibilidad fue un criterio importante durante todo el desarrollo, ya que, además de educar en electrónica, quería que este proyecto transmitiera valores de respeto y cuidado del ambiente.
-
-# Fabricación y Ensamblaje
-
-La fase de fabricación incluye el uso de herramientas de fabricación digital como la impresora 3D para crear las piezas del kit. Las bases de los circuitos y las carcasas de los componentes serán en principio impresas en 3D utilizando PLA para validar la idea, una vez validada, como anteriormente mencioné, el foco está en fabricarlos con ABS reciclado, lo que les da un toque distintivo y respalda el mensaje de sostenibilidad que, como mencionaba con antelación, quiero transmitir con el proyecto.
-
-## Ensamblaje del Kit
-Es importante que cada componente tenga instrucciones detalladas de ensamblaje, siendo estas diseñadas para que los adolescentes puedan seguirlas fácilmente. Las guías incluyen diagramas y fotos paso a paso, con el fin de que los usuarios puedan armar los circuitos de manera autónoma y sin necesidad de supervisión constante. Además, incluí advertencias de seguridad para que los adolescentes sean conscientes de los cuidados que deben tener al trabajar con componentes electrónicos.
-
-# Pruebas y Evaluación del Kit
-
-En esta etapa con la finalidad de evaluar la funcionalidad y efectividad del kit, realicé pruebas tanto en los circuitos individuales como en su funcionamiento integrado. Probé cada componente para asegurarme de que resistencias, LEDs y motores funcionaran como estaba previsto y fueran seguros para su manipulación por el publico objetivo. Tras esta verificación inicial, al no poder realizar la prueba con el docente José, debido a que se encuentra de licencia médica, invité a 4 primos que tienen entre 14 y 16 años, para que en base a una serie de pruebas del primer prototipo, me den feedback, sobre la facilidad de uso y comprensión de los circuitos.
-
-El feedback fue positivo en general: los adolescentes que me ayudaron aquí no solo muestran un disfrute el proceso de ensamblar los circuitos, sino que también lograron comprender un poco mejor los conceptos básicos de la corriente continua y aplicarlos de una manera lúdica. En base a algiunos de los comentarios de chicos, estos, me permitieron ajustar algunos aspectos, como esclarecer ciertas instrucciones y mejorar la estabilidad de algunas conexiones.
 
 # Impacto y Beneficios
 
