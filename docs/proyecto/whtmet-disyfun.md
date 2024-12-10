@@ -11,9 +11,14 @@ El diseño y funcionalidad de WHTMet está basado en un enfoque abierto y modula
 
 ## Proxmox
 
+![Imagen de Proxmox](../images/PF2/imagenesTec/proxmox.png#mt02){ align=left }
+
+
 Proxmox es una plataforma de virtualización de código abierto que se utiliza en WHTMet para la gestión de servidores y máquinas virtuales. En el contexto del proyecto, Proxmox permite crear un entorno centralizado y eficiente para gestionar y almacenar los datos climáticos recolectados por los sensores distribuidos en las plantaciones. La capacidad de virtualizar múltiples entornos dentro de una sola máquina física optimiza el uso de recursos y proporciona una base sólida para futuras expansiones del sistema, al permitir la creación de entornos dedicados para diferentes módulos de software sin la necesidad de hardware adicional.
 
 ## Mosquitto MQTT
+
+![Imagen de MosquittoMQTT](../images/PF2/imagenesTec/mosquitto.jpeg#mt02){ align=left }
 
 Se utiliza Mosquitto como el broker MQTT. Mosquitto es un servidor de código abierto, ligero y altamente eficiente para la implementación de la comunicación basada en el protocolo MQTT. Es ampliamente utilizado en sistemas IoT debido a su simplicidad y bajo consumo de recursos, lo que lo hace ideal para entornos con dispositivos limitados en términos de memoria y potencia de procesamiento, como los sensores distribuidos en las plantaciones.
 
