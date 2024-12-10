@@ -36,9 +36,9 @@ nav:
     - WHTMet - Estación Meteorológica IoT :
           - Introducción: "proyecto/whtmet-intro.md"
           - Diseño y Prototipado: "proyecto/whtmet-disyprot.md"
-          - diseño_y_funcionalidad: "proyecto/proyecto2-3.md"
+          - Diseño y Funcionalidad: "proyecto/whtmet-disyfun.md"
           - pruebas_y_validacion: "proyecto/proyecto2-4.md"
-          - resultados_esperados: "proyecto/proyecto2-5.md"   
+          - Conclusiones y Reflexión: "proyecto/whtmet-conclyrefl.md"   
 
 extra:
   social:
