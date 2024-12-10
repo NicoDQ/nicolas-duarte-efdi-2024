@@ -88,6 +88,21 @@ Como se observa, se pasó por 3 versiones distintas de la caja de circuitos.
 </video>
 
 
+# Timelapse Apliques MQTT y WiFi
+
+
+<video width="600"  controls>
+  <source src="../../videos/tlApliquesMQTTyWiFi.mp4" type="video/mp4">
+</video>
+
+
+# Timelapse Apliques MQTT y InfluxDB
+
+
+<video width="600"  controls>
+  <source src="../../videos/tlApliquesMQTTyInfluxDB.mp4" type="video/mp4">
+</video>
+
 El diseño de los circuitos fue clave en este proceso, ya que los dispositivos debían ser fáciles de ensamblar y operar. La elección de componentes como el ESP32, junto con sensores de bajo costo, permitió crear un sistema modular y escalable, que podría ser ensamblado sin complicaciones.
 
 ##  Diseño y Prototipado - Circuitos
