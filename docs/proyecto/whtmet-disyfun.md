@@ -52,6 +52,7 @@ El ESP32 es un microcontrolador de bajo costo y alto rendimiento que se utiliza 
 Los sensores de bajo costo, que miden variables como la temperatura, la humedad y el viento, proporcionan los datos necesarios para optimizar la gestión de las plantaciones de eucalipto, permitiendo a los gestores tomar decisiones informadas sobre el riego y el cuidado forestal.
 
 
+
 ## Diseño Abierto y Personalización
 
 El sistema de WHTMet se ha desarrollado bajo un enfoque de diseño abierto, lo que implica que todos los componentes y planos están disponibles para ser modificados y personalizados por cualquier comunidad o desarrollador. Esta apertura fomenta la colaboración y la innovación, permitiendo que los usuarios adapten el sistema a sus necesidades específicas, como la incorporación de sensores adicionales o la modificación de la estructura física. El acceso a los planos y a la documentación técnica también facilita la fabricación local y el uso de materiales reciclables, lo que refuerza la sostenibilidad y la autonomía de las comunidades.
