@@ -211,6 +211,50 @@ Si seguimos correctamente los pasos anteriormente detallados, tendríamos algo s
   <source src="../../videos/armCabSHT31-4.mp4" type="video/mp4">
 </video>
 
+
+7. Montaje de Protoboard y ESP32.
+
+<figure markdown="span">
+  ![Imagen 1 - Armado - MontajeProtoboard](../images/PF2/armado/35.jpeg){ width="800"}
+</figure>
+
+<figure markdown="span">
+  ![Imagen 2 - Armado - MontajeProtoboard](../images/PF2/armado/36.jpeg){ width="800"}
+</figure>
+
+<video width="600" controls>
+  <source src="../../videos/armAntenaESP32.mp4" type="video/mp4">
+</video>
+
+8. Montaje de Pilotos LEDS MQTT y WiFi.
+
+<figure markdown="span">
+  ![Imagen 1 - Armado - MontajePilotosMQTTyWiFi](../images/PF2/armado/37.jpeg){ width="800"}
+</figure>
+<figure markdown="span">
+  ![Imagen 1 - Armado - MontajePilotosMQTTyWiFi](../images/PF2/armado/38.jpeg){ width="800"}
+</figure>
+
+<video width="600" controls>
+  <source src="../../videos/armPil-1.mp4" type="video/mp4">
+</video>
+
+<video width="600" controls>
+  <source src="../../videos/armPil-2.mp4" type="video/mp4">
+</video>
+
+### Chequeo de Armado 2
+
+Si seguimos correctamente los pasos anteriormente detallados, tendríamos algo similar a esto:
+
+<figure markdown="span">
+  ![Imagen 1 - Armado - ChequeoArmado2](../images/PF2/armado/39.jpeg){ width="800"}
+</figure>
+
+<video width="600" controls>
+  <source src="../../videos/armPanorCA2.mp4" type="video/mp4">
+</video>
+
 <figure markdown="span">
   ![Logo de UTEC y FABLAB](../images/logoutecfab.png){ width="400"}
 </figure>
