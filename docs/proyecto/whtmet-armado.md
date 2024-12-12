@@ -165,7 +165,7 @@ Si seguimos correctamente los pasos anteriormente detallados, tendríamos algo s
   <source src="../../videos/armCabAnem3.mp4" type="video/mp4">
 </video>
 
-6. Pasaje de cables por PG7 del Sensor SHT31 y Colocación.
+6. Pasaje de cables por PG7 del Sensor SHT31 (Exterior) y Colocación.
 
 <figure markdown="span">
   ![Imagen 1 - Armado - PasajeSHT31Coloc](../images/PF2/armado/28.jpeg){ width="800"}
@@ -231,8 +231,9 @@ Si seguimos correctamente los pasos anteriormente detallados, tendríamos algo s
 <figure markdown="span">
   ![Imagen 1 - Armado - MontajePilotosMQTTyWiFi](../images/PF2/armado/37.jpeg){ width="800"}
 </figure>
+
 <figure markdown="span">
-  ![Imagen 1 - Armado - MontajePilotosMQTTyWiFi](../images/PF2/armado/38.jpeg){ width="800"}
+  ![Imagen 2 - Armado - MontajePilotosMQTTyWiFi](../images/PF2/armado/38.jpeg){ width="800"}
 </figure>
 
 <video width="600" controls>
@@ -254,6 +255,51 @@ Si seguimos correctamente los pasos anteriormente detallados, tendríamos algo s
 <video width="600" controls>
   <source src="../../videos/armPanorCA2.mp4" type="video/mp4">
 </video>
+
+9. Montaje y Conexionado de Sensor DHT11 (Interior).
+
+<figure markdown="span">
+  ![Imagen 1 - Armado - MontajeSensorDHT11](../images/PF2/armado/40.jpeg){ width="800"}
+</figure>
+
+<figure markdown="span">
+  ![Imagen 2 - Armado - MontajeSensorDHT11](../images/PF2/armado/41.jpeg){ width="800"}
+</figure>
+
+<video width="600" controls>
+  <source src="../../videos/armDHT11-1.mp4" type="video/mp4">
+</video>
+
+<video width="600" controls>
+  <source src="../../videos/armDHT11-2.mp4" type="video/mp4">
+</video>
+
+10. Conexionado Anemómetro.
+
+<video width="600" controls>
+  <source src="../../videos/armConAnem.mp4" type="video/mp4">
+</video>
+
+11. Conexionado Pilotos de MQTT y WiFi.
+
+<video width="600" controls>
+  <source src="../../videos/armConPilotMQTTyWifi.mp4" type="video/mp4">
+</video>
+
+12. Montaje pieza de Pilotos de MQTT y WiFi.
+
+<figure markdown="span">
+  ![Imagen 1 - Armado - MontajePiezaMQTTyWifi](../images/PF2/armado/42.jpeg){ width="800"}
+</figure>
+
+<figure markdown="span">
+  ![Imagen 2 - Armado - MontajePiezaMQTTyWifi](../images/PF2/armado/43.jpeg){ width="800"}
+</figure>
+
+<video width="600" controls>
+  <source src="../../videos/armPiezasPilotMQTTyWifi.mp4" type="video/mp4">
+</video>
+
 
 <figure markdown="span">
   ![Logo de UTEC y FABLAB](../images/logoutecfab.png){ width="400"}
