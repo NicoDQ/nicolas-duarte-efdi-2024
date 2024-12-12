@@ -88,12 +88,128 @@ En esta sección detallaré los pasos a seguir para armar un Nodo de WHTMet.
   <source src="../../videos/armInserts.mp4" type="video/mp4">
 </video>
 
+4. Colocación de los imanes en la caja.
+
+<figure markdown="span">
+  ![Imagen 1 - Armado - Caja y Imanes](../images/PF2/armado/15.jpeg){ width="800"}
+</figure>
+
+<figure markdown="span">
+  ![Imagen 2 - Armado - Caja y Imanes](../images/PF2/armado/16.jpeg){ width="800"}
+</figure>
+
+<figure markdown="span">
+  ![Imagen 3 - Armado - Caja y Imanes](../images/PF2/armado/17.jpeg){ width="800"}
+</figure>
+
+<figure markdown="span">
+  ![Imagen 4 - Armado - Caja y Imanes](../images/PF2/armado/18.jpeg){ width="800"}
+</figure>
+
+<figure markdown="span">
+  ![Imagen 5 - Armado - Caja y Imanes](../images/PF2/armado/19.jpeg){ width="800"}
+</figure>
 
 <video width="600" controls>
   <source src="../../videos/armImanes.mp4" type="video/mp4">
 </video>
 
+### Chequeo de Armado 1
 
+Si seguimos correctamente los pasos anteriormente detallados, tendríamos algo similar a esto:
+
+<figure markdown="span">
+  ![Imagen 1 - Armado - ChequeoArmado1](../images/PF2/armado/20.jpeg){ width="800"}
+</figure>
+
+<figure markdown="span">
+  ![Imagen 2 - Armado - ChequeoArmado1](../images/PF2/armado/21.jpeg){ width="800"}
+</figure>
+
+<figure markdown="span">
+  ![Imagen 3 - Armado - ChequeoArmado1](../images/PF2/armado/22.jpeg){ width="800"}
+</figure>
+
+
+5. Pasaje de cables por PG7 del Anemómetro.
+
+<figure markdown="span">
+  ![Imagen 1 - Armado - PasajeAnemometro](../images/PF2/armado/23.jpeg){ width="800"}
+</figure>
+
+<figure markdown="span">
+  ![Imagen 2 - Armado - PasajeAnemometro](../images/PF2/armado/24.jpeg){ width="800"}
+</figure>
+
+<figure markdown="span">
+  ![Imagen 3 - Armado - PasajeAnemometro](../images/PF2/armado/25.jpeg){ width="800"}
+</figure>
+
+<figure markdown="span">
+  ![Imagen 4 - Armado - PasajeAnemometro](../images/PF2/armado/26.jpeg){ width="800"}
+</figure>
+
+<figure markdown="span">
+  ![Imagen 5 - Armado - PasajeAnemometro](../images/PF2/armado/27.jpeg){ width="800"}
+</figure>
+
+<video width="600" controls>
+  <source src="../../videos/armCabAnem1.mp4" type="video/mp4">
+</video>
+
+<video width="600" controls>
+  <source src="../../videos/armCabAnem2.mp4" type="video/mp4">
+</video>
+
+<video width="600" controls>
+  <source src="../../videos/armCabAnem3.mp4" type="video/mp4">
+</video>
+
+6. Pasaje de cables por PG7 del Sensor SHT31 y Colocación.
+
+<figure markdown="span">
+  ![Imagen 1 - Armado - PasajeSHT31Coloc](../images/PF2/armado/28.jpeg){ width="800"}
+</figure>
+
+<figure markdown="span">
+  ![Imagen 2 - Armado - PasajeSHT31Coloc](../images/PF2/armado/29.jpeg){ width="800"}
+</figure>
+
+<figure markdown="span">
+  ![Imagen 3 - Armado - PasajeSHT31Coloc](../images/PF2/armado/30.jpeg){ width="800"}
+</figure>
+
+<figure markdown="span">
+  ![Imagen 4 - Armado - PasajeSHT31Coloc](../images/PF2/armado/31.jpeg){ width="800"}
+</figure>
+
+<figure markdown="span">
+  ![Imagen 5 - Armado - PasajeSHT31Coloc](../images/PF2/armado/32.jpeg){ width="800"}
+</figure>
+
+<figure markdown="span">
+  ![Imagen 6 - Armado - PasajeSHT31Coloc](../images/PF2/armado/33.jpeg){ width="800"}
+</figure>
+
+<figure markdown="span">
+  ![Imagen 7 - Armado - PasajeSHT31Coloc](../images/PF2/armado/34.jpeg){ width="800"}
+</figure>
+
+<video width="600" controls>
+  <source src="../../videos/armCabSHT31-1.mp4" type="video/mp4">
+</video>
+
+<video width="600" controls>
+  <source src="../../videos/armCabSHT31-2.mp4" type="video/mp4">
+</video>
+
+<video width="600" controls>
+  <source src="../../videos/armCabSHT31-3.mp4" type="video/mp4">
+</video>
+
+<video width="600" controls>
+  <source src="../../videos/armCabSHT31-4.mp4" type="video/mp4">
+</video>
 
 <figure markdown="span">
   ![Logo de UTEC y FABLAB](../images/logoutecfab.png){ width="400"}
