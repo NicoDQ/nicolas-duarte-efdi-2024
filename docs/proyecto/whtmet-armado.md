@@ -292,14 +292,130 @@ Si seguimos correctamente los pasos anteriormente detallados, tendríamos algo s
   ![Imagen 1 - Armado - MontajePiezaMQTTyWifi](../images/PF2/armado/42.jpeg){ width="800"}
 </figure>
 
-<figure markdown="span">
-  ![Imagen 2 - Armado - MontajePiezaMQTTyWifi](../images/PF2/armado/43.jpeg){ width="800"}
-</figure>
-
 <video width="600" controls>
   <source src="../../videos/armPiezasPilotMQTTyWifi.mp4" type="video/mp4">
 </video>
 
+### Chequeo de Armado 3
+
+Si seguimos correctamente los pasos anteriormente detallados, tendríamos algo similar a esto:
+
+<figure markdown="span">
+  ![Imagen 2 - Armado - ChequeoArmado3](../images/PF2/armado/43.jpeg){ width="800"}
+</figure>
+
+12. Conexionado SHT31 (Externo).
+
+<video width="600" controls>
+  <source src="../../videos/armConSHT31-1.mp4" type="video/mp4">
+</video>
+
+**FE DE ERRATAS!: El cable Rosa (VDD), conectarlo a 3V NO a pin 19.**
+
+<video width="600" controls>
+  <source src="../../videos/armConSHT31-2.mp4" type="video/mp4">
+</video>
+
+13. Conexionado de pilotos de publicación de InfluxDB y MQTT.
+
+<figure markdown="span">
+  ![Imagen 1 - Armado - ConexionadoPilotosIDByMQTT1](../images/PF2/armado/44.png){ width="800"}
+</figure>
+
+<figure markdown="span">
+  ![Imagen 2 - Armado - ConexionadoPilotosIDByMQTT2](../images/PF2/armado/45.png){ width="800"}
+</figure>
+
+<video width="600" controls>
+  <source src="../../videos/armPilIDByMQTT-1.mp4" type="video/mp4">
+</video>
+
+<video width="600" controls>
+  <source src="../../videos/armPilIDByMQTT-2.mp4" type="video/mp4">
+</video>
+
+14. Conexion de la antenna WiFi.
+
+<video width="600" controls>
+  <source src="../../videos/armConAntena.mp4" type="video/mp4">
+</video>
+
+### Chequeo de Armado Final
+
+Llegamos al final del armado de un Nodo de WHTMet.
+Si seguimos correctamente los pasos anteriormente detallados, tendríamos algo similar a esto:
+
+<figure markdown="span">
+  ![Imagen 1 - Armado - ChequeoArmadoFinal](../images/PF2/armado/46.jpeg){ width="800"}
+</figure>
+
+<figure markdown="span">
+  ![Imagen 2 - Armado - ChequeoArmadoFinal](../images/PF2/armado/47.jpeg){ width="800"}
+</figure>
+
+<figure markdown="span">
+  ![Imagen 3 - Armado - ChequeoArmadoFinal](../images/PF2/armado/48.png){ width="800"}
+</figure>
+
+<figure markdown="span">
+  ![Imagen 4 - Armado - ChequeoArmadoFinal](../images/PF2/armado/49.png){ width="800"}
+</figure>
+
+<figure markdown="span">
+  ![Imagen 5 - Armado - ChequeoArmadoFinal](../images/PF2/armado/50.jpeg){ width="800"}
+</figure>
+
+<figure markdown="span">
+  ![Imagen 6 - Armado - ChequeoArmadoFinal](../images/PF2/armado/51.jpeg){ width="800"}
+</figure>
+
+<figure markdown="span">
+  ![Imagen 7 - Armado - ChequeoArmadoFinal](../images/PF2/armado/52.png){ width="800"}
+</figure>
+
+<figure markdown="span">
+  ![Imagen 8 - Armado - ChequeoArmadoFinal](../images/PF2/armado/53.png){ width="800"}
+</figure>
+
+<figure markdown="span">
+  ![Imagen 9 - Armado - ChequeoArmadoFinal](../images/PF2/armado/54.jpeg){ width="800"}
+</figure>
+
+<figure markdown="span">
+  ![Imagen 10 - Armado - ChequeoArmadoFinal](../images/PF2/armado/55.jpeg){ width="800"}
+</figure>
+
+<figure markdown="span">
+  ![Imagen 11 - Armado - ChequeoArmadoFinal](../images/PF2/armado/56.jpeg){ width="800"}
+</figure>
+
+<figure markdown="span">
+  ![Imagen 12 - Armado - ChequeoArmadoFinal](../images/PF2/armado/57.png){ width="800"}
+</figure>
+
+<figure markdown="span">
+  ![Imagen 13 - Armado - ChequeoArmadoFinal](../images/PF2/armado/58.jpeg){ width="800"}
+</figure>
+
+<figure markdown="span">
+  ![Imagen 14 - Armado - ChequeoArmadoFinal](../images/PF2/armado/59.jpeg){ width="800"}
+</figure>
+
+<figure markdown="span">
+  ![Imagen 15 - Armado - ChequeoArmadoFinal](../images/PF2/armado/60.jpeg){ width="800"}
+</figure>
+
+<figure markdown="span">
+  ![Imagen 16 - Armado - ChequeoArmadoFinal](../images/PF2/armado/61.jpeg){ width="800"}
+</figure>
+
+<figure markdown="span">
+  ![Imagen 17 - Armado - ChequeoArmadoFinal](../images/PF2/armado/62.jpeg){ width="800"}
+</figure>
+
+<video width="600" controls>
+  <source src="../../videos/armPaneoFinal.mp4" type="video/mp4">
+</video>
 
 <figure markdown="span">
   ![Logo de UTEC y FABLAB](../images/logoutecfab.png){ width="400"}
