@@ -39,6 +39,7 @@ nav:
           - Diseño y Funcionalidad: "proyecto/whtmet-disyfun.md"
           - Codigo Esp32: "proyecto/whtmet-codigoEsp32.md"
           - Armado del Prototipo: "proyecto/whtmet-armado.md"
+          - Recursos Proyecto: "proyecto/whtmet-recursos.md"
           - Conclusiones y Reflexión: "proyecto/whtmet-conclyrefl.md"   
 
 extra:
