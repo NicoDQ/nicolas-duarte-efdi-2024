@@ -9,7 +9,7 @@ hide:
 
 En esta sección detallaré los pasos a seguir para armar un Nodo de WHTMet.
 
-1. Armado de los LEDs (pilotos) tanto de MQTT como el de InfluxDB.
+- **Armado de los LEDs (pilotos) tanto de MQTT como el de InfluxDB.**
 
 <figure markdown="span">
   ![Imagen 1 - Armado - Pilotos MQTT y InfluxDB](../images/PF2/armado/1.jpeg#soloBordesRed)
@@ -45,7 +45,7 @@ En esta sección detallaré los pasos a seguir para armar un Nodo de WHTMet.
   ![Imagen 7 - Armado - Pilotos MQTT y InfluxDB](../images/PF2/armado/7.jpeg#soloBordesRed)
 </figure>
 
-2. Colocación de los conectores PG7 en la caja.
+- **Colocación de los conectores PG7 en la caja.**
 
 <figure markdown="span">
   ![Imagen 1 - Armado - Caja y PG7](../images/PF2/armado/8.jpeg#soloBordesRed)
@@ -73,7 +73,7 @@ En esta sección detallaré los pasos a seguir para armar un Nodo de WHTMet.
 </video>
 
 
-3. Colocación de los insertos en la caja.
+- **Colocación de los insertos en la caja.**
 
 <figure markdown="span">
   ![Imagen 1 - Armado - Caja y Insertos](../images/PF2/armado/13.jpeg#soloBordesRed)
@@ -88,7 +88,7 @@ En esta sección detallaré los pasos a seguir para armar un Nodo de WHTMet.
   <source src="../../videos/armInserts.mp4" type="video/mp4">
 </video>
 
-4. Colocación de los imanes en la caja.
+- **Colocación de los imanes en la caja.**
 
 <figure markdown="span">
   ![Imagen 1 - Armado - Caja y Imanes](../images/PF2/armado/15.jpeg#soloBordesRed)
@@ -131,7 +131,7 @@ Si seguimos correctamente los pasos anteriormente detallados, tendríamos algo s
 </figure>
 
 
-5. Pasaje de cables por PG7 del Anemómetro.
+- **Pasaje de cables por PG7 del Anemómetro.**
 
 <figure markdown="span">
   ![Imagen 1 - Armado - PasajeAnemometro](../images/PF2/armado/23.jpeg#soloBordesRed)
@@ -165,7 +165,7 @@ Si seguimos correctamente los pasos anteriormente detallados, tendríamos algo s
   <source src="../../videos/armCabAnem3.mp4" type="video/mp4">
 </video>
 
-6. Pasaje de cables por PG7 del Sensor SHT31 (Exterior) y Colocación.
+- **Pasaje de cables por PG7 del Sensor SHT31 (Exterior) y Colocación.**
 
 <figure markdown="span">
   ![Imagen 1 - Armado - PasajeSHT31Coloc](../images/PF2/armado/28.jpeg#soloBordesRed)
@@ -212,7 +212,7 @@ Si seguimos correctamente los pasos anteriormente detallados, tendríamos algo s
 </video>
 
 
-7. Montaje de Protoboard y ESP32.
+- **Montaje de Protoboard y ESP32.**
 
 <figure markdown="span">
   ![Imagen 1 - Armado - MontajeProtoboard](../images/PF2/armado/35.jpeg#soloBordesRed)
@@ -226,7 +226,7 @@ Si seguimos correctamente los pasos anteriormente detallados, tendríamos algo s
   <source src="../../videos/armAntenaESP32.mp4" type="video/mp4">
 </video>
 
-8. Montaje de Pilotos LEDS MQTT y WiFi.
+- **Montaje de Pilotos LEDS MQTT y WiFi.**
 
 <figure markdown="span">
   ![Imagen 1 - Armado - MontajePilotosMQTTyWiFi](../images/PF2/armado/37.jpeg#soloBordesRed)
@@ -256,7 +256,7 @@ Si seguimos correctamente los pasos anteriormente detallados, tendríamos algo s
   <source src="../../videos/armPanorCA2.mp4" type="video/mp4">
 </video>
 
-9. Montaje y Conexionado de Sensor DHT11 (Interior).
+- **Montaje y Conexionado de Sensor DHT11 (Interior).**
 
 <figure markdown="span">
   ![Imagen 1 - Armado - MontajeSensorDHT11](../images/PF2/armado/40.jpeg#soloBordesRed)
@@ -274,19 +274,19 @@ Si seguimos correctamente los pasos anteriormente detallados, tendríamos algo s
   <source src="../../videos/armDHT11-2.mp4" type="video/mp4">
 </video>
 
-10. Conexionado Anemómetro.
+- **Conexionado Anemómetro.**
 
 <video width="600" controls style="display: block; margin: 0 auto; border-radius: 5%; padding: 5px;">
   <source src="../../videos/armConAnem.mp4" type="video/mp4">
 </video>
 
-11. Conexionado Pilotos de MQTT y WiFi.
+- **Conexionado Pilotos de MQTT y WiFi.**
 
 <video width="600" controls style="display: block; margin: 0 auto; border-radius: 5%; padding: 5px;">
   <source src="../../videos/armConPilotMQTTyWifi.mp4" type="video/mp4">
 </video>
 
-12. Montaje pieza de Pilotos de MQTT y WiFi.
+- **Montaje pieza de Pilotos de MQTT y WiFi.**
 
 <figure markdown="span">
   ![Imagen 1 - Armado - MontajePiezaMQTTyWifi](../images/PF2/armado/42.jpeg#soloBordesRed)
@@ -304,7 +304,7 @@ Si seguimos correctamente los pasos anteriormente detallados, tendríamos algo s
   ![Imagen 2 - Armado - ChequeoArmado3](../images/PF2/armado/43.jpeg#soloBordesRed)
 </figure>
 
-12. Conexionado SHT31 (Externo).
+- **Conexionado SHT31 (Externo).**
 
 <video width="600" controls style="display: block; margin: 0 auto; border-radius: 5%; padding: 5px;">
   <source src="../../videos/armConSHT31-1.mp4" type="video/mp4">
@@ -316,7 +316,7 @@ Si seguimos correctamente los pasos anteriormente detallados, tendríamos algo s
   <source src="../../videos/armConSHT31-2.mp4" type="video/mp4">
 </video>
 
-13. Conexionado de pilotos de publicación de InfluxDB y MQTT.
+- **Conexionado de pilotos de publicación de InfluxDB y MQTT.**
 
 <figure markdown="span">
   ![Imagen 1 - Armado - ConexionadoPilotosIDByMQTT1](../images/PF2/armado/44.png#soloBordesRed)
@@ -334,7 +334,7 @@ Si seguimos correctamente los pasos anteriormente detallados, tendríamos algo s
   <source src="../../videos/armPilIDByMQTT-2.mp4" type="video/mp4">
 </video>
 
-14. Conexion de la antenna WiFi.
+- **Conexion de la antenna WiFi.**
 
 <video width="600" controls style="display: block; margin: 0 auto; border-radius: 5%; padding: 5px;">
   <source src="../../videos/armConAntena.mp4" type="video/mp4">
