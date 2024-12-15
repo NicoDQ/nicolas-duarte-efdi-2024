@@ -708,27 +708,27 @@
 </figure>
 <h2 id="diseno-y-prototipado-cajacarcasa-timelapses">Diseño y Prototipado - Caja/Carcasa - Timelapses</h2>
 <h3 id="timelapse-caja">Timelapse Caja</h3>
-<video width="600"  controls>
+<video width="600"   controls style="display: block; margin: 0 auto; border-radius: 5%; padding: 5px;">
   <source src="../../videos/tlCaja.mp4" type="video/mp4">
 </video>
 
 <h3 id="timelapse-tapa-de-caja">Timelapse Tapa de Caja</h3>
-<video width="600"  controls>
+<video width="600"   controls style="display: block; margin: 0 auto; border-radius: 5%; padding: 5px;">
   <source src="../../videos/tlTapa.mp4" type="video/mp4">
 </video>
 
 <h3 id="timelapse-cobertor">Timelapse Cobertor</h3>
-<video width="600"  controls>
+<video width="600"   controls style="display: block; margin: 0 auto; border-radius: 5%; padding: 5px;">
   <source src="../../videos/tlTapa.mp4" type="video/mp4">
 </video>
 
 <h3 id="timelapse-apliques-mqtt-y-wifi">Timelapse Apliques MQTT y WiFi</h3>
-<video width="600"  controls>
+<video width="600"   controls style="display: block; margin: 0 auto; border-radius: 5%; padding: 5px;">
   <source src="../../videos/tlApliquesMQTTyWiFi.mp4" type="video/mp4">
 </video>
 
 <h3 id="timelapse-apliques-mqtt-y-influxdb">Timelapse Apliques MQTT y InfluxDB</h3>
-<video width="600"  controls>
+<video width="600"   controls style="display: block; margin: 0 auto; border-radius: 5%; padding: 5px;">
   <source src="../../videos/tlApliquesMQTTyInfluxDB.mp4" type="video/mp4">
 </video>
 
@@ -837,22 +837,22 @@
 <figure>
   <img alt="Imagen 5 - Diseño y Prototipado - Pruebas de Medición" src="../../images/PF2/prototipadoAnemometro/16.jpeg#whtmet-imgGen" /> 
 </figure>
-<video width="600" controls style="display: block; margin: 0 auto; border-radius: 5%;">
+<video width="600"  controls style="display: block; margin: 0 auto; border-radius: 5%; padding: 5px;" style="display: block; margin: 0 auto; border-radius: 5%; padding: 5px;">
   <source src="../../videos/medAnem-1.mp4" type="video/mp4">
 </video>
 
-<video width="600" controls style="display: block; margin: 0 auto; border-radius: 5%;">
+<video width="600"  controls style="display: block; margin: 0 auto; border-radius: 5%; padding: 5px;" style="display: block; margin: 0 auto; border-radius: 5%; padding: 5px;">
   <source src="../../videos/medAnem-2.mp4" type="video/mp4">
 </video>
 
 <h2 id="diseno-y-prototipado-anemometro-timelapses">Diseño y Prototipado - Anemómetro - Timelapses</h2>
 <h3 id="timelapse-cuerpo">Timelapse Cuerpo</h3>
-<video width="600"  controls>
+<video width="600"   controls style="display: block; margin: 0 auto; border-radius: 5%; padding: 5px;">
   <source src="../../videos/tlCuerpoAnem.mp4" type="video/mp4">
 </video>
 
 <h3 id="timelapse-eje">Timelapse Eje</h3>
-<video width="600"  controls>
+<video width="600"   controls style="display: block; margin: 0 auto; border-radius: 5%; padding: 5px;">
   <source src="../../videos/tlEjeAnem.mp4" type="video/mp4">
 </video>
 
@@ -860,54 +860,54 @@
 <p>El diseño y prototipado de WHTMet no solo consideró los aspectos técnicos y funcionales del sistema, sino que también priorizó la capacidad de adaptación, permitiendo que fuera una herramienta útil y práctica.</p>
 <h2 id="prototipo">Prototipo</h2>
 <p>El prototipo de WHTMet integra una serie de tecnologías y componentes que permiten un monitoreo climático efectivo en plantaciones de eucalipto. A continuación un breve detalle de los sensores, el sistema de gestión de datos, y el diseño e integración que conforman el prototipo.</p>
-<p>Sensores</p>
+<h3 id="sensores">Sensores</h3>
 <p>El prototipo utiliza varios sensores específicos para medir las variables climáticas en tiempo real:</p>
 <ul>
 <li>
-<p>Sensor SHT31 (IP68): Este sensor se utiliza para medir la temperatura y humedad ambiental. Con su clasificación IP68, es adecuado para soportar condiciones exteriores y protegidas contra el polvo y la humedad, lo que lo hace ideal para plantaciones en entornos rurales. Su alta precisión asegura mediciones confiables para la gestión de recursos en las plantaciones.</p>
+<p><strong>Sensor SHT31 (IP68):</strong> Este sensor se utiliza para medir la temperatura y humedad ambiental. Con su clasificación IP68, es adecuado para soportar condiciones exteriores y protegidas contra el polvo y la humedad, lo que lo hace ideal para plantaciones en entornos rurales. Su alta precisión asegura mediciones confiables para la gestión de recursos en las plantaciones.</p>
 </li>
 <li>
-<p>Sensor DHT11: Este sensor se encarga de medir la temperatura y humedad dentro de la caja de circuitos. Al ser un sensor más económico y de menor precisión en comparación con el SHT31, se utiliza para garantizar el funcionamiento óptimo del sistema dentro de un entorno controlado, como lo es la caja que alberga los circuitos y la electrónica.</p>
+<p><strong>Sensor DHT11:</strong> Este sensor se encarga de medir la temperatura y humedad dentro de la caja de circuitos. Al ser un sensor más económico y de menor precisión en comparación con el SHT31, se utiliza para garantizar el funcionamiento óptimo del sistema dentro de un entorno controlado, como lo es la caja que alberga los circuitos y la electrónica.</p>
 </li>
 <li>
-<p>Sensor Hall (Anemómetro): Este sensor se utiliza para medir la velocidad del viento, lo cual es crucial para entender cómo las condiciones climáticas afectan las plantaciones, especialmente en áreas con fuertes vientos que pueden impactar el crecimiento de los cultivos. El diseño del anemómetro aún está en proceso de adaptación para mejorar su precisión y robustez en condiciones de exterior.</p>
+<p><strong>Sensor Hall (Anemómetro):</strong> Este sensor se utiliza para medir la velocidad del viento, lo cual es crucial para entender cómo las condiciones climáticas afectan las plantaciones, especialmente en áreas con fuertes vientos que pueden impactar el crecimiento de los cultivos. El diseño del anemómetro aún está en proceso de adaptación para mejorar su precisión y robustez en condiciones de exterior.</p>
 </li>
 </ul>
-<h2 id="sistema-de-gestion-de-datos">Sistema de Gestión de Datos</h2>
+<h3 id="sistema-de-gestion-de-datos">Sistema de Gestión de Datos</h3>
 <p>El prototipo hace uso de varias tecnologías de software y bases de datos para procesar, almacenar y visualizar los datos en tiempo real:</p>
 <ul>
 <li>
-<p>Proxmox: La plataforma de virtualización Proxmox se utiliza para gestionar de manera centralizada el servidor y los servicios necesarios para WHTMet. Esta infraestructura virtualizada permite manejar eficientemente los recursos y el procesamiento de datos provenientes de los sensores distribuidos dentro de los nodos en las plantaciones.</p>
+<p><strong>Proxmox:</strong> La plataforma de virtualización Proxmox se utiliza para gestionar de manera centralizada el servidor y los servicios necesarios para WHTMet. Esta infraestructura virtualizada permite manejar eficientemente los recursos y el procesamiento de datos provenientes de los sensores distribuidos dentro de los nodos en las plantaciones.</p>
 </li>
 <li>
-<p>Node-RED: La plataforma de Node-RED se encarga de gestionar los flujos de datos desde los sensores de cada nodo. A través de un diseño visual y fácil de integrar, los datos recolectados por los sensores son procesados y enviados a la base de datos en tiempo real (InfluxDB). Además, Node-RED facilita la creación de flujos automatizados, como alertas o acciones específicas basadas en los valores medidos, de los cuales para este prototipo, se incluyen: alerta por vientos fuertes, alerta por alta o baja temperatura (tanto exterior como interior), así como alerta de alta o baja humedad (tanto exterior como interior), estas anteriores alertas tanto funcionan en el mismo dashboard de Node-RE, así como por envío de mensajes a través de WhatsApp (usando CallMeBot).</p>
+<p><strong>Node-RED:</strong> La plataforma de Node-RED se encarga de gestionar los flujos de datos desde los sensores de cada nodo. A través de un diseño visual y fácil de integrar, los datos recolectados por los sensores son procesados y enviados a la base de datos en tiempo real (InfluxDB). Además, Node-RED facilita la creación de flujos automatizados, como alertas o acciones específicas basadas en los valores medidos, de los cuales para este prototipo, se incluyen: alerta por vientos fuertes, alerta por alta o baja temperatura (tanto exterior como interior), así como alerta de alta o baja humedad (tanto exterior como interior), estas anteriores alertas tanto funcionan en el mismo dashboard de Node-RE, así como por envío de mensajes a través de WhatsApp (usando CallMeBot).</p>
 </li>
 <li>
-<p>Mosquitto MQTT: Se emplea Mosquitto MQTT como protocolo de mensajería para transmitir datos de manera eficiente entre los sensores y el sistema central. MQTT es especialmente útil en entornos de baja ancho de banda o donde se requieren actualizaciones frecuentes y en tiempo real.</p>
+<p><strong>Mosquitto MQTT:</strong> Se emplea Mosquitto MQTT como protocolo de mensajería para transmitir datos de manera eficiente entre los sensores y el sistema central. MQTT es especialmente útil en entornos de baja ancho de banda o donde se requieren actualizaciones frecuentes y en tiempo real.</p>
 </li>
 <li>
-<p>InfluxDB: InfluxDB, una base de datos especializada en time series (TSDB), es utilizada para almacenar las mediciones de los sensores a lo largo del tiempo. Esta base de datos permite una gestión eficiente de grandes volúmenes de datos temporales, asegurando un acceso rápido y preciso para su análisis posterior.</p>
+<p><strong>InfluxDB:</strong> InfluxDB, una base de datos especializada en time series (TSDB), es utilizada para almacenar las mediciones de los sensores a lo largo del tiempo. Esta base de datos permite una gestión eficiente de grandes volúmenes de datos temporales, asegurando un acceso rápido y preciso para su análisis posterior.</p>
 </li>
 <li>
-<p>PostgreSQL: Los datos tomados se migran de InfluxDB a PostgreSQL. Esta base de datos relacional permite manejar de manera eficiente la información recabada por los sensores y mantener un respaldo historico de ello.</p>
+<p><strong>PostgreSQL:</strong> Los datos tomados se migran de InfluxDB a PostgreSQL. Esta base de datos relacional permite manejar de manera eficiente la información recabada por los sensores y mantener un respaldo historico de ello.</p>
 </li>
 </ul>
-<h2 id="interfaz-de-usuario">Interfaz de Usuario</h2>
+<h3 id="interfaz-de-usuario">Interfaz de Usuario</h3>
 <p>La interfaz de usuario se ha diseñado para proporcionar una experiencia intuitiva a los usuarios del sistema. En su estado actual, la interfaz incluye un mapa interactivo que se alimenta a través de la API de Google Maps, mostrando la ubicación georreferenciada de los nodos de sensores. Aunque por el momento solo hay un nodo activo, el diseño de la interfaz permite la fácil expansión del sistema para incluir más nodos a medida que se incorporen más puntos de monitoreo en la plantación.</p>
-<h2 id="diseno-e-integracion">Diseño e Integración</h2>
+<h3 id="diseno-e-integracion">Diseño e Integración</h3>
 <p>El diseño físico del prototipo ha sido cuidadosamente planificado para garantizar que los sensores y la electrónica puedan operar eficientemente en condiciones exteriores y rurales:</p>
 <ul>
 <li>
-<p>Diseño 2D/3D: Se ha diseñado una caja y tapa protectora personalizada para los sensores y la electrónica, con un enfoque en la resistencia a condiciones adversas. Este diseño asegura que los componentes del sistema estén protegidos de factores como la lluvia, el polvo y las temperaturas extremas, comunes en las plantaciones de eucalipto. Esto está sujeto al uso de materiales más resistentes como ABS.</p>
+<p><strong>Diseño 2D/3D:</strong> Se ha diseñado una caja y tapa protectora personalizada para los sensores y la electrónica, con un enfoque en la resistencia a condiciones adversas. Este diseño asegura que los componentes del sistema estén protegidos de factores como la lluvia, el polvo y las temperaturas extremas, comunes en las plantaciones de eucalipto. Esto está sujeto al uso de materiales más resistentes como ABS.</p>
 </li>
 <li>
-<p>Adaptación del Diseño del Anemómetro: El diseño del anemómetro está en proceso de adaptación para optimizar su rendimiento en entornos exteriores. Esta fase incluye la mejora de la precisión y la durabilidad del sensor frente a condiciones de viento extremas.</p>
+<p><strong>Adaptación del Diseño del Anemómetro:</strong> El diseño del anemómetro está en proceso de adaptación para optimizar su rendimiento en entornos exteriores. Esta fase incluye la mejora de la precisión y la durabilidad del sensor frente a condiciones de viento extremas.</p>
 </li>
 <li>
-<p>Procesos Aditivos/Sustractivos: Para la creación de los prototipos, se ha utilizado la impresión 3D en PLA (para las primeras pruebas) y ABS (para el producto final), materiales adecuados para crear cajas resistentes y duraderas. La impresión 3D ha permitido una personalización rápida del diseño y la fabricación de piezas de manera eficiente.</p>
+<p><strong>Procesos Aditivos/Sustractivos:</strong> Para la creación de los prototipos, se ha utilizado la impresión 3D en PLA (para las primeras pruebas) y ABS (para el producto final), materiales adecuados para crear cajas resistentes y duraderas. La impresión 3D ha permitido una personalización rápida del diseño y la fabricación de piezas de manera eficiente.</p>
 </li>
 </ul>
-<h2 id="electronica-y-programacion">Electrónica y Programación</h2>
+<h3 id="electronica-y-programacion">Electrónica y Programación</h3>
 <p>El prototipo utiliza el ESP32, un microcontrolador eficiente que permite la conexión de los sensores al sistema de gestión central. La programación se realiza mediante el Arduino IDE, y los flujos automatizados en Node-RED facilitan la integración de todos los componentes. A través de MQTT Mosquitto, los datos se envían de manera eficiente a las bases de datos, y InfluxDB y PostgreSQL permiten almacenar y gestionar los datos a largo plazo. Además, los procesos de migración de datos de InfluxDB a PostgreSQL se gestionan mediante tareas automatizadas.</p>
                 
                   
