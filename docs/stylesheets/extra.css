@@ -99,8 +99,6 @@ img[src*="#mt05"] {
   border: 2px solid #31363F;
 }
 
-
-
 img[src*="#whtmet-intro-d"] {
   width: 400px;
   border-radius:5%;
@@ -115,6 +113,11 @@ img[src*="#whtmet-intro-i"] {
 
 img[src*="#whtmet-imgGen"] {
   width: 500px;
+  border-radius:5%;
+  padding: 5px;
+}
+
+img[src*="#soloBordesRed"] {
   border-radius:5%;
   padding: 5px;
 }
