@@ -62,9 +62,9 @@ Como se observa, se pasó por 3 versiones distintas de la caja de circuitos.
   ![Imagen 4 - Diseño y Prototipado - Prototipado Caja](../images/PF2/prototipadoCaja/4.jpeg){ width="800"}
 </figure>
 
-##  Diseño y Prototipado - Caja/Carcasa - Timelapses
+## Diseño y Prototipado - Caja/Carcasa - Timelapses
 
-# Timelapse Caja
+### Timelapse Caja
 
 
 <video width="600"  controls>
@@ -72,7 +72,7 @@ Como se observa, se pasó por 3 versiones distintas de la caja de circuitos.
 </video>
 
 
-# Timelapse Tapa de Caja
+### Timelapse Tapa de Caja
 
 
 <video width="600"  controls>
@@ -80,7 +80,7 @@ Como se observa, se pasó por 3 versiones distintas de la caja de circuitos.
 </video>
 
 
-# Timelapse Cobertor
+### Timelapse Cobertor
 
 
 <video width="600"  controls>
@@ -88,7 +88,7 @@ Como se observa, se pasó por 3 versiones distintas de la caja de circuitos.
 </video>
 
 
-# Timelapse Apliques MQTT y WiFi
+### Timelapse Apliques MQTT y WiFi
 
 
 <video width="600"  controls>
@@ -96,7 +96,7 @@ Como se observa, se pasó por 3 versiones distintas de la caja de circuitos.
 </video>
 
 
-# Timelapse Apliques MQTT y InfluxDB
+### Timelapse Apliques MQTT y InfluxDB
 
 
 <video width="600"  controls>
@@ -105,7 +105,7 @@ Como se observa, se pasó por 3 versiones distintas de la caja de circuitos.
 
 El diseño de los circuitos fue clave en este proceso, ya que los dispositivos debían ser fáciles de ensamblar y operar. La elección de componentes como el ESP32, junto con sensores de bajo costo, permitió crear un sistema modular y escalable, que podría ser ensamblado sin complicaciones.
 
-##  Diseño y Prototipado - Circuitos
+## Diseño y Prototipado - Circuitos
 
 <figure markdown="span">
   ![Imagen 1 - Diseño y Prototipado - Prototipado Circuitos](../images/PF2/prototipadoCircuito/1.jpeg){ width="800"}
@@ -258,7 +258,7 @@ Aquí debajo dejo algunas fotos y videos del proceso:
 
 ##  Diseño y Prototipado - Anemómetro - Timelapses
 
-# Timelapse Cuerpo 
+### Timelapse Cuerpo 
 
 
 <video width="600"  controls>
@@ -266,7 +266,7 @@ Aquí debajo dejo algunas fotos y videos del proceso:
 </video>
 
 
-# Timelapse Eje
+### Timelapse Eje
 
 
 <video width="600"  controls>

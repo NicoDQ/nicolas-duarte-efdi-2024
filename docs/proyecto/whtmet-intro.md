@@ -5,6 +5,8 @@ hide:
 
 # Proyecto Final: WHTMet - Estación Meteorológica IoT
 
+# Introducción
+
 Mi proyecto final para la Especialización en Fabricación Digital e Innovación se centra en el diseño y desarrollo de un sistema modular y sostenible para el monitoreo en tiempo real de variables climáticas clave, como temperatura, humedad y velocidad del viento, en plantaciones de eucalipto y otras áreas de producción rural.
 
 <figure markdown="span">
@@ -23,7 +25,7 @@ Además, el proyecto plantea un fuerte énfasis en la sostenibilidad ambiental m
 
 En los siguientes apartados, se irán desarrollando cada una de las etapas del desarrollo de este proyecto, desde la concepción inicial de la idea hasta la creación del prototipo final. Asimismo, intentaré abordar las evaluaciones previstas para medir el impacto del proyecto tanto en su público objetivo como en el entorno ambiental.
 
-### Motivación y Objetivo del Proyecto
+## Motivación y Objetivo del Proyecto
 
 En el ámbito rural, la disponibilidad de datos meteorológicos precisos resulta fundamental para tomar decisiones informadas, especialmente en actividades agrícolas donde las condiciones climáticas afectan directamente la productividad y sostenibilidad de las plantaciones. A pesar de esto, muchas comunidades rurales o de gestores de plantaciones de eucalipto enfrentan barreras significativas, como el acceso limitado a estaciones meteorológicas asequibles y adaptadas a sus necesidades específicas.
 
@@ -37,7 +39,7 @@ Bruno trabaja en la gestión de plantaciones de eucalipto, un sector que enfrent
 
 Su experiencia y las dificultades que enfrentaba despertaron en mí un profundo interés por buscar una solución innovadora. La combinación de mi interés en tecnología y fabricación digital, junto con las necesidades que Bruno me comentó, se convirtió en el motor del proyecto. WHTMet no solo busca optimizar los costos y mejorar la eficiencia en la gestión de plantaciones, sino que también pretende ofrecer una herramienta práctica, sostenible y tecnológicamente avanzada para abordar un problema crítico en el sector agrícola y forestal. Este encuentro fortuito y el entendimiento de una problemática real le dieron un propósito claro al proyecto, motivándome a integrar conocimiento, diseño y sostenibilidad para crear una solución que marque una diferencia tangible.
 
-### Problemática
+## Problemática
 
 <figure markdown="span">
   ![Imagen de WHTMet - 3](../images/PF2/intro/1.png#whtmet-intro-d)
@@ -45,39 +47,39 @@ Su experiencia y las dificultades que enfrentaba despertaron en mí un profundo 
 
 La gestión eficiente de plantaciones de eucalipto enfrenta un desafío significativo debido a la ausencia de sistemas asequibles y/o personalizados que permitan monitorear variables climáticas clave, como la temperatura, la humedad y el viento. Estas variables son críticas para tomar decisiones relacionadas con el riego, la fertilización y el cuidado forestal. Sin embargo, los métodos actuales de monitoreo son rudimentarios, basados en la extracción manual de datos. Este enfoque no solo limita la precisión y la frecuencia de las mediciones, sino que también incrementa los costos operativos, especialmente en plantaciones ubicadas en áreas remotas y de difícil acceso. Esta combinación de tecnologías obsoletas y procesos ineficientes resulta en decisiones subóptimas que afectan tanto la productividad como la sostenibilidad de estas operaciones forestales.
 
-### Problemas Recurrentes
+## Problemas Recurrentes
 
-#### Herramientas rudimentarias y limitadas en alcance: 
+### Herramientas rudimentarias y limitadas en alcance: 
 
 Los métodos tradicionales carecen de capacidad para medir y registrar variables climáticas de manera continua y en tiempo real, lo que genera brechas en los datos y dificulta la planificación estratégica.
 
-#### Falta de integración con sistemas abiertos:
+### Falta de integración con sistemas abiertos:
 
 Los sistemas existentes no ofrecen opciones para interoperar con plataformas modernas de análisis o visualización de datos, lo que impide aprovechar tecnologías avanzadas como la inteligencia artificial o el aprendizaje automático para optimizar los procesos.
 
-#### Accesibilidad tecnológica:
+### Accesibilidad tecnológica:
 
 Las soluciones disponibles en el mercado suelen ser costosas, lo que las hace inviables para pequeños y medianos productores rurales, limitando su adopción a gran escala.
 
-### Comunidad y Contexto
+## Comunidad y Contexto
 
 El problema afecta directamente a productores rurales y gestores forestales que necesitan acceso a datos climáticos precisos y en tiempo real para tomar decisiones informadas que optimicen recursos. Estas comunidades trabajan, en muchos casos, en regiones aisladas donde las tecnologías modernas de monitoreo meteorológico son inaccesibles debido a su costo o complejidad. La implementación de sistemas asequibles y personalizados no solo atendería sus necesidades inmediatas, sino que también fomentaría un enfoque más eficiente y sostenible en la gestión forestal.
 
-### Aspectos sociales, económicos y ambientales
+## Aspectos sociales, económicos y ambientales
 
-#### Social:
+### Social:
 
 Proveer acceso a datos climáticos relevantes representa una herramienta clave para empoderar a productores rurales y gestores forestales. Esto les permitirá reducir la incertidumbre y mejorar sus prácticas de manejo forestal, fomentando un desarrollo local basado en la tecnología.
 
-#### Económicos:
+### Económicos:
 
 Al basarse en tecnologías de código abierto y hardware reutilizable, el proyecto ofrece una solución económica y accesible. Este enfoque permite a pequeños y medianos productores adoptar herramientas avanzadas sin incurrir en altos costos iniciales. Además, el diseño escalable asegura que el sistema pueda adaptarse a plantaciones de diversos tamaños, aumentando su versatilidad y utilidad.
 
-#### Ambientales:
+### Ambientales:
 
 La monitorización eficiente de variables climáticas apoya prácticas sostenibles al optimizar el uso de recursos como el agua y los fertilizantes. Esto reduce el impacto ambiental de las operaciones forestales y fomenta un manejo responsable de los ecosistemas en los que se desarrollan las plantaciones de eucalipto.
 
-### Investigación y Revisión de Soluciones Similares
+## Investigación y Revisión de Soluciones Similares
 
 Durante la fase inicial de investigación, realicé un análisis detallado de proyectos y dispositivos existentes, incluyendo tanto soluciones DIY (hagalo usted mismo) como productos comerciales. Entre los sistemas relevados me encontre con estaciones meteorológicas basadas en plataformas como Arduino y Raspberry Pi, ampliamente utilizadas en proyectos educativos y de prototipado, así como dispositivos comerciales como WeatherFlow y Netatmo Weather Station. Estos últimos ofrecen funcionalidades avanzadas y un diseño más  sofisticado, pero suelen estar dirigidos a usuarios con acceso a infraestructura tecnológica bastante desarrollada y recursos económicos significativos.
 
