@@ -13,5 +13,6 @@ hide:
 
 - *[Modelos 3MF - Anemómetro: Eje y CajaEje](../archives/Anemometro - Eje y CajaEje.3mf)*
 
+- *[Proyecto TinkerCAD - Anemómetro: Cuerpo](https://www.tinkercad.com/things/dHFt7s9EDVt-anemometro-efdi?sharecode=p7r7kO7SD0-sAhX_mItHU28xqzE_HW6LmV3t1T9_wsM)*
 
-- *[Proyecto Bambú Studio (Perfil de Impresión y STLS)](../archives/MT04-NDQ-EFDI.3mf)*
+- *[Proyecto Bambú Studio (Perfil de Impresión y STLS - Anemómetro)](../archives/Anemómetro - NDQ - EFDI - TF.3mf)*
