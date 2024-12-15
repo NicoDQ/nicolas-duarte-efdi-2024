@@ -125,5 +125,11 @@ img[src*="#soloBordesRed"] {
 img[src*="#soloBordesImgP"] {
   border-radius:5%;
   padding: 5px;
-  width: 250px;
+  width: 210px;
+}
+
+img[src*="#soloBordesImgG"] {
+  border-radius:5%;
+  padding: 5px;
+  width: 800px;
 }
