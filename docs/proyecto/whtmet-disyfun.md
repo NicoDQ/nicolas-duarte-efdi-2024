@@ -99,7 +99,7 @@ InfluxDB es una base de datos especializada en la gestión de datos temporales, 
 ### Dashboard de InfluxDB
 
 <figure markdown="span">
-  ![Imagen - Diseño y Funcionalidad - Dashboard de InfluxDB](../images/PF2/imagenesTec/influxDBDashboard.png.png#soloBordesImgG)
+  ![Imagen - Diseño y Funcionalidad - Dashboard de InfluxDB](../images/PF2/imagenesTec/influxDBDashboard.png#soloBordesImgG)
 </figure>
 
 ![Imagen de PostgreSQL](../images/PF2/imagenesTec/postgresql.png#soloBordesImgP){ align=left }
@@ -117,6 +117,8 @@ El ESP32 es un microcontrolador de bajo costo y alto rendimiento que se utiliza 
 
 
 Los sensores de bajo costo, que miden variables como la temperatura, la humedad y el viento, proporcionan los datos necesarios para optimizar la gestión de las plantaciones de eucalipto, permitiendo a los gestores tomar decisiones informadas sobre el riego y el cuidado forestal.
+
+
 
 ## Diseño Abierto y Personalización
 
