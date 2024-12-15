@@ -102,13 +102,19 @@ img[src*="#mt05"] {
 
 
 img[src*="#whtmet-intro-d"] {
-  width: 300px;
+  width: 400px;
   border-radius:5%;
   padding: 5px;
 }
 
 img[src*="#whtmet-intro-i"] {
   width: 400px;
+  border-radius:5%;
+  padding: 5px;
+}
+
+img[src*="#whtmet-imgGen"] {
+  width: 500px;
   border-radius:5%;
   padding: 5px;
 }
