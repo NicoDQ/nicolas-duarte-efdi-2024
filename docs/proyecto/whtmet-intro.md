@@ -39,6 +39,10 @@ Su experiencia y las dificultades que enfrentaba despertaron en mí un profundo 
 
 ### Problemática
 
+<figure markdown="span">
+  ![Imagen de WHTMet - 3](../images/PF2/intro/1.png#whtmet-intro-d)
+</figure>
+
 La gestión eficiente de plantaciones de eucalipto enfrenta un desafío significativo debido a la ausencia de sistemas asequibles y/o personalizados que permitan monitorear variables climáticas clave, como la temperatura, la humedad y el viento. Estas variables son críticas para tomar decisiones relacionadas con el riego, la fertilización y el cuidado forestal. Sin embargo, los métodos actuales de monitoreo son rudimentarios, basados en la extracción manual de datos. Este enfoque no solo limita la precisión y la frecuencia de las mediciones, sino que también incrementa los costos operativos, especialmente en plantaciones ubicadas en áreas remotas y de difícil acceso. Esta combinación de tecnologías obsoletas y procesos ineficientes resulta en decisiones subóptimas que afectan tanto la productividad como la sostenibilidad de estas operaciones forestales.
 
 ### Problemas Recurrentes
