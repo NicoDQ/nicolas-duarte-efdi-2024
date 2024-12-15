@@ -32,7 +32,6 @@ nav:
     - MI02 - DSyEC: innovacion/mi02-dsec.md
   - Proyecto Integrador:
 #    - Kit Circuitos : proyecto/proyecto.md
-    - WHTMet - Estación Meteorológica IoT : proyecto/proyecto2.md
     - WHTMet - Estación Meteorológica IoT :
           - Introducción: "proyecto/whtmet-intro.md"
           - Diseño y Prototipado: "proyecto/whtmet-disyprot.md"
