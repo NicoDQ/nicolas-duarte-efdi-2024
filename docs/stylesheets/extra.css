@@ -101,8 +101,14 @@ img[src*="#mt05"] {
 
 
 
-img[src*="#whtmet-intro"] {
+img[src*="#whtmet-intro-d"] {
   float: right; 
   margin-left: 15px; 
+  width: 300px;
+}
+
+img[src*="#whtmet-intro-i"] {
+  float: left; 
+  margin-right: 15px; 
   width: 300px;
 }
