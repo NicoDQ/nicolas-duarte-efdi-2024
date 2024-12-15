@@ -68,7 +68,7 @@ En esta sección detallaré los pasos a seguir para armar un Nodo de WHTMet.
 </figure>
 
 
-<video width="600" controls>
+<video width="600" controls style="display: block; margin: 0 auto; border-radius: 5%; padding: 5px;">
   <source src="../../videos/armPG7.mp4" type="video/mp4">
 </video>
 
@@ -84,7 +84,7 @@ En esta sección detallaré los pasos a seguir para armar un Nodo de WHTMet.
 </figure>
 
 
-<video width="600" controls>
+<video width="600" controls style="display: block; margin: 0 auto; border-radius: 5%; padding: 5px;">
   <source src="../../videos/armInserts.mp4" type="video/mp4">
 </video>
 
@@ -110,7 +110,7 @@ En esta sección detallaré los pasos a seguir para armar un Nodo de WHTMet.
   ![Imagen 5 - Armado - Caja y Imanes](../images/PF2/armado/19.jpeg){ width="800"}
 </figure>
 
-<video width="600" controls>
+<video width="600" controls style="display: block; margin: 0 auto; border-radius: 5%; padding: 5px;">
   <source src="../../videos/armImanes.mp4" type="video/mp4">
 </video>
 
@@ -153,15 +153,15 @@ Si seguimos correctamente los pasos anteriormente detallados, tendríamos algo s
   ![Imagen 5 - Armado - PasajeAnemometro](../images/PF2/armado/27.jpeg){ width="800"}
 </figure>
 
-<video width="600" controls>
+<video width="600" controls style="display: block; margin: 0 auto; border-radius: 5%; padding: 5px;">
   <source src="../../videos/armCabAnem1.mp4" type="video/mp4">
 </video>
 
-<video width="600" controls>
+<video width="600" controls style="display: block; margin: 0 auto; border-radius: 5%; padding: 5px;">
   <source src="../../videos/armCabAnem2.mp4" type="video/mp4">
 </video>
 
-<video width="600" controls>
+<video width="600" controls style="display: block; margin: 0 auto; border-radius: 5%; padding: 5px;">
   <source src="../../videos/armCabAnem3.mp4" type="video/mp4">
 </video>
 
@@ -195,19 +195,19 @@ Si seguimos correctamente los pasos anteriormente detallados, tendríamos algo s
   ![Imagen 7 - Armado - PasajeSHT31Coloc](../images/PF2/armado/34.jpeg){ width="800"}
 </figure>
 
-<video width="600" controls>
+<video width="600" controls style="display: block; margin: 0 auto; border-radius: 5%; padding: 5px;">
   <source src="../../videos/armCabSHT31-1.mp4" type="video/mp4">
 </video>
 
-<video width="600" controls>
+<video width="600" controls style="display: block; margin: 0 auto; border-radius: 5%; padding: 5px;">
   <source src="../../videos/armCabSHT31-2.mp4" type="video/mp4">
 </video>
 
-<video width="600" controls>
+<video width="600" controls style="display: block; margin: 0 auto; border-radius: 5%; padding: 5px;">
   <source src="../../videos/armCabSHT31-3.mp4" type="video/mp4">
 </video>
 
-<video width="600" controls>
+<video width="600" controls style="display: block; margin: 0 auto; border-radius: 5%; padding: 5px;">
   <source src="../../videos/armCabSHT31-4.mp4" type="video/mp4">
 </video>
 
@@ -222,7 +222,7 @@ Si seguimos correctamente los pasos anteriormente detallados, tendríamos algo s
   ![Imagen 2 - Armado - MontajeProtoboard](../images/PF2/armado/36.jpeg){ width="800"}
 </figure>
 
-<video width="600" controls>
+<video width="600" controls style="display: block; margin: 0 auto; border-radius: 5%; padding: 5px;">
   <source src="../../videos/armAntenaESP32.mp4" type="video/mp4">
 </video>
 
@@ -236,11 +236,11 @@ Si seguimos correctamente los pasos anteriormente detallados, tendríamos algo s
   ![Imagen 2 - Armado - MontajePilotosMQTTyWiFi](../images/PF2/armado/38.jpeg){ width="800"}
 </figure>
 
-<video width="600" controls>
+<video width="600" controls style="display: block; margin: 0 auto; border-radius: 5%; padding: 5px;">
   <source src="../../videos/armPil-1.mp4" type="video/mp4">
 </video>
 
-<video width="600" controls>
+<video width="600" controls style="display: block; margin: 0 auto; border-radius: 5%; padding: 5px;">
   <source src="../../videos/armPil-2.mp4" type="video/mp4">
 </video>
 
@@ -252,7 +252,7 @@ Si seguimos correctamente los pasos anteriormente detallados, tendríamos algo s
   ![Imagen 1 - Armado - ChequeoArmado2](../images/PF2/armado/39.jpeg){ width="800"}
 </figure>
 
-<video width="600" controls>
+<video width="600" controls style="display: block; margin: 0 auto; border-radius: 5%; padding: 5px;">
   <source src="../../videos/armPanorCA2.mp4" type="video/mp4">
 </video>
 
@@ -266,23 +266,23 @@ Si seguimos correctamente los pasos anteriormente detallados, tendríamos algo s
   ![Imagen 2 - Armado - MontajeSensorDHT11](../images/PF2/armado/41.jpeg){ width="800"}
 </figure>
 
-<video width="600" controls>
+<video width="600" controls style="display: block; margin: 0 auto; border-radius: 5%; padding: 5px;">
   <source src="../../videos/armDHT11-1.mp4" type="video/mp4">
 </video>
 
-<video width="600" controls>
+<video width="600" controls style="display: block; margin: 0 auto; border-radius: 5%; padding: 5px;">
   <source src="../../videos/armDHT11-2.mp4" type="video/mp4">
 </video>
 
 10. Conexionado Anemómetro.
 
-<video width="600" controls>
+<video width="600" controls style="display: block; margin: 0 auto; border-radius: 5%; padding: 5px;">
   <source src="../../videos/armConAnem.mp4" type="video/mp4">
 </video>
 
 11. Conexionado Pilotos de MQTT y WiFi.
 
-<video width="600" controls>
+<video width="600" controls style="display: block; margin: 0 auto; border-radius: 5%; padding: 5px;">
   <source src="../../videos/armConPilotMQTTyWifi.mp4" type="video/mp4">
 </video>
 
@@ -292,7 +292,7 @@ Si seguimos correctamente los pasos anteriormente detallados, tendríamos algo s
   ![Imagen 1 - Armado - MontajePiezaMQTTyWifi](../images/PF2/armado/42.jpeg){ width="800"}
 </figure>
 
-<video width="600" controls>
+<video width="600" controls style="display: block; margin: 0 auto; border-radius: 5%; padding: 5px;">
   <source src="../../videos/armPiezasPilotMQTTyWifi.mp4" type="video/mp4">
 </video>
 
@@ -306,13 +306,13 @@ Si seguimos correctamente los pasos anteriormente detallados, tendríamos algo s
 
 12. Conexionado SHT31 (Externo).
 
-<video width="600" controls>
+<video width="600" controls style="display: block; margin: 0 auto; border-radius: 5%; padding: 5px;">
   <source src="../../videos/armConSHT31-1.mp4" type="video/mp4">
 </video>
 
 **FE DE ERRATAS!: El cable Rosa (VDD), conectarlo a 3V NO a pin 19.**
 
-<video width="600" controls>
+<video width="600" controls style="display: block; margin: 0 auto; border-radius: 5%; padding: 5px;">
   <source src="../../videos/armConSHT31-2.mp4" type="video/mp4">
 </video>
 
@@ -326,17 +326,17 @@ Si seguimos correctamente los pasos anteriormente detallados, tendríamos algo s
   ![Imagen 2 - Armado - ConexionadoPilotosIDByMQTT2](../images/PF2/armado/45.png){ width="800"}
 </figure>
 
-<video width="600" controls>
+<video width="600" controls style="display: block; margin: 0 auto; border-radius: 5%; padding: 5px;">
   <source src="../../videos/armPilIDByMQTT-1.mp4" type="video/mp4">
 </video>
 
-<video width="600" controls>
+<video width="600" controls style="display: block; margin: 0 auto; border-radius: 5%; padding: 5px;">
   <source src="../../videos/armPilIDByMQTT-2.mp4" type="video/mp4">
 </video>
 
 14. Conexion de la antenna WiFi.
 
-<video width="600" controls>
+<video width="600" controls style="display: block; margin: 0 auto; border-radius: 5%; padding: 5px;">
   <source src="../../videos/armConAntena.mp4" type="video/mp4">
 </video>
 
@@ -346,43 +346,43 @@ Llegamos al final del armado de un Nodo de WHTMet.
 Si seguimos correctamente los pasos anteriormente detallados, tendríamos algo similar a esto:
 
 <figure markdown="span">
-  ![Imagen 1 - Armado - ChequeoArmadoFinal](../images/PF2/armado/46.jpeg){ width="800"}
+  ![Imagen 1 - Armado - ChequeoArmadoFinal](../images/PF2/armado/46.jpeg#soloBordesRed)
 </figure>
 
 <figure markdown="span">
-  ![Imagen 2 - Armado - ChequeoArmadoFinal](../images/PF2/armado/47.jpeg){ width="800"}
+  ![Imagen 2 - Armado - ChequeoArmadoFinal](../images/PF2/armado/47.jpeg#soloBordesRed)
 </figure>
 
 <figure markdown="span">
-  ![Imagen 3 - Armado - ChequeoArmadoFinal](../images/PF2/armado/48.png){ width="800"}
+  ![Imagen 3 - Armado - ChequeoArmadoFinal](../images/PF2/armado/48.png#soloBordesRed)
 </figure>
 
 <figure markdown="span">
-  ![Imagen 4 - Armado - ChequeoArmadoFinal](../images/PF2/armado/49.png){ width="800"}
+  ![Imagen 4 - Armado - ChequeoArmadoFinal](../images/PF2/armado/49.png#soloBordesRed)
 </figure>
 
 <figure markdown="span">
-  ![Imagen 5 - Armado - ChequeoArmadoFinal](../images/PF2/armado/50.jpeg){ width="800"}
+  ![Imagen 5 - Armado - ChequeoArmadoFinal](../images/PF2/armado/50.jpeg#soloBordesRed)
 </figure>
 
 <figure markdown="span">
-  ![Imagen 6 - Armado - ChequeoArmadoFinal](../images/PF2/armado/51.jpeg){ width="800"}
+  ![Imagen 6 - Armado - ChequeoArmadoFinal](../images/PF2/armado/51.jpeg#soloBordesRed)
 </figure>
 
 <figure markdown="span">
-  ![Imagen 7 - Armado - ChequeoArmadoFinal](../images/PF2/armado/52.png){ width="800"}
+  ![Imagen 7 - Armado - ChequeoArmadoFinal](../images/PF2/armado/52.png#soloBordesRed)
 </figure>
 
 <figure markdown="span">
-  ![Imagen 8 - Armado - ChequeoArmadoFinal](../images/PF2/armado/53.png){ width="800"}
+  ![Imagen 8 - Armado - ChequeoArmadoFinal](../images/PF2/armado/53.png#soloBordesRed)
 </figure>
 
 <figure markdown="span">
-  ![Imagen 9 - Armado - ChequeoArmadoFinal](../images/PF2/armado/54.jpeg){ width="800"}
+  ![Imagen 9 - Armado - ChequeoArmadoFinal](../images/PF2/armado/54.jpeg#soloBordesRed)
 </figure>
 
 <figure markdown="span">
-  ![Imagen 10 - Armado - ChequeoArmadoFinal](../images/PF2/armado/55.jpeg){ width="800"}
+  ![Imagen 10 - Armado - ChequeoArmadoFinal](../images/PF2/armado/55.jpeg#soloBordesRed)
 </figure>
 
 <figure markdown="span">
@@ -413,7 +413,7 @@ Si seguimos correctamente los pasos anteriormente detallados, tendríamos algo s
   ![Imagen 17 - Armado - ChequeoArmadoFinal](../images/PF2/armado/62.jpeg){ width="800"}
 </figure>
 
-<video width="600" controls>
+<video width="600" controls style="display: block; margin: 0 auto; border-radius: 5%; padding: 5px;">
   <source src="../../videos/armPaneoFinal.mp4" type="video/mp4">
 </video>
 
