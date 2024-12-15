@@ -120,6 +120,7 @@ img[src*="#whtmet-imgGen"] {
 img[src*="#soloBordesRed"] {
   border-radius:5%;
   padding: 5px;
+  width: 500px;
 }
 
 img[src*="#soloBordesImgP"] {
