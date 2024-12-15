@@ -19,31 +19,31 @@ Proxmox es una plataforma de virtualización de código abierto que se utiliza e
 ### Node-Red corriendo en Proxmox (LXC):
 
 <figure markdown="span">
-  ![Imagen 1 - Diseño y Funcionalidad - ProxmoxNodeRed](../images/PF2/imagenesTec/proxmoxNode-Red.png#whtmet-imgGen)
+  ![Imagen 1 - Diseño y Funcionalidad - ProxmoxNodeRed](../images/PF2/imagenesTec/proxmoxNode-Red.png#soloBordesImgG)
 </figure>
 
 ### MosquittoMQTT corriendo en Proxmox (LXC):
 
 <figure markdown="span">
-  ![Imagen 2 - Diseño y Funcionalidad - ProxmoxMosquittoMQTT](../images/PF2/imagenesTec/proxmoxMosquittoMQTT.png#whtmet-imgGen)
+  ![Imagen 2 - Diseño y Funcionalidad - ProxmoxMosquittoMQTT](../images/PF2/imagenesTec/proxmoxMosquittoMQTT.png#soloBordesImgG)
 </figure>
 
 ### InfluxDB corriendo en Proxmox (LXC):
 
 <figure markdown="span">
-  ![Imagen 3 - Diseño y Funcionalidad - ProxmoxInfluxDB](../images/PF2/imagenesTec/proxmoxInfluxDB.png#whtmet-imgGen)
+  ![Imagen 3 - Diseño y Funcionalidad - ProxmoxInfluxDB](../images/PF2/imagenesTec/proxmoxInfluxDB.png#soloBordesImgG)
 </figure>
 
 ### Docker corriendo en Proxmox (LXC):
 
 <figure markdown="span">
-  ![Imagen 4 - Diseño y Funcionalidad - ProxmoxDockerPSQL](../images/PF2/imagenesTec/proxmoxDockerPSQL.png#whtmet-imgGen)
+  ![Imagen 4 - Diseño y Funcionalidad - ProxmoxDockerPSQL](../images/PF2/imagenesTec/proxmoxDockerPSQL.png#soloBordesImgG)
 </figure>
 
 ### PostgreSQL corriendo en Docker (portainer), dentro de LXC de Proxmox:
 
 <figure markdown="span">
-  ![Imagen 5 - Diseño y Funcionalidad - Portainer PostgreSQL](../images/PF2/imagenesTec/portainerPSQL.png){ width="800"}
+  ![Imagen 5 - Diseño y Funcionalidad - Portainer PostgreSQL](../images/PF2/imagenesTec/portainerPSQL.png#soloBordesImgG)
 </figure>
 
 
@@ -63,31 +63,31 @@ Node-RED es una herramienta de programación visual de código abierto que facil
 ### Flujo utilizado en Node-RED
 
 <figure markdown="span">
-  ![Imagen - Diseño y Funcionalidad - Flujo de NodeRed](../images/PF2/imagenesTec/flujoNodeRed.png#whtmet-imgGen)
+  ![Imagen - Diseño y Funcionalidad - Flujo de NodeRed](../images/PF2/imagenesTec/flujoNodeRed.png#soloBordesImgG)
 </figure>
 
 ### Dashboard de Node-RED (Inicio)
 
 <figure markdown="span">
-  ![Imagen - Diseño y Funcionalidad - Dashboard de NodeRed](../images/PF2/imagenesTec/nodeRedDashboard.png#whtmet-imgGen)
+  ![Imagen - Diseño y Funcionalidad - Dashboard de NodeRed](../images/PF2/imagenesTec/nodeRedDashboard.png#soloBordesImgG)
 </figure>
 
 ### Dashboard de Node-RED (Temperaturas)
 
 <figure markdown="span">
-  ![Imagen - Diseño y Funcionalidad - Dashboard de NodeRed Temp](../images/PF2/imagenesTec/nodeRedDashboardT.png#whtmet-imgGen)
+  ![Imagen - Diseño y Funcionalidad - Dashboard de NodeRed Temp](../images/PF2/imagenesTec/nodeRedDashboardT.png#soloBordesImgG)
 </figure>
 
 ### Dashboard de Node-RED (Humedades)
 
 <figure markdown="span">
-  ![Imagen - Diseño y Funcionalidad - Dashboard de NodeRed Hum](../images/PF2/imagenesTec/nodeRedDashboardH.png#whtmet-imgGen)
+  ![Imagen - Diseño y Funcionalidad - Dashboard de NodeRed Hum](../images/PF2/imagenesTec/nodeRedDashboardH.png#soloBordesImgG)
 </figure>
 
 ### Dashboard de Node-RED (Vientos)
 
 <figure markdown="span">
-  ![Imagen - Diseño y Funcionalidad - Dashboard de NodeRed Vient](../images/PF2/imagenesTec/nodeRedDashboardV.png#whtmet-imgGen)
+  ![Imagen - Diseño y Funcionalidad - Dashboard de NodeRed Vient](../images/PF2/imagenesTec/nodeRedDashboardV.png#soloBordesImgG)
 </figure>
 
 ## InfluxDB y PostgreSQL
@@ -99,7 +99,7 @@ InfluxDB es una base de datos especializada en la gestión de datos temporales, 
 ### Dashboard de InfluxDB
 
 <figure markdown="span">
-  ![Imagen - Diseño y Funcionalidad - Dashboard de InfluxDB](../images/PF2/imagenesTec/influxDBDashboard.png.png#whtmet-imgGen)
+  ![Imagen - Diseño y Funcionalidad - Dashboard de InfluxDB](../images/PF2/imagenesTec/influxDBDashboard.png.png#soloBordesImgG)
 </figure>
 
 ![Imagen de PostgreSQL](../images/PF2/imagenesTec/postgresql.png#soloBordesImgP){ align=left }

@@ -6,5 +6,6 @@ hide:
 # Recursos del proyecto WHTMet - Estación Meteorológica IoT
 
 *[Proyecto de Arduino IDE - Código del ESP32](../archives/TF-EFDI-NDQ.rar)*
+*[Flujos de Node-RED](../archives/flujosNodeRed.json)*
 *[Proyecto Fusion 360](../archives/MT04-NDQ-EFDI.3mf)*
 *[Proyecto Bambú Studio (Perfil de Impresión y STLS)](../archives/MT04-NDQ-EFDI.3mf)*
