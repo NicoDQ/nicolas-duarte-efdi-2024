@@ -1,7 +1,6 @@
 ---
 hide:
     - toc
-title: Proyecto Final: Introducción
 ---
 
 # Proyecto Final: WHTMet - Estación Meteorológica IoT
