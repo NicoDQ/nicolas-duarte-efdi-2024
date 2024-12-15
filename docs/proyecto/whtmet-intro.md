@@ -8,7 +8,7 @@ hide:
 Mi proyecto final para la Especialización en Fabricación Digital e Innovación se centra en el diseño y desarrollo de un sistema modular y sostenible para el monitoreo en tiempo real de variables climáticas clave, como temperatura, humedad y velocidad del viento, en plantaciones de eucalipto y otras áreas de producción rural.
 
 <figure markdown="span">
-  ![Imagen de WHTMet - 1](../images/PF2/armado/57.jpeg){ float: right; margin-left: 15px; width: 300px;}
+  ![Imagen de WHTMet - 1](../images/PF2/armado/57.png#whtmet-intro){}
 </figure>
 
 El proyecto combina el uso de sensores, visualización interactiva y procesamiento de datos abiertos, con el objetivo de optimizar recursos y facilitar la toma de decisiones basadas en información precisa y actualizada. Este enfoque busca justamente fomentar prácticas agrícolas sostenibles al proporcionar herramientas tecnológicas accesibles y escalables para espacios rurales.
@@ -16,7 +16,7 @@ El proyecto combina el uso de sensores, visualización interactiva y procesamien
 Un aspecto a destacar de este sistema es su cierta capacidad para introducir a los productores rurales y gestores forestales al mundo del Internet de las Cosas (IoT). Al ofrecer datos en tiempo real, se facilita la toma de decisiones informadas, permitiendo a los usuarios ajustar sus prácticas de manejo agrícola y forestal de manera eficiente, sostenible y sobre todo, informada.
 
 <figure markdown="span">
-  ![Imagen de WHTMet - 2](../images/PF2/armado/62.jpeg){ float: right; margin-left: 15px; width: 300px;}
+  ![Imagen de WHTMet - 2](../images/PF2/armado/62.jpeg#whtmet-intro){}
 </figure>
 
 Además, el proyecto plantea un fuerte énfasis en la sostenibilidad ambiental mediante el uso de materiales reciclados y sostenibles en su fabricación de cara al producto final. Este enfoque no solo responde a las premisas fundamentales de la EFDI, sino que también refleja mi compromiso personal con la innovación responsable y el diseño sostenible.
