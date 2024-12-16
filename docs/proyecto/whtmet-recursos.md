@@ -9,9 +9,9 @@ hide:
 
 - *[Flujos de Node-RED](../archives/flujosNodeRed.json)*
 
-- *[Proyecto Fusion 360 - Anemómetro: Eje y CajaEje](../archives/Anemometro - Eje y CajaEje.f3d)*
+- *[Proyecto Fusion 360 - Anemómetro: Eje y Caja de Eje](../archives/Anemometro - Eje y CajaEje.f3d)*
 
-- *[Modelos 3MF - Anemómetro: Eje y CajaEje](../archives/Anemometro - Eje y CajaEje.3mf)*
+- *[Modelos 3MF - Anemómetro: Eje y Caja de Eje](../archives/Anemometro - Eje y CajaEje.3mf)*
 
 - *[Proyecto TinkerCAD - Anemómetro: Cuerpo](https://www.tinkercad.com/things/dHFt7s9EDVt-anemometro-efdi?sharecode=p7r7kO7SD0-sAhX_mItHU28xqzE_HW6LmV3t1T9_wsM)*
 
