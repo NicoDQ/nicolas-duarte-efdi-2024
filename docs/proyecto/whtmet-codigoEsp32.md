@@ -2,7 +2,7 @@
 hide:
     - toc
 ---
-[recursos]: https://nicodq.github.io/nicolas-duarte-efdi-2024/about/me/
+[recursos]: https://nicodq.github.io/nicolas-duarte-efdi-2024/proyecto/whtmet-recursos/
 
 # Proyecto Final: WHTMet - Estación Meteorológica IoT
 
