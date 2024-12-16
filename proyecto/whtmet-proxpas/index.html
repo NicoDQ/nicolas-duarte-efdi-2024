@@ -11,7 +11,7 @@
         <meta name="description" content="Especialización en Fabricación Digital e Innovación">
       
       
-        <link rel="canonical" href="https://nicodq.github.io/nicolas-duarte-efdi-2024/proyecto/whtmet-codigoEsp32/">
+        <link rel="canonical" href="https://nicodq.github.io/nicolas-duarte-efdi-2024/proyecto/whtmet-proxpas/">
       
       
         <meta name="author" content="Nicolás Duarte">
@@ -21,7 +21,7 @@
     
     
       
-        <title>Codigo ESP32 - Nicolás Duarte - UTEC & Fab Lab Barcelona</title>
+        <title>Proximos Pasos - Nicolás Duarte - UTEC & Fab Lab Barcelona</title>
       
     
     
@@ -95,7 +95,7 @@
           </span>
           <span class="md-header-nav__topic md-ellipsis">
             
-              Codigo ESP32
+              Proximos Pasos
             
           </span>
         </div>
@@ -568,20 +568,11 @@
           
           
 
-  
 
-
-  <li class="md-nav__item md-nav__item--active">
-    
-    <input class="md-nav__toggle md-toggle" data-md-toggle="toc" type="checkbox" id="__toc">
-    
-      
-    
-    
-    <a href="./" title="Codigo ESP32" class="md-nav__link md-nav__link--active">
+  <li class="md-nav__item">
+    <a href="../whtmet-codigoEsp32/" title="Codigo ESP32" class="md-nav__link">
       Codigo ESP32
     </a>
-    
   </li>
 
         
@@ -613,11 +604,20 @@
           
           
 
+  
 
-  <li class="md-nav__item">
-    <a href="../whtmet-proxpas/" title="Proximos Pasos" class="md-nav__link">
+
+  <li class="md-nav__item md-nav__item--active">
+    
+    <input class="md-nav__toggle md-toggle" data-md-toggle="toc" type="checkbox" id="__toc">
+    
+      
+    
+    
+    <a href="./" title="Proximos Pasos" class="md-nav__link md-nav__link--active">
       Proximos Pasos
     </a>
+    
   </li>
 
         
@@ -670,7 +670,7 @@
             <article class="md-content__inner md-typeset">
               
                 
-                  <a href="https://github.com/NicoDQ/nicolas-duarte-efdi-2024/edit/master/docs/proyecto/whtmet-codigoEsp32.md" title="Editar esta página" class="md-content__button md-icon">
+                  <a href="https://github.com/NicoDQ/nicolas-duarte-efdi-2024/edit/master/docs/proyecto/whtmet-proxpas.md" title="Editar esta página" class="md-content__button md-icon">
                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20.71 7.04c.39-.39.39-1.04 0-1.41l-2.34-2.34c-.37-.39-1.02-.39-1.41 0l-1.84 1.83 3.75 3.75M3 17.25V21h3.75L17.81 9.93l-3.75-3.75L3 17.25z"/></svg>
                   </a>
                 
@@ -679,11 +679,192 @@
                 
                 
                 <h1 id="proyecto-final-whtmet-estacion-meteorologica-iot">Proyecto Final: WHTMet - Estación Meteorológica IoT</h1>
-<h1 id="codigo-utilizado-en-esp32">Codigo Utilizado en ESP32</h1>
-<figure>
-  <img alt="Imagen - Código - Código usado en ESP32" src="../../images/PF2/codigo/codigo-esp32.png#soloBordesImgG" />
-</figure>
-<p>Puedes encontrar el proyecto descargable en formato comprimido en la sección: <a href="https://nicodq.github.io/nicolas-duarte-efdi-2024/proyecto/whtmet-recursos/">Recursos del Proyecto.</a>  </p>
+<h1 id="proximos-pasos">Próximos Pasos</h1>
+<p>Estos próximos pasos son fundamentales para consolidar el prototipo funcional de WHTMet, con miras a una implementación a escala en comunidades rurales. Cada mejora está diseñada para garantizar un sistema accesible, sostenible y capaz de empoderar a sus usuarios, mejorando su capacidad de tomar decisiones informadas sobre sus plantaciones y prácticas agrícolas.</p>
+<h2 id="diseno-de-una-pcb-personalizada-para-los-circuitos">Diseño de una PCB personalizada para los circuitos</h2>
+<p>Se desarrollará una PCB (Placa de Circuito Impreso) personalizada que optimice el montaje, la organización y la funcionalidad de los componentes electrónicos del sistema WHTMet. Los objetivos principales de este diseño incluyen:</p>
+<h3 id="optimizacion-del-espacio-y-reduccion-de-cables">Optimización del espacio y reducción de cables:</h3>
+<div class="codehilite"><pre><span></span><code>    Integrar todos los componentes principales (microcontrolador, sensores, reguladores de voltaje, conectores de alimentación y comunicación) en una sola placa para minimizar el uso de cables y mejorar la organización interna del sistema.
+</code></pre></div>
+
+<h3 id="compatibilidad-con-sensores-y-modulos-modulares">Compatibilidad con sensores y módulos modulares:</h3>
+<div class="codehilite"><pre><span></span><code>    Diseñar la PCB con conectores estándar (como JST o headers) para facilitar la conexión de diferentes sensores y módulos adicionales, promoviendo la personalización y escalabilidad del sistema según las necesidades del usuario.
+</code></pre></div>
+
+<h3 id="eficiencia-energetica">Eficiencia energética:</h3>
+<div class="codehilite"><pre><span></span><code>    Incorporar rutas optimizadas de alimentación y circuitos de gestión energética para minimizar las pérdidas y garantizar el funcionamiento estable en condiciones de bajo consumo energético.
+</code></pre></div>
+
+<h3 id="proteccion-y-durabilidad">Protección y durabilidad:</h3>
+<div class="codehilite"><pre><span></span><code>    Diseñar la PCB con un recubrimiento de máscara de soldadura resistente y, de ser posible, incluir un revestimiento conforme (conformal coating) que proteja los circuitos frente a humedad, polvo y vibraciones.
+</code></pre></div>
+
+<h3 id="diseno-compacto-y-modular">Diseño compacto y modular:</h3>
+<div class="codehilite"><pre><span></span><code>    Crear una PCB que sea compacta pero con áreas bien delimitadas para cada función (alimentación, comunicación, sensores), facilitando el mantenimiento y la identificación de componentes.
+</code></pre></div>
+
+<h3 id="preparacion-para-produccion-escalable">Preparación para producción escalable:</h3>
+<div class="codehilite"><pre><span></span><code>    Diseñar la PCB para que sea fabricable en procesos estándar de bajo costo, asegurando la posibilidad de producir en mayores volúmenes si el sistema se replica ampliamente.
+</code></pre></div>
+
+<h3 id="pruebas-de-diseno-y-validacion">Pruebas de diseño y validación:</h3>
+<div class="codehilite"><pre><span></span><code>    Simular y validar el diseño con herramientas de software como KiCad o Eagle antes de la fabricación, realizando prototipos iniciales para pruebas de funcionalidad y compatibilidad en el entorno real.
+</code></pre></div>
+
+<h3 id="documentacion-completa">Documentación completa:</h3>
+<div class="codehilite"><pre><span></span><code>    Generar una documentación completa del diseño de la PCB (esquemáticos, BOM y archivos Gerber) y ofrecerla bajo licencias abiertas, para que pueda ser replicada y adaptada por otros usuarios interesados en el proyecto.
+</code></pre></div>
+
+<h2 id="revision-y-mejora-del-diseno-de-la-caja-que-alberga-los-circuitos">Revisión y mejora del diseño de la caja que alberga los circuitos</h2>
+<p>El diseño de la caja que protege los circuitos será reversionado con un enfoque en resiliencia, modularidad y sostenibilidad. Los principales objetivos de esta revisión son:</p>
+<h3 id="materiales-y-durabilidad">Materiales y durabilidad:</h3>
+<div class="codehilite"><pre><span></span><code>    Evaluar el uso de materiales reciclados o bioplásticos para reducir el impacto ambiental, garantizando resistencia a la intemperie, como exposición a la radiación UV, lluvia y temperaturas extremas.
+    Implementar un acabado con recubrimientos impermeables y resistentes al desgaste, como esmaltes protectores que aumenten la vida útil de la caja.
+</code></pre></div>
+
+<h3 id="diseno-modular">Diseño modular:</h3>
+<div class="codehilite"><pre><span></span><code>    Reconfigurar la caja para permitir un acceso rápido y sencillo a los componentes internos mediante paneles extraíbles o bisagras selladas. Esto facilitará tareas de mantenimiento y reemplazo de partes sin comprometer la protección del sistema.
+</code></pre></div>
+
+<h3 id="mejora-del-sellado">Mejora del sellado:</h3>
+<div class="codehilite"><pre><span></span><code>    Incorporar juntas de goma o silicona en los bordes y puertos de la caja para garantizar un cierre hermético que proteja contra polvo, humedad y plagas. Adicionalmente, el uso de sprays de silicona ayudará a reforzar la impermeabilidad.
+</code></pre></div>
+
+<h3 id="sistema-de-ventilacion-pasiva">Sistema de ventilación pasiva:</h3>
+<div class="codehilite"><pre><span></span><code>    Integrar un sistema de ventilación pasiva mediante pequeños respiraderos con filtros hidrofóbicos, que permitan el intercambio de aire para evitar la condensación interna sin exponer los componentes al agua o al polvo.
+</code></pre></div>
+
+<h3 id="personalizacion-y-escalabilidad">Personalización y escalabilidad:</h3>
+<div class="codehilite"><pre><span></span><code>    Diseñar la caja con ranuras o espacios predefinidos para expandirla fácilmente, permitiendo la inclusión de nuevos sensores o módulos según las necesidades del usuario.
+</code></pre></div>
+
+<h3 id="sistemas-de-montaje">Sistemas de montaje:</h3>
+<div class="codehilite"><pre><span></span><code>    Optimizar las opciones de instalación mediante soportes ajustables para montaje en postes, paredes o incluso estructuras temporales, asegurando su adaptabilidad a diferentes contextos rurales.
+</code></pre></div>
+
+<h3 id="validacion-ergonomica-y-pruebas-de-campo">Validación ergonómica y pruebas de campo:</h3>
+<div class="codehilite"><pre><span></span><code>    Realizar pruebas en entornos reales para asegurar que el diseño sea intuitivo para los usuarios finales, incluyendo ajustes en el peso, tamaño y facilidad de manipulación.
+</code></pre></div>
+
+<h3 id="conectividad-y-accesibilidad-de-datos">Conectividad y accesibilidad de datos</h3>
+<div class="codehilite"><pre><span></span><code>Aplicación móvil o web accesible: Desarrollar una aplicación sencilla y accesible, compatible con smartphones de bajo costo, que permita visualizar los datos en tiempo real y recibir alertas automáticas sobre condiciones climáticas críticas. Esto facilita el acceso a la información sin necesidad de equipos costosos o complejos.
+Interfaz sencilla y multilingüe: Asegurar que la interfaz sea fácil de usar, incluso para personas con poca experiencia tecnológica, y ofrecerla en múltiples idiomas locales para garantizar su accesibilidad en diversas comunidades.
+</code></pre></div>
+
+<h3 id="sensores-de-bajo-costo-y-alta-fiabilidad">Sensores de bajo costo y alta fiabilidad</h3>
+<div class="codehilite"><pre><span></span><code>Selección de sensores económicos pero precisos: Elegir sensores meteorológicos asequibles pero confiables, como los sensores de temperatura, humedad y velocidad del viento, que puedan ser fácilmente calibrados y reemplazados por los propios usuarios.
+Integración con sensores adicionales: Considerar la posibilidad de integrar sensores de calidad del aire, radiación solar o humedad del suelo, lo que ampliaría las aplicaciones del sistema sin aumentar considerablemente los costos.
+</code></pre></div>
+
+<h3 id="mantenimiento-sencillo-y-accesible">Mantenimiento sencillo y accesible</h3>
+<div class="codehilite"><pre><span></span><code>Reemplazo fácil de componentes: Diseñar el sistema de manera que los usuarios puedan reemplazar partes defectuosas sin necesidad de conocimientos técnicos avanzados, utilizando un sistema de conectores estándar y componentes modulares.
+Instrucciones claras para el mantenimiento: Crear manuales y tutoriales accesibles, que no solo describan la instalación inicial, sino también cómo realizar el mantenimiento preventivo y reparar problemas comunes.
+</code></pre></div>
+
+<h3 id="optimizacion-energetica-y-gestion-eficiente-de-recursos">Optimización energética y gestión eficiente de recursos</h3>
+<div class="codehilite"><pre><span></span><code>Uso de energías renovables: Además de los paneles solares, explorar la posibilidad de integrar pequeñas turbinas eólicas o sistemas de energía cinética (por ejemplo, generadores de baja energía que aprovechan el viento o el movimiento) para garantizar la autosuficiencia energética en diferentes condiciones ambientales.
+Gestión inteligente de energía: Implementar un sistema de gestión de energía que regule el consumo del dispositivo, priorizando el uso de energía renovable y almacenada, y reduciendo el consumo en períodos de baja demanda.
+</code></pre></div>
+
+<h3 id="resiliencia-ante-condiciones-climaticas-extremas">Resiliencia ante condiciones climáticas extremas</h3>
+<div class="codehilite"><pre><span></span><code>Carcasa resistente y protección ante condiciones adversas: Diseñar una caja protectora que sea resistente al agua, polvo y temperaturas extremas, asegurando que el sistema funcione sin problemas en entornos rurales con condiciones climáticas variables.
+Protección contra sobretensiones: Incorporar mecanismos de protección para evitar daños en los componentes electrónicos por fluctuaciones o picos de voltaje, algo que es común en áreas sin infraestructura eléctrica estable.
+</code></pre></div>
+
+<h3 id="facilidad-de-expansion-y-escalabilidad">Facilidad de expansión y escalabilidad</h3>
+<div class="codehilite"><pre><span></span><code>Sistema escalable: Permitir que el sistema pueda ser fácilmente ampliado para monitorear más parámetros o conectar múltiples estaciones en una red, ofreciendo la posibilidad de cubrir grandes áreas de plantaciones o integrar datos de diversas fuentes para un análisis más completo.
+Compatibilidad con otras tecnologías abiertas: Asegurar que el sistema sea compatible con otros dispositivos y plataformas de código abierto, como plataformas de agricultura de precisión o redes de sensores, para que pueda integrarse fácilmente con otras soluciones tecnológicas de los usuarios.
+</code></pre></div>
+
+<h3 id="datos-abiertos-y-analisis-predictivo">Datos abiertos y análisis predictivo</h3>
+<div class="codehilite"><pre><span></span><code>Plataforma de datos abiertos: Desarrollar una plataforma de datos abiertos donde los usuarios puedan compartir sus datos con otros productores o investigadores. Esto fomenta la colaboración y el uso compartido de información climática para mejorar la toma de decisiones a nivel comunitario.
+Análisis predictivo: Utilizar herramientas de análisis de datos para generar pronósticos climáticos basados en los datos históricos y en tiempo real, lo que permitiría a los usuarios anticipar condiciones adversas y ajustar sus prácticas de manera proactiva (por ejemplo, planificar riegos o cosechas según pronósticos de sequía o lluvias).
+</code></pre></div>
+
+<h3 id="educacion-y-empoderamiento-tecnologico">Educación y empoderamiento tecnológico</h3>
+<div class="codehilite"><pre><span></span><code>Capacitación continua: Ofrecer programas de formación y talleres para productores rurales, orientados a enseñarles a usar el sistema, interpretar los datos y tomar decisiones basadas en la información obtenida.
+Fomentar la colaboración entre productores: Crear una red de apoyo entre los usuarios del sistema, fomentando el intercambio de experiencias y conocimientos sobre el uso de la tecnología y las mejores prácticas agrícolas y forestales.
+</code></pre></div>
+
+<h3 id="incorporacion-de-mecanismos-de-auto-diagnostico">Incorporación de mecanismos de auto-diagnóstico</h3>
+<div class="codehilite"><pre><span></span><code>    Diseñar un sistema que monitoree el estado de los sensores y otros componentes electrónicos, generando alertas en caso de fallos o degradación en el rendimiento. Esto permitirá un mantenimiento más proactivo y reducirá el tiempo de inactividad del sistema.
+</code></pre></div>
+
+<h3 id="optimizacion-del-firmware">Optimización del firmware</h3>
+<div class="codehilite"><pre><span></span><code>    Refinar el código del firmware para reducir el consumo energético de los microcontroladores y mejorar la eficiencia de la recolección, transmisión y almacenamiento de datos. Esto es crucial para operaciones en áreas donde la energía es limitada.
+</code></pre></div>
+
+<h3 id="integracion-de-almacenamiento-local-de-datos">Integración de almacenamiento local de datos</h3>
+<div class="codehilite"><pre><span></span><code>    Incluir una tarjeta SD o memoria flash en el sistema para almacenar datos localmente en caso de interrupciones en la conectividad a internet. Esto garantizará que no se pierdan datos importantes durante períodos de desconexión.
+</code></pre></div>
+
+<h3 id="automatizacion-del-despliegue-en-nuevos-dispositivos">Automatización del despliegue en nuevos dispositivos</h3>
+<div class="codehilite"><pre><span></span><code>    Crear scripts y configuraciones que permitan configurar y desplegar rápidamente nuevos nodos del sistema sin necesidad de intervención técnica avanzada, reduciendo el tiempo y la complejidad de la implementación.
+</code></pre></div>
+
+<h3 id="soporte-para-multiples-fuentes-de-energia">Soporte para múltiples fuentes de energía</h3>
+<div class="codehilite"><pre><span></span><code>    Diseñar el sistema para ser compatible con diferentes fuentes de energía, como celdas de hidrógeno o generadores manuales, además de paneles solares. Esto aumentará la versatilidad del dispositivo en entornos rurales con recursos variables.
+</code></pre></div>
+
+<h3 id="estudio-y-aplicacion-de-materiales-locales">Estudio y aplicación de materiales locales</h3>
+<div class="codehilite"><pre><span></span><code>    Investigar el uso de materiales reciclados o disponibles localmente (como madera tratada, plásticos reciclados o bioplásticos) para construir las cajas y otras partes físicas del sistema, reduciendo costos y promoviendo la sostenibilidad.
+</code></pre></div>
+
+<h3 id="diseno-de-herramientas-para-analisis-comparativo-de-datos">Diseño de herramientas para análisis comparativo de datos</h3>
+<div class="codehilite"><pre><span></span><code>    Incorporar en la plataforma una función que permita comparar datos históricos con datos en tiempo real, ayudando a los productores a identificar tendencias y realizar análisis más detallados sobre el comportamiento climático.
+</code></pre></div>
+
+<h3 id="resiliencia-frente-a-condiciones-extremas">Resiliencia frente a condiciones extremas</h3>
+<div class="codehilite"><pre><span></span><code>    Diseñar el sistema para resistir vibraciones, fluctuaciones extremas de temperatura y descargas electrostáticas, asegurando su funcionalidad en climas severos o terrenos con actividad industrial cercana.
+</code></pre></div>
+
+<h3 id="capacidades-de-expansion-remota">Capacidades de expansión remota</h3>
+<div class="codehilite"><pre><span></span><code>    Permitir actualizaciones del firmware y ajustes de configuración de manera remota, utilizando tecnologías OTA (Over-the-Air). Esto reducirá la necesidad de intervención física en estaciones desplegadas en zonas de difícil acceso.
+</code></pre></div>
+
+<h3 id="interfaz-de-usuario-personalizable">Interfaz de usuario personalizable</h3>
+<div class="codehilite"><pre><span></span><code>Diseñar una interfaz que permita a los usuarios personalizar qué datos visualizar y en qué formato (tablas, gráficos, alertas), adaptándose a diferentes niveles de conocimiento técnico y necesidades específicas de cada comunidad.
+</code></pre></div>
+
+<h3 id="enfoque-en-la-economia-circular">Enfoque en la economía circular</h3>
+<div class="codehilite"><pre><span></span><code>Implementar estrategias de reutilización de componentes electrónicos de dispositivos desechados (como computadoras viejas o teléfonos móviles), para integrarlos en la construcción de estaciones meteorológicas. Esto reduce costos y residuos electrónicos.
+</code></pre></div>
+
+<h3 id="diseno-centrado-en-la-portabilidad">Diseño centrado en la portabilidad</h3>
+<div class="codehilite"><pre><span></span><code>Crear una versión portátil del sistema que permita monitorear áreas móviles, como campos de pastoreo o terrenos en rotación, proporcionando flexibilidad a los usuarios rurales con necesidades más dinámicas.
+</code></pre></div>
+
+<h3 id="certificacion-de-compatibilidad-ambiental">Certificación de compatibilidad ambiental</h3>
+<div class="codehilite"><pre><span></span><code>Asegurar que el sistema cumpla con normativas de sostenibilidad y certificaciones como RoHS (Restricción de Sustancias Peligrosas), reforzando su compromiso con el impacto ambiental mínimo.
+</code></pre></div>
+
+<h3 id="integracion-con-servicios-externos-de-datos-meteorologicos">Integración con servicios externos de datos meteorológicos</h3>
+<div class="codehilite"><pre><span></span><code>Incorporar la capacidad de combinar datos locales con información de servicios meteorológicos globales, para mejorar la precisión de los análisis y ofrecer un contexto más amplio a los productores.
+</code></pre></div>
+
+<h3 id="incorporacion-de-elementos-educativos">Incorporación de elementos educativos</h3>
+<div class="codehilite"><pre><span></span><code>Diseñar funciones o materiales adicionales que permitan a los usuarios aprender sobre conceptos básicos de meteorología, IoT y sostenibilidad, fomentando la alfabetización tecnológica y ambiental.
+</code></pre></div>
+
+<h3 id="automatizacion-en-la-interpretacion-de-datos">Automatización en la interpretación de datos</h3>
+<div class="codehilite"><pre><span></span><code>Incluir algoritmos que no solo presenten datos, sino que generen recomendaciones automáticas (por ejemplo, &quot;riego recomendado en 2 días debido a niveles bajos de humedad del suelo&quot;).
+</code></pre></div>
+
+<h3 id="capacidad-para-funcionar-en-red-hibrida">Capacidad para funcionar en red híbrida</h3>
+<div class="codehilite"><pre><span></span><code>Habilitar el sistema para operar tanto de manera autónoma como en red con otros sistemas locales, generando datos centralizados y análisis a nivel regional.
+</code></pre></div>
+
+<h3 id="colaboracion-con-redes-comunitarias">Colaboración con redes comunitarias</h3>
+<div class="codehilite"><pre><span></span><code>Diseñar el sistema para integrarse en plataformas comunitarias donde los productores puedan compartir datos y estrategias, fomentando la cooperación en la toma de decisiones.
+</code></pre></div>
+
+<h3 id="integracion-de-tecnologias-de-bajo-costo-como-e-paper">Integración de tecnologías de bajo costo como e-paper</h3>
+<div class="codehilite"><pre><span></span><code>Considerar el uso de pantallas e-paper de bajo consumo energético para mostrar información clave directamente en la estación, permitiendo el acceso a datos incluso sin conexión a dispositivos externos.
+</code></pre></div>
+
+<h3 id="simulacion-previa-a-la-implementacion">Simulación previa a la implementación</h3>
+<div class="codehilite"><pre><span></span><code>Crear simulaciones digitales del sistema en diferentes escenarios rurales para identificar posibles fallos y optimizar el diseño antes del despliegue físico.
+</code></pre></div>
                 
                   
                     
@@ -715,7 +896,7 @@
     <div class="md-footer-nav">
       <nav class="md-footer-nav__inner md-grid" aria-label="Pie">
         
-          <a href="../whtmet-disyfun/" title="Diseño y Funcionalidad" class="md-footer-nav__link md-footer-nav__link--prev" rel="prev">
+          <a href="../whtmet-recursos/" title="Recursos del Proyecto" class="md-footer-nav__link md-footer-nav__link--prev" rel="prev">
             <div class="md-footer-nav__button md-icon">
               <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12z"/></svg>
             </div>
@@ -724,19 +905,19 @@
                 <span class="md-footer-nav__direction">
                   Anterior
                 </span>
-                Diseño y Funcionalidad
+                Recursos del Proyecto
               </div>
             </div>
           </a>
         
         
-          <a href="../whtmet-armado/" title="Armado del Prototipo" class="md-footer-nav__link md-footer-nav__link--next" rel="next">
+          <a href="../whtmet-conclyrefl/" title="Conclusiones y Reflexión" class="md-footer-nav__link md-footer-nav__link--next" rel="next">
             <div class="md-footer-nav__title">
               <div class="md-ellipsis">
                 <span class="md-footer-nav__direction">
                   Siguiente
                 </span>
-                Armado del Prototipo
+                Conclusiones y Reflexión
               </div>
             </div>
             <div class="md-footer-nav__button md-icon">
