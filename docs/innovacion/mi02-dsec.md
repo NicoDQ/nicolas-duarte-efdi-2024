@@ -3,7 +3,7 @@ hide:
     - toc
 ---
 
-# MI02 - Desarrollo Sostenible y Economia Circular
+# MI02 - Desarrollo Sostenible y Economía Circular
 
 ## Introducción
 
