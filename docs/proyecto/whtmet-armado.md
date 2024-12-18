@@ -9,10 +9,19 @@ hide:
 
 En esta sección detallaré los pasos a seguir para armar un Nodo de WHTMet.
 
+Antes de comenzar, dejaré el esquemático para que puedas tenerlo presente en el proceso de armado, en el momento que lo necesites:
+
+
+- **Esquema Conexionado WHTMet.**
+
+<figure markdown="span">
+  ![Imagen 1 - Armado - Esquema Conexionado WHTMet](../images/PF2/armado/1.jpeg#soloBordesRed)
+</figure>
+
 - **Armado de los LEDs (pilotos) tanto de MQTT como el de InfluxDB.**
 
 <figure markdown="span">
-  ![Imagen 1 - Armado - Pilotos MQTT y InfluxDB](../images/PF2/armado/1.jpeg#soloBordesRed)
+  ![Imagen 1 - Armado - Pilotos MQTT y InfluxDB](../images/PF2/armado/Diagrama de Conexionado - WHTMet.png#soloBordesImgG)
 </figure>
 
 
@@ -212,7 +221,6 @@ Si seguimos correctamente los pasos anteriormente detallados, tendríamos algo s
 <video width="600" controls style="display: block; margin: 0 auto; border-radius: 5%; padding: 5px;">
   <source src="../../videos/armCabSHT31-4.mp4" type="video/mp4">
 </video>
-
 
 - **Montaje de Protoboard y ESP32.**
 
