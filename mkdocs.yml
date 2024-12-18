@@ -37,6 +37,7 @@ nav:
           - Introducción: "proyecto/whtmet-intro.md"
           - Diseño y Prototipado: "proyecto/whtmet-disyprot.md"
           - Diseño y Funcionalidad: "proyecto/whtmet-disyfun.md"
+          - Lista de Materiales (BOM): "proyecto/whtmet-bom.md"          
           - Codigo ESP32: "proyecto/whtmet-codigoEsp32.md"
           - Armado del Prototipo: "proyecto/whtmet-armado.md"
           - Recursos del Proyecto: "proyecto/whtmet-recursos.md"
