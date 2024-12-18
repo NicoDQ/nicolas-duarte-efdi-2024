@@ -12,7 +12,7 @@ Este apartado centraliza todos los recursos utilizados para la presentación fin
 ## Presentación Genially
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0;">
-  <iframe src="https://view.genially.com/674d12f2632d64d49ef607fb" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" allowfullscreen></iframe>
+  <iframe src="https://view.genially.com/6762c3f3f4ff91a53c634781" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" allowfullscreen></iframe>
 </div>
 
 ## Video Producto
