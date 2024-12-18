@@ -83,20 +83,18 @@ En esta sección detallaré los componentes necesarios para armar un Nodo de WHT
 
 - **Cantidades y Costo de los Componentes:**
 
-| **Componente**                          | **Cantidad** | **Especificaciones**                          | **Proveedor**       | **Precio Unitario (USD)** | **Costo Total (USD)** |
-|-----------------------------------------|--------------|-----------------------------------------------|---------------------|---------------------------|-----------------------|
-| Sensor SHT31                            | 1            | I2C, Precisión ±2% HR, ±0.3 °C Temp           | DigiKey             | 12.00                     | 12.00                 |
-| Sensor DHT11                            | 1            | Rango: 0-50 °C, 20-90% HR                     | Amazon              | 3.50                      | 3.50                  |
-| Insertos de Latón M3 (3mm x 4mm)        | 4            | Rosca M3, Material: Latón                     | Aliexpress          | 0.10                      | 0.40                  |
-| Tornillos M3 (8mm)                      | 4            | Material: Acero Inoxidable                    | Ferretería Local    | 0.05                      | 0.20                  |
-| ESP32-WROOM-32U (CP1202)                | 1            | Wi-Fi + BT, Microcontrolador                  | Amazon              | 6.00                      | 6.00                  |
-| Antena 2.4 GHz, 3dBi                    | 1            | Frecuencia: 2.4 GHz, Ganancia: 3dBi           | AliExpress          | 1.50                      | 1.50                  |
-| Módulo RGB 3_C1r                        | 1            | 3 LEDs RGB, 5V                                | eBay                | 2.00                      | 2.00                  |
-| Diodos LED (Color Rojo)                 | 2            | 5mm, 20mA, Color Rojo                         | DigiKey             | 0.10                      | 0.20                  |
-| Diodos LED (Color Azul)                 | 2            | 5mm, 20mA, Color Azul                         | DigiKey             | 0.15                      | 0.30                  |
-| Resistencias 220 Ohms                   | 10           | 1/4W, 5%                                     | DigiKey             | 0.02                      | 0.20                  |
-| Sensor Hall KY-003                      | 1            | Voltaje: 5V, Salida Digital                   | Banggood            | 1.50                      | 1.50                  |
-| Protoboard                              | 1            | 830 puntos                                    | Amazon              | 3.00                      | 3.00                  |
-| Set de Cables para Protoboard           | 1            | 65 cables macho-macho                         | Amazon              | 2.00                      | 2.00                  |
-
-| **Total (USD)**                         |              |                                               |                     |                           | **31.80**            |
+| **Componente**                          | **Cantidad** | **Especificaciones**                          | **Proveedor**                                                                                   | **Precio Unitario (USD)** | **Costo Total (USD)** |
+|-----------------------------------------|--------------|-----------------------------------------------|-------------------------------------------------------------------------------------------------|---------------------------|-----------------------|
+| Sensor SHT31                            | 1            | I2C, 0-100% RH, -40°C a +125°C, RH tau63%: 8s | [AliExpress](https://es.aliexpress.com/item/1005006068631562.html?spm=a2g0o.order_list.order_list_main.41.5fda194daOznhO&gatewayAdapt=glo2esp4itemAdapt#nav-specification) | 6.80                      | 6.80                  |
+| Sensor DHT11                            | 1            | Rango: 0-50 °C, 20-90% HR                     | [AliExpress](https://es.aliexpress.com/item/4001253056515.html?spm=a2g0o.productlist.main.1.1e012fb5RLTVYp) | 0.69                      | 0.69                  |
+| Sensor Hall                             | 1            | Detección magnética                           | [AliExpress](https://es.aliexpress.com/item/1005004737218969.html?spm=a2g0o.productlist.main.9.6fe453207TK88e) | 0.54                      | 0.54                  |
+| Insertos de Latón M3 (3mm x 4mm)        | 6            | Rosca M3, Material: Latón                     | [AliExpress](https://es.aliexpress.com/item/32890237459.html)                                    | 0.04                      | 0.24                  |
+| Tornillos M3 (8mm)                      | 6            | Material: Acero Inoxidable                    | [AliExpress](https://es.aliexpress.com/item/32810852732.html)                                   | 0.03                      | 0.18                  |
+| ESP32-WROOM-32U (CP1202)                | 1            | Wi-Fi + BT, Microcontrolador                  | [AliExpress](https://es.aliexpress.com/item/1005007498353201.html)                              | 8.28                      | 8.28                  |
+| Antena 2.4 GHz, 3dBi                    | 1            | Frecuencia: 2.4 GHz, Ganancia: 3dBi           | [AliExpress](https://es.aliexpress.com/item/1005005218090899.html)                              | 0.86                      | 0.86                  |
+| Módulo RGB 3_C1r                        | 2            | 3 LEDs RGB, 5V                                | [AliExpress](https://es.aliexpress.com/item/1005006856783025.html)                              | 0.18                      | 0.36                  |
+| Diodos LED (Color Rojo)                 | 2            | 5mm, 20mA, Color Rojo                         | [AliExpress](https://es.aliexpress.com/item/32843059560.html)                                   | 0.04                      | 0.08                  |
+| Diodos LED (Color Azul)                 | 2            | 5mm, 20mA, Color Azul                         | [AliExpress](https://es.aliexpress.com/item/32843059560.html)                                   | 0.04                      | 0.08                  |
+| Resistencias 220 Ohms                   | 2            | 1/4W, 5%                                     | [AliExpress](https://es.aliexpress.com/item/1005002991904292.html)                              | 0.03                      | 0.06                  |
+| Protoboard (400 puntos)                 | 1            | 400 puntos                                    | [AliExpress](https://es.aliexpress.com/item/1005003073275216.html)                              | 1.72                      | 1.72                  |
+| Set de Cables para Protoboard           | 1            | 40 cables                                     | [AliExpress](https://es.aliexpress.com/item/1005003073275216.html)                              | 1.06                      | 1.06                  |
