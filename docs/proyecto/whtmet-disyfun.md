@@ -104,7 +104,7 @@ InfluxDB es una base de datos especializada en la gestión de datos temporales, 
 
 ![Imagen de PostgreSQL](../images/PF2/imagenesTec/postgresql.png#soloBordesImgP){ align=left }
 
-Por otro lado, PostgreSQL, una base de datos relacional de código abierto, se emplea para gestionar otros aspectos del sistema que requieren un almacenamiento estructurado, como los datos de usuarios, configuraciones y coordenadas geográficas de los puntos de monitoreo. Ambos sistemas de bases de datos trabajan de manera conjunta para ofrecer un almacenamiento eficiente y accesible de grandes volúmenes de datos climáticos.
+Por otro lado, PostgreSQL se utiliza en este proyecto para migrar los datos desde InfluxDB, creando un respaldo histórico de los mismos. Este proceso de migración se realiza a través de una tarea automatizada que actualiza los datos en PostgreSQL cada 6 horas, garantizando la conservación de un historial preciso y accesible de los datos climáticos almacenados en InfluxDB. Ambos sistemas de bases de datos trabajan de manera conjunta para asegurar tanto la eficiencia en el almacenamiento como la integridad de la información a largo plazo.
 
 ## ESP32 y Sensores
 
@@ -118,7 +118,8 @@ El ESP32 es un microcontrolador de bajo costo y alto rendimiento que se utiliza 
 
 Los sensores de bajo costo, que miden variables como la temperatura, la humedad y el viento, proporcionan los datos necesarios para optimizar la gestión de las plantaciones de eucalipto, permitiendo a los gestores tomar decisiones informadas sobre el riego y el cuidado forestal.
 
-
+<br>
+<br>
 
 ## Diseño Abierto y Personalización
 
