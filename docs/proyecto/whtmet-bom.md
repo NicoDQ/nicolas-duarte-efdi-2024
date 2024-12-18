@@ -98,3 +98,9 @@ En esta sección detallaré los componentes necesarios para armar un Nodo de WHT
 | Resistencias 220 Ohms                   | 2            | 1/4W, 5%                                     | [AliExpress](https://es.aliexpress.com/item/1005002991904292.html)                              | 0.03                      | 0.06                  |
 | Protoboard (400 puntos)                 | 1            | 400 puntos                                    | [AliExpress](https://es.aliexpress.com/item/1005003073275216.html)                              | 1.72                      | 1.72                  |
 | Set de Cables para Protoboard           | 1            | 40 cables                                     | [AliExpress](https://es.aliexpress.com/item/1005003073275216.html)                              | 1.06                      | 1.06                  |
+
+- **Resumen de Costo Total:**
+
+Sumando todos los componentes:
+
+6.80 + 0.69 + 0.54 + 0.24 + 0.18 + 8.28 + 0.86 + 0.36 + 0.08 + 0.08 + 0.06 + 1.72 + 1.06 = 20.95 USD
