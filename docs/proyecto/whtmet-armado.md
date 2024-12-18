@@ -47,6 +47,8 @@ En esta sección detallaré los pasos a seguir para armar un Nodo de WHTMet.
 
 - **Colocación de los conectores PG7 en la caja.**
 
+Es importante mencionar aquí que si se puede utilizar otro tipo de pegamento, que no sea cianocrilato, será mejor, debido a que si la caja se expone a temperaturas altas, el cianocrilato se podría cristalizar y despegar los imanes del lugar.
+
 <figure markdown="span">
   ![Imagen 1 - Armado - Caja y PG7](../images/PF2/armado/8.jpeg#soloBordesRed)
 </figure>
