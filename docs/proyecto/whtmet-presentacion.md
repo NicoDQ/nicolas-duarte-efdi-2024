@@ -5,7 +5,7 @@ hide:
 
 # Proyecto Final: WHTMet - Estación Meteorológica IoT
 
-# Presentación Final - EFDI
+## Presentación Final - EFDI
 
 Este apartado centraliza todos los recursos utilizados para la presentación final de la Especialización en Fabricación Digital e Innovación de UTEC y el FabLab de Barcelona.
 
