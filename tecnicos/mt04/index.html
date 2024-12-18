@@ -712,8 +712,8 @@
 
 
   <li class="md-nav__item">
-    <a href="../../proyecto/whtmet-presentacion/" title="Presentación EFDI" class="md-nav__link">
-      Presentación EFDI
+    <a href="../../proyecto/whtmet-presentacion/" title="Presentación Final EFDI" class="md-nav__link">
+      Presentación Final EFDI
     </a>
   </li>
 
@@ -944,6 +944,9 @@
 <p>Primero lo que realicé es el diseño de las barreras y los soportes para los servomotores, luego lo imprimí en la impresora 3d, obteniendo así el objeto físico para armar la barrera de paso completa.
 Luego, con todos los componentes reunidos del Kit, me puse a interconectar cada uno con la placa Arduino, resultándome:</p>
 <h2 id="esquema-de-conexion-del-proyecto">Esquema de Conexión del Proyecto</h2>
+<figure>
+  <img alt="Imagen de SG90 2" src="../../images/MT04/EsquemaConexionesMT04.png" width="600" />
+</figure>
 <p>Para efectos de aclarar, el esquema presentado se basa en los siguiente:
 (PIN_DEL_COMPONENTE) -&gt; (PIN_DEL_ARDUINO)</p>
 <p>Lector RFID RC522:</p>
@@ -954,6 +957,7 @@ Luego, con todos los componentes reunidos del Kit, me puse a interconectar cada 
 <li>IMI -&gt; PIND 12</li>
 <li>GND -&gt; GND</li>
 <li>RST -&gt; PIND 9</li>
+<li>5V -&gt; 5V</li>
 </ol>
 <p>(PIN RQ se deja libre)</p>
 <p>Sensor de Humedad y Temperatura DHT11:</p>
