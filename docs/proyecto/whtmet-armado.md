@@ -334,7 +334,7 @@ Si seguimos correctamente los pasos anteriormente detallados, tendríamos algo s
   <source src="../../videos/armPilIDByMQTT-2.mp4" type="video/mp4">
 </video>
 
-- **Conexion de la antenna WiFi.**
+- **Conexion de la antena WiFi.**
 
 <video width="600" controls style="display: block; margin: 0 auto; border-radius: 5%; padding: 5px;">
   <source src="../../videos/armConAntena.mp4" type="video/mp4">

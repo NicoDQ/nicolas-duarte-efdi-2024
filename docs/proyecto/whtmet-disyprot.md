@@ -19,7 +19,7 @@ Adjunto por aquí debajo los primeros bocetos y las ideas tomadas al inicio del 
   ![Imagen 2 - Diseño y Prototipado - Bocetos Iniciales](../images/PF2/bocetosIniciales/2.jpeg#whtmet-imgGen) 
 </figure>
 
-Una vez que los bocetos iniciales estuvieron listos, pasé a trabajar en modelos 3D utilizando programas de CAD (particularmente Fusion 360), lo que permitió crear representaciones digitales más precisas y detalladas de cada pieza del sistema. Estos modelos no solo ayudaron a visualizar el producto final, sino que también facilitaron la verificación de las dimensiones y la integración de los componentes, garantizando que todo encajara correctamente y que no hubiera interferencias entre los circuitos y las estructuras físicas. Ya que a medida que realizaba los modelos, los iba imprimiendo para tenerlos fisicamente e ir prototipando:
+Una vez que los bocetos iniciales estuvieron listos, pasé a trabajar en modelos 3D utilizando programas de CAD (particularmente Fusion 360), lo que permitió crear representaciones digitales más precisas y detalladas de cada pieza del sistema. Estos modelos no sólo ayudaron a visualizar el producto final, sino que también facilitaron la verificación de las dimensiones y la integración de los componentes, garantizando que todo encajara correctamente y que no hubiera interferencias entre los circuitos y las estructuras físicas. Ya que a medida que realizaba los modelos, los iba imprimiendo para tenerlos fisicamente e ir prototipando:
 
 
 ##  Diseño y Prototipado - Caja/Carcasa - Imágenes
@@ -223,7 +223,7 @@ El diseño de los circuitos fue clave en este proceso, ya que los dispositivos d
 
 ##  Diseño y Prototipado - Pruebas de Medición
 
-Para aproximar el resultado de medición del viento, cargue el equipo en el auto y conecte todo con la ayuda de unos amigos, poniendo el vehiculo a 30 km/m por la computadora (Velocidad Crucero) e ir tomando las medidas del anemómetro intentando llevar el valor del anemómetro, a la velocidad que marca el auto, luego de unos 40km de ir en tandas de 5km, corrigiendo el factor, llegué a un factor de 2.61 que es el mejor aproximado que conseguí en base a la prueba realizada, obviamente si bien esta prueba es bastante empírica, no es un resultado 100% fiable, debido a que para poder tener mediciones exáctas por los diferentes factores que pueden incidir en ella, para tener resultados aún mas certeros habría que comparar y medir contra un anemómetro comercial, de manera de llevar al mímino las correciones en las medidas.
+Para aproximar el resultado de medición del viento, cargue el equipo en el auto y conecte todo con la ayuda de unos amigos, poniendo el vehiculo a 30 km/m por la computadora (Velocidad Crucero) e ir tomando las medidas del anemómetro intentando llevar el valor del anemómetro, a la velocidad que marca el auto, luego de unos 40km de ir en tandas de 5km, corrigiendo el factor, llegué a un factor de 2.61 que es el mejor aproximado que conseguí en base a la prueba realizada, obviamente si bien esta prueba es bastante empírica, no es un resultado 100% fiable, debido a que para poder tener mediciones exactas por los diferentes factores que pueden incidir en ella, para tener resultados aún mas certeros habría que comparar y medir contra un anemómetro comercial, de manera de llevar al mínimo las correciones en las medidas.
 
 Aquí debajo dejo algunas fotos y videos del proceso:
 
@@ -275,7 +275,7 @@ Aquí debajo dejo algunas fotos y videos del proceso:
 
 El prototipado de los distintos componentes se realizó a través de impresión 3D como ya fue visto en los anteriores timelapses, esto me permitió iterar rápidamente en los diseños, hacer ajustes en tiempo real y probar diferentes configuraciones antes de pasar a la fase de producción. Este enfoque brinda justamente esa flexibilidad, me garantizó que cada iteración del prototipo fuera más eficiente y funcional, acercándome cada vez más a una solución que pudiera ser implementada y utilizada de manera práctica y económica por los futuros usuarios.
 
-El diseño y prototipado de WHTMet no solo consideró los aspectos técnicos y funcionales del sistema, sino que también priorizó la capacidad de adaptación, permitiendo que fuera una herramienta útil y práctica.
+El diseño y prototipado de WHTMet no sólo consideró los aspectos técnicos y funcionales del sistema, sino que también priorizó la capacidad de adaptación, permitiendo que fuera una herramienta útil y práctica.
 
 ## Prototipo
 
@@ -303,11 +303,11 @@ El prototipo hace uso de varias tecnologías de software y bases de datos para p
 
 - **InfluxDB:** InfluxDB, una base de datos especializada en time series (TSDB), es utilizada para almacenar las mediciones de los sensores a lo largo del tiempo. Esta base de datos permite una gestión eficiente de grandes volúmenes de datos temporales, asegurando un acceso rápido y preciso para su análisis posterior.
 
-- **PostgreSQL:** Los datos tomados se migran de InfluxDB a PostgreSQL. Esta base de datos relacional permite manejar de manera eficiente la información recabada por los sensores y mantener un respaldo historico de ello.
+- **PostgreSQL:** Los datos tomados se migran de InfluxDB a PostgreSQL. Esta base de datos relacional permite manejar de manera eficiente la información recabada por los sensores y mantener un respaldo histórico de ello.
 
 ### Interfaz de Usuario
 
-La interfaz de usuario se ha diseñado para proporcionar una experiencia intuitiva a los usuarios del sistema. En su estado actual, la interfaz incluye un mapa interactivo que se alimenta a través de la API de Google Maps, mostrando la ubicación georreferenciada de los nodos de sensores. Aunque por el momento solo hay un nodo activo, el diseño de la interfaz permite la fácil expansión del sistema para incluir más nodos a medida que se incorporen más puntos de monitoreo en la plantación.
+La interfaz de usuario se ha diseñado para proporcionar una experiencia intuitiva a los usuarios del sistema. En su estado actual, la interfaz incluye un mapa interactivo que se alimenta a través de la API de Google Maps, mostrando la ubicación georreferenciada de los nodos de sensores. Aunque por el momento sólo hay un nodo activo, el diseño de la interfaz permite la fácil expansión del sistema para incluir más nodos a medida que se incorporen más puntos de monitoreo en la plantación.
 
 ### Diseño e Integración
 

@@ -6,7 +6,7 @@ hide:
 
 # Proyecto Final: WHTMet - Estación Meteorológica IoT
 
-# Codigo Utilizado en ESP32
+# Código Utilizado en ESP32
 
 <figure markdown="span">
   ![Imagen - Código - Código usado en ESP32](../images/PF2/codigo/codigo-esp32.png#soloBordesImgG)

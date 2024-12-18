@@ -29,7 +29,7 @@ Diseñar la PCB con conectores estándar (como JST o headers) para facilitar la 
 Incorporar rutas optimizadas de alimentación y circuitos de gestión energética para minimizar las pérdidas y garantizar el funcionamiento estable en condiciones de bajo consumo energético.
 
 ### Protección y durabilidad:
-Diseñar la PCB con un recubrimiento de máscara de soldadura resistente y, de ser posible, incluir un revestimiento conforme (conformal coating) que proteja los circuitos frente a humedad, polvo y vibraciones, aquí también se evalua el uso del spray de silicona para sellado del circuito.
+Diseñar la PCB con un recubrimiento de máscara de soldadura resistente y, de ser posible, incluir un revestimiento conforme (conformal coating) que proteja los circuitos frente a humedad, polvo y vibraciones, aquí también se evalúa el uso del spray de silicona para sellado del circuito.
 
 ### Diseño compacto y modular:
 Crear una PCB que sea compacta pero con áreas bien delimitadas para cada función (alimentación, comunicación, sensores), facilitando el mantenimiento y la identificación de componentes.
@@ -47,9 +47,9 @@ Generar una documentación completa del diseño de la PCB (esquemáticos, BOM y 
 
 El diseño de la caja es otro aspecto que necesito reversionar. Estoy pensando en usar materiales más sostenibles, como bioplásticos o incluso reciclados, que sean resistentes a la intemperie y a temperaturas extremas. También voy a trabajar en el sellado, usando juntas de silicona (en principio) para garantizar que el agua, el polvo y los pequeños animales no entren.
 
-Además, quiero que sea fácil de abrir y mantener, así que estoy evaluando paneles desmontables o bisagras selladas. No menos importante, es de mi interes agregar algunos respiraderos con filtros hidrofóbicos para evitar condensación sin comprometer la protección. La caja debe ser funcional, modular y duradera, y planeo probarla en campo para asegurar que cumpla con todas estas expectativas.
+Además, quiero que sea fácil de abrir y mantener, así que estoy evaluando paneles desmontables o bisagras selladas. No menos importante, es de mi interés agregar algunos respiraderos con filtros hidrofóbicos para evitar condensación sin comprometer la protección. La caja debe ser funcional, modular y duradera, y planeo probarla en campo para asegurar que cumpla con todas estas expectativas.
 
-Con lo anterior, busco que el diseño de la caja que protege los circuitos será reversionado con un enfoque en resiliencia, modularidad y sostenibilidad. Los principales objetivos de esta revisión son:
+Con lo anterior, busco que el diseño de la caja que protege los circuitos sea reversionado con un enfoque en resiliencia, modularidad y sostenibilidad. Los principales objetivos de esta revisión son:
 
 ### Materiales y durabilidad:
 Evaluar el uso de materiales reciclados o bioplásticos para reducir el impacto ambiental, garantizando resistencia a la intemperie, como exposición a la radiación UV, lluvia y temperaturas extremas.
