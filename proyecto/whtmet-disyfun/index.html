@@ -762,12 +762,14 @@
   <img alt="Imagen - Diseño y Funcionalidad - Dashboard de InfluxDB" src="../../images/PF2/imagenesTec/influxDBDashboard.png#soloBordesImgG" />
 </figure>
 <p><img align="left" alt="Imagen de PostgreSQL" src="../../images/PF2/imagenesTec/postgresql.png#soloBordesImgP" /></p>
-<p>Por otro lado, PostgreSQL, una base de datos relacional de código abierto, se emplea para gestionar otros aspectos del sistema que requieren un almacenamiento estructurado, como los datos de usuarios, configuraciones y coordenadas geográficas de los puntos de monitoreo. Ambos sistemas de bases de datos trabajan de manera conjunta para ofrecer un almacenamiento eficiente y accesible de grandes volúmenes de datos climáticos.</p>
+<p>Por otro lado, PostgreSQL se utiliza en este proyecto para migrar los datos desde InfluxDB, creando un respaldo histórico de los mismos. Este proceso de migración se realiza a través de una tarea automatizada que actualiza los datos en PostgreSQL cada 6 horas, garantizando la conservación de un historial preciso y accesible de los datos climáticos almacenados en InfluxDB. Ambos sistemas de bases de datos trabajan de manera conjunta para asegurar tanto la eficiencia en el almacenamiento como la integridad de la información a largo plazo.</p>
 <h2 id="esp32-y-sensores">ESP32 y Sensores</h2>
 <p><img align="left" alt="Imagen de ESP32" src="../../images/PF2/imagenesTec/esp32.png#soloBordesImgP" /></p>
 <p>El ESP32 es un microcontrolador de bajo costo y alto rendimiento que se utiliza para conectar los sensores climáticos con la red y procesar las mediciones antes de enviarlas a las bases de datos. Su bajo consumo energético lo hace ideal para entornos remotos donde el acceso a fuentes de energía es limitado. Además, el ESP32 es modular y adaptable, lo que permite a los usuarios personalizar el sistema según sus necesidades, como agregar más sensores o integrar nuevas tecnologías sin complicaciones.</p>
 <p><img align="left" alt="Imagen de SHT31" src="../../images/PF2/imagenesTec/sht31.png#soloBordesImgP" /></p>
 <p>Los sensores de bajo costo, que miden variables como la temperatura, la humedad y el viento, proporcionan los datos necesarios para optimizar la gestión de las plantaciones de eucalipto, permitiendo a los gestores tomar decisiones informadas sobre el riego y el cuidado forestal.</p>
+<p><br>
+<br></p>
 <h2 id="diseno-abierto-y-personalizacion">Diseño Abierto y Personalización</h2>
 <p>El sistema de WHTMet se ha desarrollado bajo un enfoque de diseño abierto, lo que implica que todos los componentes y planos están disponibles para ser modificados y personalizados por cualquier comunidad o desarrollador. Esta apertura fomenta la colaboración y la innovación, permitiendo que los usuarios adapten el sistema a sus necesidades específicas, como la incorporación de sensores adicionales o la modificación de la estructura física. El acceso a los planos y a la documentación técnica también facilita la fabricación local y el uso de materiales reciclables, lo que refuerza la sostenibilidad y la autonomía de las comunidades.</p>
 <h2 id="distribucion-modular">Distribución Modular</h2>
